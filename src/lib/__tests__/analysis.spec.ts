@@ -156,7 +156,7 @@ describe('asymmetry — lente ideologia', () => {
     expect(asymmetry(story([...sources.values()]), sources, 'ideology').flagged).toBe(false)
   })
 
-  it('não sinaliza quando o lado oposto tem mais de 25%', () => {
+  it('não sinaliza quando o lado oposto tem mais de 30%', () => {
     const sources = mapOf([
       source('a', 'left'),
       source('b', 'left'),
@@ -165,7 +165,25 @@ describe('asymmetry — lente ideologia', () => {
       source('e', 'right'),
       source('f', 'right'),
     ])
-    expect(asymmetry(story([...sources.values()]), sources, 'ideology').flagged).toBe(false)
+    const result = asymmetry(story([...sources.values()]), sources, 'ideology')
+    expect(result.flagged).toBe(false)
+    expect(result.oppositeShare).toBeCloseTo(2 / 6)
+  })
+
+  it('sinaliza severidade moderada em proporção 3:1', () => {
+    const sources = mapOf([
+      source('a', 'left'),
+      source('b', 'left'),
+      source('c', 'left'),
+      source('d', 'right'),
+      source('e', 'center'),
+    ])
+    const result = asymmetry(story([...sources.values()]), sources, 'ideology')
+    expect(result.flagged).toBe(true)
+    expect(result.severity).toBe('moderate')
+    expect(result.dominantShare).toBeCloseTo(0.75)
+    expect(result.oppositeShare).toBeCloseTo(0.25)
+    expect(result.sourceCount).toBe(5)
   })
 
   it('trata cobertura só central como não sinalizada', () => {

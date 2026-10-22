@@ -39,7 +39,9 @@ Cada veículo recebe **um rating em cada lente**. Trocar a lente troca o campo l
 ## 5. Regra de assimetria
 
 **Lente ideologia** (possui `opposition`): lado A = `left + center-left`, lado B = `center-right + right`, centro ignorado.
-Sinalizado quando: `dominantShare >= 55%` **e** `oppositeShare <= 25%` **e** `>= 5` veículos. Severidade `high` se `dominantShare >= 70%`.
+Sinalizado quando: `dominantShare >= 55%` **e** `oppositeShare <= 30%` **e** `>= 5` veículos. Severidade `high` se `dominantShare >= 80%`.
+
+> Nota: o piso de 30% no lado oposto é deliberado. Com um piso de 25%, `dominantShare` seria sempre `>= 75%` e a severidade "moderada" (55%–80%) seria matematicamente inalcançável.
 
 **Lentes de concentração** (tipo de veículo, região): sinalizado quando `dominantShare >= 60%` **e** `secondShare <= 20%` **e** `>= 5` veículos. Severidade `high` se `dominantShare >= 80%`.
 

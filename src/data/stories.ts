@@ -35,7 +35,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-001-3',
-        sourceId: 'g1',
+        sourceId: 'folha',
         title: 'Justiça define como examines processos com inteligência artificial',
         excerpt: 'Relatora afirma que a decisão exige auditabilidade, sem vetar o uso da tecnologia.',
         url: 'https://g1.globo.com/justica/stf-criterios-julgamento-ia',
@@ -44,7 +44,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-001-4',
-        sourceId: 'metropoles',
+        sourceId: 'g1',
         title: 'Decisão do STF cria parâmetros para o julgamento de casos com IA',
         excerpt: 'Advogados consideram a publicação um marco na responsabilidade por decisões automatizadas.',
         url: 'https://metropoles.com/justica/stf-criterios-julgamento-ia',
@@ -53,7 +53,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-001-5',
-        sourceId: 'poder360',
+        sourceId: 'globonews',
         title: 'STF detalha como julgar processos com sistemas de inteligência artificial',
         excerpt: 'Texto de 41 páginas estabelece a sequência de perguntas para o exame de cada caso.',
         url: 'https://poder360.com.br/justica/stf-criterios-julgamento-ia',
@@ -62,7 +62,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-001-6',
-        sourceId: 'redetv',
+        sourceId: 'poder360',
         title: 'Corte restringe espaço para decisões automatizadas em julgamentos',
         excerpt: 'A regra deverá ser observada por órgãos públicos e empresas que operam sistemas de escore.',
         url: 'https://redetv.com.br/justica/stf-criterios-julgamento-ia',
@@ -71,7 +71,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-001-7',
-        sourceId: 'gazetadopovo',
+        sourceId: 'redetv',
         title: 'Tribunal limita decisões automatizadas e reacende debate sobre inovação',
         excerpt: 'Entidades do setor argumentam que a exigência de auditoria dificulta a adoção de novas ferramentas.',
         url: 'https://gazetadopovo.com.br/justica/stf-criterios-julgamento-ia',
@@ -96,7 +96,7 @@ export const STORIES: Story[] = [
     articles: [
       {
         id: 'a-002-1',
-        sourceId: 'valor',
+        sourceId: 'folha',
         title: 'Copom corta juros em 0,5 ponto e sinaliza nova redução',
         excerpt: 'Comunicado aponta inflação de serviços em desaceleração e mercado de trabalho aquecido.',
         url: 'https://valor.globo.com/economia/copom-selic-primeiro-corte',
@@ -105,7 +105,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-002-2',
-        sourceId: 'estadao',
+        sourceId: 'uol',
         title: 'Copom reduz a Selic em 0,5% e pede cautela com os próximos passos',
         excerpt: 'Banco central afirma que a decisão foi unânime entre os presentes à reunião.',
         url: 'https://estadao.com.br/economia/copom-selic-primeiro-corte',
@@ -114,7 +114,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-002-3',
-        sourceId: 'infomoney',
+        sourceId: 'contrapoder',
         title: 'Juros: Copom corta 0,5 ponto e projeta mais dois ajustes ainda neste ano',
         excerpt: 'O mercado passou a precificar abertura de 1,25 ponto até dezembro.',
         url: 'https://infomoney.com.br/economia/copom-selic-primeiro-corte',
@@ -123,7 +123,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-002-4',
-        sourceId: 'g1',
+        sourceId: 'infomoney',
         title: 'Copom corta juros pela primeira vez na atual sequência e aponta nova queda',
         excerpt: 'A redução ocorre em meio ao debate sobre a dívida pública e o ritmo de ajustes.',
         url: 'https://g1.globo.com/economia/copom-selic-primeiro-corte',
@@ -132,7 +132,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-002-5',
-        sourceId: 'metropoles',
+        sourceId: 'g1',
         title: 'Copom reduz a taxa Selic e pede ajuste no crédito',
         excerpt: 'Relatório cita a preservação da estabilidade do sistema financeiro.',
         url: 'https://metropoles.com/economia/copom-selic-primeiro-corte',
@@ -141,7 +141,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-002-6',
-        sourceId: 'folha',
+        sourceId: 'metropoles',
         title: 'Juros básicos caem 0,5 ponto; governo estima economia de R$ 20 bi na dívida',
         excerpt: 'Tesouro afirma que a redução traz alívio fiscal e pede ritmo consistente.',
         url: 'https://folha.uol.com.br/economia/copom-selic-primeiro-corte',
@@ -150,7 +150,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-002-7',
-        sourceId: 'cbn',
+        sourceId: 'valor',
         title: 'Copom corta juros e analistas avaliam o impacto no crédito e na dívida',
         excerpt: 'Analistas divergem sobre o espaço para novas reduções.',
         url: 'https://cbn.com.br/economia/copom-selic-primeiro-corte',
@@ -159,7 +159,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-002-8',
-        sourceId: 'contrapoder',
+        sourceId: 'moneytimes',
         title: 'Juros caem e a conta do aperto chega primeiro para o trabalhador',
         excerpt: 'Entidades defendem política de juros mais baixa para recuperar o consumo.',
         url: 'https://contrapoder.com.br/economia/copom-selic-primeiro-corte',
@@ -174,7 +174,7 @@ export const STORIES: Story[] = [
     title: 'Pesquisa de intenção de voto indica empate na liderança',
     summary: [
       'Levantamento publicado nesta segunda-feira mostra os dois primeiros colocados separados por um ponto percentual.',
-      'Entre os-vehicle respondents, a maior parte é do Sudeste, e a expandido dentro do Sudeste.',
+      'Entre os entrevistados, a maior parte é do Sudeste, e o tiroteio se concentra nas capitais do Sul.',
       'A margem de erro é de dois pontos, o que mantém o cenário indefinido.',
     ],
     debate: 'A dispersão do voto entre candidatos de centro abre espaço para uma segunda rodada?',
@@ -184,7 +184,7 @@ export const STORIES: Story[] = [
     articles: [
       {
         id: 'a-003-1',
-        sourceId: 'g1',
+        sourceId: 'ptemfoco',
         title: 'Pesquisa mostra empate na liderança e indefinida na vice-liderança',
         excerpt: 'Levantamento ouviu 8 mil pessoas em 121 municípios do país.',
         url: 'https://g1.globo.com/eleicoes/eleicoes-pesquisa-empate-lideranca',
@@ -193,7 +193,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-003-2',
-        sourceId: 'metropoles',
+        sourceId: 'nexojornal',
         title: 'Empate na liderança: o que muda com o novo quadro da pesquisa',
         excerpt: 'Candidatos ampliam o discurso para buscar o voto do Nordeste.',
         url: 'https://metropoles.com/eleicoes/eleicoes-pesquisa-empate-lideranca',
@@ -202,7 +202,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-003-3',
-        sourceId: 'poder360',
+        sourceId: 'uol',
         title: 'Pesquisa de intenção de voto aponta empate técnico na primeira colocação',
         excerpt: 'Os dados foram assinados por 68% dos pesquisadores que registraram o trabalho de campo.',
         url: 'https://poder360.com.br/eleicoes/eleicoes-pesquisa-empate-lideranca',
@@ -211,7 +211,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-003-4',
-        sourceId: 'folha',
+        sourceId: 'g1',
         title: 'Pesquisa aponta empate na liderança e asalta o cenário de segundo turno',
         excerpt: 'Coletivo de análise destaca o desempenho entre jovens e nas capitais do Nordeste.',
         url: 'https://folha.uol.com.br/eleicoes/eleicoes-pesquisa-empate-lideranca',
@@ -220,7 +220,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-003-5',
-        sourceId: 'uol',
+        sourceId: 'metropoles',
         title: 'Pesquisa mostra candidatos de centro disputando espaço com o novo voter',
         excerpt: 'Análise destaca a forte migração de preferências entre faixas etárias.',
         url: 'https://uol.com.br/eleicoes/eleicoes-pesquisa-empate-lideranca',
@@ -229,7 +229,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-003-6',
-        sourceId: 'infomoney',
+        sourceId: 'poder360',
         title: 'Mercado reage à pesquisa e ajusta o cenário para as eleições',
         excerpt: 'A bolsa operou com pequena alta após a divulgação.',
         url: 'https://infomoney.com.br/eleicoes/eleicoes-pesquisa-empate-lideranca',
@@ -238,7 +238,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-003-7',
-        sourceId: 'ptemfoco',
+        sourceId: 'infomoney',
         title: 'Pesquisa revela avanço no Sul, mas a liderança continua indefinida',
         excerpt: 'Coletivo considera os dados um reflexo da rejeição à polarização.',
         url: 'https://ptemfoco.com.br/eleicoes/eleicoes-pesquisa-empate-lideranca',
@@ -272,7 +272,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-004-2',
-        sourceId: 'agenciabrasil',
+        sourceId: 'nexojornal',
         title: 'Licença de grande mina de ouro no Xingu é suspensa por decisão judicial',
         excerpt: 'A decisão determina que a empresa apresente novo estudo de impacto ambiental.',
         url: 'https://agenciabrasil.ebc.com.br/geral/mineracao-belo-sun-amazonia',
@@ -281,7 +281,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-004-3',
-        sourceId: 'diariodopara',
+        sourceId: 'jacobin',
         title: 'Suspensão de licença de mineração divide comunidades impactadas no Pará',
         excerpt: 'Prefeitura promete apoio aos trabalhadores da região.',
         url: 'https://diariodopara.com.br/ambiente/mineracao-belo-sun-amazonia',
@@ -290,7 +290,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-004-4',
-        sourceId: 'nexojornal',
+        sourceId: 'ptemfoco',
         title: 'A suspensão da licença e o que revela o conflito sobre mineração na Amazônia',
         excerpt: 'Análise compara a decisão com casos anteriores na região.',
         url: 'https://nexojornal.com.br/ambiente/mineracao-belo-sun-amazonia',
@@ -299,7 +299,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-004-5',
-        sourceId: 'g1',
+        sourceId: 'agenciabrasil',
         title: 'TJ suspende licença de mineração no Xingu; empresa diz que vai recorrer',
         excerpt: 'O texto judicial apontou falhas no estudo de impacto ambiental.',
         url: 'https://g1.globo.com/amazonia/mineracao-belo-sun-amazonia',
@@ -342,7 +342,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-005-2',
-        sourceId: 'globo',
+        sourceId: 'tvbrasil',
         title: 'Plano de adaptação ao clima define metas para saúde e infraestrutura',
         excerpt: 'Governo estima investimento de R$ 180 bilhões na próxima década.',
         url: 'https://oglobo.globo.com/ciencia/tarc-adaptacao-clima-metas',
@@ -351,7 +351,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-005-3',
-        sourceId: 'tvcultura',
+        sourceId: 'atarde',
         title: 'Novo plano climático combina adaptação com metas de redução',
         excerpt: 'Série de entrevistas mostra o impacto do calor nas grandes cidades.',
         url: 'https://tvcultura.com.br/cientifico/tarc-adaptacao-clima-metas',
@@ -360,7 +360,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-005-4',
-        sourceId: 'infomoney',
+        sourceId: 'tvcultura',
         title: 'Clima: plano seta prioridades para o setor de seguros e infraestrutura',
         excerpt: 'Setor privado começa a mapear a exposição a eventos extremos.',
         url: 'https://infomoney.com.br/negocios/tarc-adaptacao-clima-metas',
@@ -369,7 +369,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-005-5',
-        sourceId: 'canaltech',
+        sourceId: 'g1',
         title: 'Plano de adaptação ao clima avança na área de saúde',
         excerpt: 'Documento traz protocolos para ondas de calor em cidades grandes.',
         url: 'https://canaltech.com.br/ciencia/tarc-adaptacao-clima-metas',
@@ -378,7 +378,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-005-6',
-        sourceId: 'jovempan',
+        sourceId: 'gazetadopovo',
         title: 'Plano climático do governo é chamado de "promessa sem recursos"',
         excerpt: 'Entidades do setor privado cobram um cronograma orçamentário.',
         url: 'https://jovempan.com.br/politica/tarc-adaptacao-clima-metas',
@@ -412,7 +412,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-006-2',
-        sourceId: 'acritica',
+        sourceId: 'opovo',
         title: 'Apreensão na fronteira amazonense pressiona o comércio regional',
         excerpt: 'Associação de comerciantes estima queda de 30% no movimento nas rotas.',
         url: 'https://acritica.com.br/politica/operacao-integrada-fronteira',
@@ -430,7 +430,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-006-4',
-        sourceId: 'sbt',
+        sourceId: 'acritica',
         title: 'Operação de fronteira apreende 12 toneladas de eletrônicos na Amazônia',
         excerpt: 'A fiscalização se intensifica sobre produtos com origem não comprovada.',
         url: 'https://sbtnews.com.br/seguranca/operacao-integrada-fronteira',
@@ -473,7 +473,7 @@ export const STORIES: Story[] = [
     articles: [
       {
         id: 'a-007-1',
-        sourceId: 'agenciabrasil',
+        sourceId: 'uol',
         title: 'Enem: nova grade de correção da redação altera o corte de notas',
         excerpt: 'A mudança penaliza erros de coerência e de desenvolvimento do texto.',
         url: 'https://agenciabrasil.ebc.com.br/educacao/enem-redacao-notas-corte',
@@ -482,7 +482,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-007-2',
-        sourceId: 'g1',
+        sourceId: 'ptemfoco',
         title: 'Corte do Enem sobe com a nova correção da redação; veja o que muda',
         excerpt: 'Consultorias estimam queda de 30% no número de aprovados na faixa alta.',
         url: 'https://g1.globo.com/educacao/enem-redacao-notas-corte',
@@ -491,7 +491,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-007-3',
-        sourceId: 'uol',
+        sourceId: 'opovo',
         title: 'Redação do Enem: especialistas divergem sobre o efeito da nova correção',
         excerpt: 'A avaliação mede desvio padrão menor com a nova grade.',
         url: 'https://uol.com.br/educacao/enem-redacao-notas-corte',
@@ -500,7 +500,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-007-4',
-        sourceId: 'ptemfoco',
+        sourceId: 'g1',
         title: 'Endurecimento da correção atinge mais os candidatos de escola pública',
         excerpt: 'Coletivo de estudantes defende a revisão dos critérios.',
         url: 'https://ptemfoco.com.br/educacao/enem-redacao-notas-corte',
@@ -509,7 +509,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-007-5',
-        sourceId: 'terra',
+        sourceId: 'poder360',
         title: 'Enem: estudantes reclamam da mudança no corte de notas',
         excerpt: 'Plataformas de revisão anunciam ajustes no preço dos pacotes.',
         url: 'https://terra.com.br/educacao/enem-redacao-notas-corte',
@@ -518,7 +518,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-007-6',
-        sourceId: 'poder360',
+        sourceId: 'estadao',
         title: 'MEC nega retrocesso e afirma que a nova correção é mais fiel ao Enem',
         excerpt: 'O secretário afirmou que a decisão foi baseada em testes com corretores.',
         url: 'https://poder360.com.br/educacao/enem-redacao-notas-corte',
@@ -658,7 +658,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-009-5',
-        sourceId: 'jovempan',
+        sourceId: 'tvcultura',
         title: 'Governo gastou R$ 2 mi com a campanha e a cobertura não avançou',
         excerpt: 'A oposição questiona a execução do programa em 2025.',
         url: 'https://jovempan.com.br/saude/saude-vacina-calendario',
@@ -692,7 +692,7 @@ export const STORIES: Story[] = [
     articles: [
       {
         id: 'a-010-1',
-        sourceId: 'g1',
+        sourceId: 'ptemfoco',
         title: 'Reajuste de tarifa de energia começa a valer em três estados',
         excerpt: 'A conta média residencial deve subir R$ 18,50.',
         url: 'https://g1.globo.com/economia/tarifa-energia-reajuste',
@@ -701,7 +701,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-010-2',
-        sourceId: 'moneytimes',
+        sourceId: 'folha',
         title: 'Conta de luz: o que explica o reajuste de 6,2% nas tarifas',
         excerpt: 'A análise separa custos de geração, transmissão e impostos.',
         url: 'https://moneytimes.com.br/economia/tarifa-energia-reajuste',
@@ -710,7 +710,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-010-3',
-        sourceId: 'band',
+        sourceId: 'g1',
         title: 'Tarifa de energia sobe e o consumidor precisa atenção à fatura em casa',
         excerpt: 'Os programas de desconto continuam válidos para famílias de baixa renda.',
         url: 'https://band.uol.com.br/economia/tarifa-energia-reajuste',
@@ -719,7 +719,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-010-4',
-        sourceId: 'ptemfoco',
+        sourceId: 'moneytimes',
         title: 'Reajuste de energia é "aumento de custo sobre os mais pobres"',
         excerpt: 'Coletivo busca ampliar a tarifa social e a cobertura do desconto.',
         url: 'https://ptemfoco.com.br/economia/tarifa-energia-reajuste',
@@ -728,7 +728,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-010-5',
-        sourceId: 'estadao',
+        sourceId: 'band',
         title: 'Reajuste de tarifa de energia é aprovado e começa a valer nesta semana',
         excerpt: 'As agências reguladoras negaram pedido de adiamento feito por consumidores.',
         url: 'https://estadao.com.br/economia/tarifa-energia-reajuste',
@@ -762,7 +762,7 @@ export const STORIES: Story[] = [
     articles: [
       {
         id: 'a-011-1',
-        sourceId: 'g1',
+        sourceId: 'ptemfoco',
         title: 'Greve paralisa a Linha Amarela e o serviço fica por conta de terceiros',
         excerpt: 'Quatro estações tiveram as catracas bloqueadas desde o início da manhã.',
         url: 'https://g1.globo.com/sao-paulo/greve-metro-linha-amarela',
@@ -771,7 +771,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-011-2',
-        sourceId: 'metropoles',
+        sourceId: 'uol',
         title: 'Linha Amarela: entenda o que está em jogo na greve dos condutores',
         excerpt: 'O reajuste salarial do grupo é o principal ponto da pauta.',
         url: 'https://metropoles.com/sao-paulo/greve-metro-linha-amarela',
@@ -780,7 +780,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-011-3',
-        sourceId: 'cnnbrasil',
+        sourceId: 'g1',
         title: 'Greve no metrô: passageiros relatam caos e multas no sistema',
         excerpt: 'Aplicativos de rota alternativa tiveram alta no uso na região.',
         url: 'https://cnnbrasil.com.br/sao-paulo/greve-metro-linha-amarela',
@@ -789,7 +789,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-011-4',
-        sourceId: 'ptemfoco',
+        sourceId: 'metropoles',
         title: 'Greve da Linha Amarela expõe a precarização do transporte público',
         excerpt: 'O sindicato afirma que a jornada de trabalho não foi acompanhada há quatro anos.',
         url: 'https://ptemfoco.com.br/sao-paulo/greve-metro-linha-amarela',
@@ -798,7 +798,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-011-5',
-        sourceId: 'radioitaitia',
+        sourceId: 'cnnbrasil',
         title: 'Concessionária diz que a Linha Amarela opera parcialmente durante a greve',
         excerpt: 'A empresa oferece transporte por conta própria nas estações afetadas.',
         url: 'https://radioitaitia.com.br/sao-paulo/greve-metro-linha-amarela',
@@ -877,7 +877,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-012-6',
-        sourceId: 'atarde',
+        sourceId: 'g1',
         title: 'Contratos de saneamento no Nordeste preocupam conselhos de controle social',
         excerpt: 'Auditorias independentes ainda não foram contratadas.',
         url: 'https://atarde.com.br/politica/saneamento-privatizacao-municipios',
@@ -902,7 +902,7 @@ export const STORIES: Story[] = [
     articles: [
       {
         id: 'a-013-1',
-        sourceId: 'globo',
+        sourceId: 'g1',
         title: 'Sorteio define os adversários dos brasileiros na fase de grupos',
         excerpt: 'Duas equipes encaram clubes alemães e outra enfrenta um time italiano.',
         url: 'https://oglobo.globo.com/esportes/sorteio-panorama-copa-2026',
@@ -911,7 +911,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-013-2',
-        sourceId: 'uol',
+        sourceId: 'r7',
         title: 'Pela primeira vez, o Brasil tem três clubes no mesmo grupo',
         excerpt: 'A federação confirma as condições de viagem para os jogos.',
         url: 'https://uol.com.br/esportes/sorteio-panorama-copa-2026',
@@ -920,7 +920,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-013-3',
-        sourceId: 'r7',
+        sourceId: 'metropoles',
         title: 'De olho na seleção, clubes ajustam a data dos jogos brasileiros',
         excerpt: 'Os calendários das competições mudam para liberar atletas.',
         url: 'https://r7.com/esportes/sorteio-panorama-copa-2026',
@@ -929,7 +929,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-013-4',
-        sourceId: 'sbt',
+        sourceId: 'tvcultura',
         title: 'Sorteio da Copa: entenda os grupos dos times brasileiros',
         excerpt: 'A programação completa com horários será divulgada nesta semana.',
         url: 'https://sbtnews.com.br/esportes/sorteio-panorama-copa-2026',
@@ -938,7 +938,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-013-5',
-        sourceId: 'radioitaitia',
+        sourceId: 'uol',
         title: 'Torcedores comentam o sorteio e projetam público nos jogos no Brasil',
         excerpt: 'A confederação estima 70% de ocupação nos estádios da primeira fase.',
         url: 'https://radioitaitia.com.br/esportes/sorteio-panorama-copa-2026',
@@ -947,7 +947,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-013-6',
-        sourceId: 'jovempan',
+        sourceId: 'sbt',
         title: 'Federação é "boba" e cai na mira da FIFA, afirma convidado',
         excerpt: 'As acusações foram negadas pela entidade.',
         url: 'https://jovempan.com.br/esportes/sorteio-panorama-copa-2026',
@@ -981,7 +981,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-014-2',
-        sourceId: 'globo',
+        sourceId: 'nexojornal',
         title: 'Incentivo ao cinema: nova cota pode concentrar recursos em poucos estúdios',
         excerpt: 'Distribuidoras pedem mudanças na emenda do projeto.',
         url: 'https://oglobo.globo.com/cultura/cine-patrocinio-lei-cinema',
@@ -990,7 +990,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-014-3',
-        sourceId: 'metropoles',
+        sourceId: 'jacobin',
         title: 'Nova cota de cinema: o que muda para os produtores independentes',
         excerpt: 'Produtoras de baixo orçamento celebram a aprovação em comissões.',
         url: 'https://metropoles.com/cultura/cine-patrocinio-lei-cinema',
@@ -1008,7 +1008,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-014-5',
-        sourceId: 'nexojornal',
+        sourceId: 'metropoles',
         title: 'A cota de cinema e a lógica de financiamento do audiovisual brasileiro',
         excerpt: 'O artigo compara o modelo brasileiro ao de países da Europa.',
         url: 'https://nexojornal.com.br/cultura/cine-patrocinio-lei-cinema',
@@ -1042,7 +1042,7 @@ export const STORIES: Story[] = [
     articles: [
       {
         id: 'a-015-1',
-        sourceId: 'valor',
+        sourceId: 'folha',
         title: 'Real se fortalece e o dólar fecha a R$ 5,42 com dados de emprego dos EUA',
         excerpt: 'A bolsa brasileira acompanha o otimismo no mercado internacional.',
         url: 'https://valor.globo.com/economia/juros-globais-dolar-cambio',
@@ -1051,7 +1051,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-015-2',
-        sourceId: 'infomoney',
+        sourceId: 'contrapoder',
         title: 'Dólar cai 1,8% e fecha em R$ 5,42; veja o cenário para os próximos dias',
         excerpt: 'O mercado monitora a fala do tesouro dos Estados Unidos.',
         url: 'https://infomoney.com.br/mercados/juros-globais-dolar-cambio',
@@ -1060,7 +1060,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-015-3',
-        sourceId: 'moneytimes',
+        sourceId: 'g1',
         title: 'Câmbio: por que o real se fortalece mesmo com risco global elevado',
         excerpt: 'A análise aponta o diferencial de juros como principal explicação.',
         url: 'https://moneytimes.com.br/mercados/juros-globais-dolar-cambio',
@@ -1069,7 +1069,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-015-4',
-        sourceId: 'g1',
+        sourceId: 'moneytimes',
         title: 'Dólar fecha em queda pela segunda semana consecutiva',
         excerpt: 'O Ibovespa subiu 0,9% no dia e acumula ganho no mês.',
         url: 'https://g1.globo.com/economia/juros-globais-dolar-cambio',
@@ -1078,7 +1078,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-015-5',
-        sourceId: 'cbn',
+        sourceId: 'valor',
         title: 'Real forte: exportadores celebram, importados reclamam da taxa de câmbio',
         excerpt: 'Setores alertam para o impacto no preço ao consumidor.',
         url: 'https://cbn.com.br/mercados/juros-globais-dolar-cambio',
@@ -1087,7 +1087,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-015-6',
-        sourceId: 'folha',
+        sourceId: 'infomoney',
         title: 'Câmbio forte não deve ser tratado como cenário econômico estável',
         excerpt: 'Analistas lembram que a apreciação não é uniforme entre os setores.',
         url: 'https://folha.uol.com.br/economia/juros-globais-dolar-cambio',
@@ -1130,7 +1130,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-016-2',
-        sourceId: 'g1',
+        sourceId: 'opovo',
         title: 'Nova frente comercial cria isenções e reacende a disputa por tarifas',
         excerpt: 'Os setores brasileiros exportadores avaliam a lista de produtos contemplados.',
         url: 'https://g1.globo.com/mundo/internacional-guerra-comercio',
@@ -1139,7 +1139,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-016-3',
-        sourceId: 'estadao',
+        sourceId: 'g1',
         title: 'Acordo comercial deve ser uma negociação mais longa do que se imagina',
         excerpt: 'Diplomatas brasileiros estimam que a frente levará meses para amadurecer.',
         url: 'https://estadao.com.br/mundo/internacional-guerra-comercio',
@@ -1148,7 +1148,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-016-4',
-        sourceId: 'valor',
+        sourceId: 'r7',
         title: 'Exportadores brasileiros avaliam o impacto da nova frente comercial',
         excerpt: 'O setor de commodities deve ser o mais beneficiado.',
         url: 'https://valor.globo.com/mundo/internacional-guerra-comercio',
@@ -1157,7 +1157,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-016-5',
-        sourceId: 'r7',
+        sourceId: 'tvcultura',
         title: 'Acordo entre blocos: o que muda para o consumidor brasileiro',
         excerpt: 'A importação de alimentos pode ficar mais barata nos próximos meses.',
         url: 'https://r7.com/mundo/internacional-guerra-comercio',
@@ -1200,7 +1200,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-017-2',
-        sourceId: 'diariodopara',
+        sourceId: 'valor',
         title: 'Governo do Pará defende a mudança no ICMS para produtos da Amazônia',
         excerpt: 'O governo estima aumento de 40% na exportação regional.',
         url: 'https://diariodopara.com.br/politica/amazonia-fiscal-icms',
@@ -1209,7 +1209,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-017-3',
-        sourceId: 'agenciabrasil',
+        sourceId: 'journaldebrasilia',
         title: 'Fazenda trabalha em alternativa de transição para o ICMS regional',
         excerpt: 'A proposta define afetação pela origem do produto em vez do local de venda.',
         url: 'https://agenciabrasil.ebc.com.br/geral/amazonia-fiscal-icms',
@@ -1218,7 +1218,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-017-4',
-        sourceId: 'correiobrasiliense',
+        sourceId: 'canaltech',
         title: 'ICMS da Amazônia vira o maior ponto de atrito entre os Estados',
         excerpt: 'A reunião de secretários terminou sem acordo.',
         url: 'https://correiobrasiliense.com.br/politica/amazonia-fiscal-icms',
@@ -1236,7 +1236,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-017-6',
-        sourceId: 'acritica',
+        sourceId: 'infomoney',
         title: 'Discussão do ICMS não sai do papel e arrasta o debate para o segundo turno',
         excerpt: 'As empresas do Amazonas aguardam a definição do modelo.',
         url: 'https://acritica.com.br/politica/amazonia-fiscal-icms',
@@ -1279,7 +1279,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-018-2',
-        sourceId: 'canaltech',
+        sourceId: 'metropoles',
         title: 'LGPD: o que muda com a intensificação da fiscalização',
         excerpt: 'A análise aponta aumento de 60% no número de processos instaurados.',
         url: 'https://canaltech.com.br/negocios/dados-personais-lgpd-fiscalizacao',
@@ -1288,7 +1288,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-018-3',
-        sourceId: 'folha',
+        sourceId: 'tvcultura',
         title: 'Multas por LGPD chegam a R$ 78 milhões e expõem falhas de segurança',
         excerpt: 'O setor de dados admite que a conformidade ainda é reativa.',
         url: 'https://folha.uol.com.br/technology/dados-personais-lgpd-fiscalizacao',
@@ -1297,7 +1297,7 @@ export const STORIES: Story[] = [
       },
       {
         id: 'a-018-4',
-        sourceId: 'metropoles',
+        sourceId: 'folha',
         title: 'Fiscalização da LGPD: o equilíbrio entre rigor e investimento em segurança',
         excerpt: 'Especialistas defendem linearidade na aplicação das sanções.',
         url: 'https://metropoles.com/technology/dados-personais-lgpd-fiscalizacao',

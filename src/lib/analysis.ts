@@ -31,6 +31,22 @@ export interface Asymmetry {
 
 const MIN_SOURCES = 5
 
+/**
+ * Limiares da lente de oposição (ideologia).
+ *
+ * `opposite <= 30%` implica `dominant >= 70%`, o que torna "moderada"
+ * (55%–80%) e "alta" (>= 80%) ambas alcançáveis. Com um piso de 25% no
+ * oposto a severidade moderada seria matematicamente impossível.
+ */
+const IDEOLOGY_MIN_DOMINANT = 0.55
+const IDEOLOGY_MAX_OPPOSITE = 0.3
+const IDEOLOGY_HIGH = 0.8
+
+/** Limiares das lentes de concentração (tipo de veículo, região). */
+const CONCENTRATION_MIN_DOMINANT = 0.6
+const CONCENTRATION_MAX_SECOND = 0.2
+const CONCENTRATION_HIGH = 0.8
+
 export function distribution(
   story: Story,
   sources: Map<string, Source>,
@@ -115,9 +131,11 @@ export function asymmetry(
     const oppositeShare = oppositeCount / sidedTotal
     const dominantLabel = dominantCount === leftCount ? 'à esquerda' : 'à direita'
     const flagged =
-      sourceCount >= MIN_SOURCES && dominantShare >= 0.55 && oppositeShare <= 0.25
+      sourceCount >= MIN_SOURCES &&
+      dominantShare >= IDEOLOGY_MIN_DOMINANT &&
+      oppositeShare <= IDEOLOGY_MAX_OPPOSITE
     const severity: AsymmetrySeverity =
-      !flagged ? 'none' : dominantShare >= 0.7 ? 'high' : 'moderate'
+      !flagged ? 'none' : dominantShare >= IDEOLOGY_HIGH ? 'high' : 'moderate'
     const reason = flagged
       ? `${formatPercent(dominantShare)} da cobertura está ${dominantLabel} e apenas ${formatPercent(
           oppositeShare,
@@ -142,9 +160,11 @@ export function asymmetry(
   const oppositeShare = 0
   const secondShare = second.share
   const flagged =
-    sourceCount >= MIN_SOURCES && dominantShare >= 0.6 && secondShare <= 0.2
+    sourceCount >= MIN_SOURCES &&
+    dominantShare >= CONCENTRATION_MIN_DOMINANT &&
+    secondShare <= CONCENTRATION_MAX_SECOND
   const severity: AsymmetrySeverity =
-    !flagged ? 'none' : dominantShare >= 0.8 ? 'high' : 'moderate'
+    !flagged ? 'none' : dominantShare >= CONCENTRATION_HIGH ? 'high' : 'moderate'
   const reason = flagged
     ? `${formatPercent(dominantShare)} da cobertura vem de veículos de um mesmo grupo (${
         dominant.level.label
