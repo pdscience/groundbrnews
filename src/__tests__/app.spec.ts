@@ -34,7 +34,7 @@ async function visit(path: string) {
 describe('aplicação', () => {
   it('monta o cabeçalho e o rodapé', async () => {
     const { wrapper } = await visit('/analises')
-    expect(wrapper.text()).toContain('Chão Brasil')
+    expect(wrapper.text()).toContain('GroundBrNews')
     expect(wrapper.text()).toMatch(/Dados reais coletados em|Dataset demonstrativo/)
   })
 

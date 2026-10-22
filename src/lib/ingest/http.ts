@@ -1,5 +1,5 @@
 export const USER_AGENT =
-  'ChaoBrasil/1.0 (agregador de cobertura jornalistica; +https://chao.brasil)'
+  'GroundBrNews/1.0 (agregador de cobertura jornalistica; +https://groundbrnews.pages.dev)'
 
 export interface FetchOptions {
   timeoutMs?: number

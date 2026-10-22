@@ -1,9 +1,9 @@
-# Chão Brasil
+# GroundBrNews
 
 **Veja os dois lados de cada notícia no Brasil.**
 
 Plataforma de análise de cobertura de notícias, no espírito do [Ground News](https://ground.news),
-adaptada ao cenário brasileiro. Para cada história em alta, o Chão Brasil mostra **como a cobertura
+adaptada ao cenário brasileiro. Para cada história em alta, o GroundBrNews mostra **como a cobertura
 se distribuiu entre os veículos** — em três lentes alternáveis — e sinaliza histórias cobertas de
 forma desproporcional por um dos lados.
 
@@ -115,7 +115,7 @@ Limitações declaradas na metodologia:
 O repositório tem dois workflows em `.github/workflows/`:
 
 - **`ingest.yml`** — diariamente às **06:17 BRT** (`17 9 * * *` UTC) roda `npm run ingest`, valida com
-  type-check e testes, e commita `src/data/generated/` como `chao-brasil-bot`. Também pode ser
+  type-check e testes, e commita `src/data/generated/` como `groundbrnews-bot`. Também pode ser
   disparado manualmente em *Actions → ingest → Run workflow*.
 - **`ci.yml`** — em push/PR para `main`: type-check, testes e build.
 

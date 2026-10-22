@@ -195,7 +195,7 @@ async function main(): Promise<void> {
   const args = parseArgs(process.argv.slice(2))
   const startedAt = Date.now()
 
-  console.log(`\nChão Brasil · coleta de notícias`)
+  console.log(`\nGroundBrNews · coleta de notícias`)
   console.log(
     `janela: ${args.windowHours}h · feeds: ${Object.keys(FEEDS).length} · concorrência: ${args.concurrency}${args.dryRun ? ' · DRY-RUN' : ''}\n`,
   )

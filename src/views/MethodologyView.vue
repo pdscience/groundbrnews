@@ -15,7 +15,7 @@ const collectedAt = computed(() =>
       <header class="head">
         <h1>Metodologia</h1>
         <p class="sub">
-          Como o Chão Brasil classifica veículos, agrupa reportagens e sinaliza assimetrias de
+          Como o GroundBrNews classifica veículos, agrupa reportagens e sinaliza assimetrias de
           cobertura.
         </p>
       </header>
