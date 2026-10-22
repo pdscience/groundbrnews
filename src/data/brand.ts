@@ -1,0 +1,9 @@
+export const BRAND = {
+  name: 'Chão Brasil',
+  tagline: 'Veja os dois lados de cada notícia no Brasil',
+  accent: '#047857',
+  accentSoft: '#ecfdf5',
+  logoMark: 'CB',
+} as const
+
+export const DATASET_KIND = 'demonstrativo' as const
