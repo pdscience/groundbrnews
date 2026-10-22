@@ -33,7 +33,7 @@ describe('LevelLegend', () => {
   it('pinta o marcador com a cor do nível', () => {
     const wrapper = mount(LevelLegend, { props: { lens, slices } })
     const dots = wrapper.findAll('.dot').map((dot) => (dot.element as HTMLElement).style.background)
-    expect(dots[0]).toBe('rgb(198, 40, 40)')
-    expect(dots[2]).toBe('rgb(255, 255, 255)')
+    expect(dots[0]).toBe('rgb(229, 57, 53)')
+    expect(dots[2]).toBe('rgb(130, 97, 141)')
   })
 })

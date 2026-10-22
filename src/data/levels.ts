@@ -7,11 +7,11 @@ const ideology: Lens = {
     'Posição editorial do veículo no espectro político brasileiro, do campo mais à esquerda ao mais à direita.',
   opposition: { left: ['left', 'center-left'], right: ['center-right', 'right'] },
   levels: [
-    { id: 'left', label: 'Esquerda', shortLabel: 'E', color: '#c62828', order: 0 },
-    { id: 'center-left', label: 'Centro-esquerda', shortLabel: 'CE', color: '#ef9a9a', order: 1 },
-    { id: 'center', label: 'Centro', shortLabel: 'C', color: '#ffffff', order: 2 },
-    { id: 'center-right', label: 'Centro-direita', shortLabel: 'CD', color: '#90caf9', order: 3 },
-    { id: 'right', label: 'Direita', shortLabel: 'D', color: '#1565c0', order: 4 },
+    { id: 'left', label: 'Esquerda', shortLabel: 'E', color: '#e53935', order: 0 },
+    { id: 'center-left', label: 'Centro-esquerda', shortLabel: 'CE', color: '#b34d61', order: 1 },
+    { id: 'center', label: 'Centro', shortLabel: 'C', color: '#82618d', order: 2 },
+    { id: 'center-right', label: 'Centro-direita', shortLabel: 'CD', color: '#5074b9', order: 3 },
+    { id: 'right', label: 'Direita', shortLabel: 'D', color: '#1e88e5', order: 4 },
   ],
 }
 

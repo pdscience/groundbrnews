@@ -13,7 +13,7 @@ const level = (id: string, label: string, color: string): Level => ({
 })
 
 const slices: DistributionSlice[] = [
-  { level: level('left', 'Esquerda', '#c62828'), count: 6, share: 0.6 },
+  { level: level('left', 'Esquerda', '#e53935'), count: 6, share: 0.6 },
   { level: level('center', 'Centro', '#ffffff'), count: 4, share: 0.4 },
 ]
 
@@ -26,7 +26,7 @@ describe('BiasBar', () => {
   it('omite fatias zeradas', () => {
     const wrapper = mount(BiasBar, {
       props: {
-        slices: [...slices, { level: level('right', 'Direita', '#1565c0'), count: 0, share: 0 }],
+        slices: [...slices, { level: level('right', 'Direita', '#1e88e5'), count: 0, share: 0 }],
       },
     })
     expect(wrapper.findAll('[data-test="segment"]')).toHaveLength(2)
@@ -62,7 +62,7 @@ describe('BiasBar', () => {
     const wrapper = mount(BiasBar, {
       props: {
         slices: [
-          { level: level('left', 'Esquerda', '#c62828'), count: 5, share: 0.5 },
+          { level: level('left', 'Esquerda', '#e53935'), count: 5, share: 0.5 },
           { level: level('center', 'Centro', '#ffffff'), count: 5, share: 0.5 },
         ],
         showValues: true,
@@ -82,7 +82,7 @@ describe('BiasBar', () => {
     const wrapper = mount(BiasBar, {
       props: {
         slices: [
-          { level: level('left', 'Esquerda', '#c62828'), count: 1, share: 0.06 },
+          { level: level('left', 'Esquerda', '#e53935'), count: 1, share: 0.06 },
           { level: level('center', 'Centro', '#ffffff'), count: 15, share: 0.94 },
         ],
         showValues: true,
