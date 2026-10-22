@@ -20,7 +20,14 @@ export interface IngestManifest {
   generatedAt: string
   windowHours: number
   stories: number
+  retentionDays?: number
+  freshStories?: number
+  mergedStories?: number
+  retainedStories?: number
+  expiredStories?: number
   articles: number
+  datasetArticles?: number
+  oldestArticleAt?: string | null
   sourcesWithData: number
   feeds: FeedRun[]
 }

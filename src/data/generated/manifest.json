@@ -1,15 +1,21 @@
 {
-  "generatedAt": "2026-10-22T19:21:38.765Z",
+  "generatedAt": "2026-10-22T21:29:42.032Z",
   "windowHours": 96,
-  "stories": 59,
-  "articles": 679,
-  "sourcesWithData": 18,
+  "retentionDays": 7,
+  "stories": 86,
+  "freshStories": 49,
+  "mergedStories": 49,
+  "retainedStories": 37,
+  "expiredStories": 0,
+  "articles": 692,
+  "datasetArticles": 243,
+  "oldestArticleAt": "2026-10-20T19:24:06.000Z",
+  "sourcesWithData": 20,
   "feeds": [
     {
       "sourceId": "folha",
-      "ok": false,
-      "items": 0,
-      "error": "fetch failed"
+      "ok": true,
+      "items": 60
     },
     {
       "sourceId": "globo",
@@ -34,7 +40,7 @@
     {
       "sourceId": "uol",
       "ok": true,
-      "items": 13
+      "items": 16
     },
     {
       "sourceId": "metropoles",
@@ -43,8 +49,9 @@
     },
     {
       "sourceId": "cnnbrasil",
-      "ok": true,
-      "items": 60
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403"
     },
     {
       "sourceId": "poder360",
@@ -108,9 +115,8 @@
     },
     {
       "sourceId": "contrapoder",
-      "ok": false,
-      "items": 0,
-      "error": "fetch failed"
+      "ok": true,
+      "items": 10
     },
     {
       "sourceId": "nexojornal",

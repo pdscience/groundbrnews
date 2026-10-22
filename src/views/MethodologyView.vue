@@ -89,8 +89,10 @@ const collectedAt = computed(() =>
           fonte pública oferece classificação de viés para a imprensa brasileira.
         </p>
         <p v-if="DATASET_KIND === 'real' && DATASET_META" class="lead">
-          Última coleta em {{ collectedAt }}. O agrupamento considera uma janela de
-          {{ DATASET_META.windowHours }} horas e exige ao menos dois veículos distintos por história.
+          Última coleta em {{ collectedAt }}. Cada rodada busca as últimas
+          {{ DATASET_META.windowHours }} horas, absorve o que já existia e mantém as histórias por
+          {{ DATASET_META.retentionDays ?? 7 }} dias; só entram no site histórias com ao menos dois
+          veículos distintos.
         </p>
         <p v-if="DATASET_KIND === 'real'" class="lead">
           O tom de cada artigo é estimado por um léxico de apoio e crítica da língua portuguesa. Ele

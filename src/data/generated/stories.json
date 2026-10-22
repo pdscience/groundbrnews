@@ -4,14 +4,14 @@
     "slug": "lula-convida-flavio-para-abrir-sigilos-no-tse-nesta-quinta",
     "title": "Lula convida Flávio para abrir sigilos no TSE nesta quinta",
     "summary": [
-      "Candidato do PL desconversa Flávio Bolsonaro (PL) em encontro do associativismo em SP Vittor Sales / Flickr - 13.out.2026 Luiz Inácio Lula da Silva (PT) protocolou nesta terça-feira (20) no Supremo Tribunal Federal e no TSE (Tribunal Superior",
       "CAIO SPECHOTO E MARIANA BRASIL FOLHAPRESS Os candidatos à Presidência da República Lula (PT) e Flávio Bolsonaro (PL) assinaram nesta quinta-feira (22) um acordo pela quebra mútua de seus sigilos bancário, fiscal e telefônico",
+      "As campanhas de Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) afirmaram ter chegado a um acordo para autorizar a abertura dos sigilos dos presidenciáveis, de familiares e de pessoas e empresas ligadas a eles",
       "O senador Camilo Santana (PT-CE) apresentou nesta quinta-feira (22) um termo assinado pelos candidatos à Presidência da República Luiz Inácio Lula da Silva e Flávio Bolsonaro, em que autorizam a abertura do sigilo bancário, fiscal e telefônico de ambos, ainda nesta quinta, até as 23h59"
     ],
-    "debate": "Em disputa: O Ministério Público Eleitoral (MPE) avaliou que a Meta descumpriu parte das determinações do.",
+    "debate": "Em disputa: O candidato bolsonarista não ace.",
     "theme": "Política",
     "region": "sudeste",
-    "state": "SP",
+    "state": "DF",
     "articles": [
       {
         "id": "a-08e895ed",
@@ -120,10 +120,533 @@
         "publishedAt": "2026-10-22T19:08:47.000Z",
         "stance": "neutral",
         "stanceEstimated": true
+      },
+      {
+        "id": "a-5fe78f01",
+        "sourceId": "poder360",
+        "title": "Apoiadores de Lula protestam no TSE por abertura de sigilos",
+        "excerpt": "Grupo se manifestou durante entrega de documento em que Lula aceita as 19 exigências de Flávio Bolsonaro (PL) para abertura de dados",
+        "url": "https://poder360.com.br/poder-eleicoes-2026/apoiadores-de-lula-protestam-no-tse-por-abertura-de-sigilos/",
+        "publishedAt": "2026-10-22T20:56:07.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
       }
     ],
-    "image": "https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2026/10/55588375344_f28ae5775b_k-768x479.webp",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
+    "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/lula_flavio_1_444b28cbc9.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-cf353e5a",
+    "slug": "kassio-da-24-horas-para-meta-detalhar-atuacao-do-canal-exercito-do-lul",
+    "title": "Kassio manda Meta apresentar em 24 horas relatório detalhado sobre ações do 'Exército do Lula",
+    "summary": [
+      "Presidente do TSE pede informações técnicas sobre possíveis ações coordenadas, circulação e alcance das publicações",
+      "O presidente do TSE (Tribunal Superior Eleitoral), Kassio Nunes Marques , determinou nesta quinta-feira (22) que a Meta apresente, em até 24 horas, um relatório detalhado sobre as atividades do canal no WhatsApp \"Exército do Lula \", administrado pelo deputado André Janones (Rede-MG)",
+      "O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, solicitou a Meta um relatório sobre as ações do canal \"Exército do Lula\", idealizado pelo pelo deputado federal André Janones (Rede-MG)"
+    ],
+    "debate": "Em disputa: Leia mais (10/22/2026 - 17h18).",
+    "theme": "Política",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-ac122cbf",
+        "sourceId": "metropoles",
+        "title": "Kassio dá 24h para Meta apresentar dados sobre atuação de Exército do Lula",
+        "excerpt": "",
+        "url": "https://metropoles.com/colunas/manoela-alcantara/kassio-acao-coordenada-exercito-do-lula-canal",
+        "publishedAt": "2026-10-22T18:43:04.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://images.metroimg.com/2026/09/ministro-kassio-nunes-durante-sessao-no-tribunal-superior-eleitoral-tse-metropoles-2-scaled.jpeg"
+      },
+      {
+        "id": "a-9e1958f9",
+        "sourceId": "globo",
+        "title": "Presidente do TSE dá 24 horas para Meta detalhar ação coordenada no canal 'Exército do Lula",
+        "excerpt": "",
+        "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/22/presidente-do-tse-da-24-horas-para-meta-detalhar-acao-coordenada-no-canal-exercito-do-lula.ghtml",
+        "publishedAt": "2026-10-22T18:54:09.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-oglobo.glbimg.com/R_Ja15OozWuas3y0hK5NbzNjPGI=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/a/c/B4GIF4QFaqAePWnWY4Hw/nunes-marques.png"
+      },
+      {
+        "id": "a-8773653b",
+        "sourceId": "cnnbrasil",
+        "title": "Kassio dá 24 horas para Meta detalhar atuação do canal “Exército do Lula",
+        "excerpt": "Presidente do TSE pede relatório sobre possível ação coordenada de canal de Janones, que já reúne mais de 7 milhões de seguidores",
+        "url": "https://cnnbrasil.com.br/eleicoes/kassio-da-24-horas-para-meta-detalhar-atuacao-do-canal-exercito-do-lula/",
+        "publishedAt": "2026-10-22T18:58:34.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-3323afb6",
+        "sourceId": "agenciabrasil",
+        "title": "Presidente do TSE pede à Meta relatório sobre canal Exército do Lula",
+        "excerpt": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, concedeu nesta quinta-feira (22) prazo de 24 horas para Meta apresentar um relatório técnico sobre o funcionamento do canal Exército do Lula , criado no WhatsApp para postagens de apoios ao candidato à reeleição Luiz Inácio Lula da Silva (PT). O ministro atendeu ao pedido protocolado pela campanha do candidato à Pres",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/presidente-do-tse-pede-meta-relatorio-sobre-canal-exercito-do-lula",
+        "publishedAt": "2026-10-22T19:25:00.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-b6170bff",
+        "sourceId": "cbn",
+        "title": "TSE dá 24 horas para Meta enviar relatório técnico sobre o canal 'Exército do Lula",
+        "excerpt": "",
+        "url": "https://cbn.globo.com/politica/noticia/2026/10/22/tse-da-24-horas-para-meta-enviar-relatorio-tecnico-sobre-o-canal-exercito-do-lula.ghtml",
+        "publishedAt": "2026-10-22T19:27:37.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-cbn.glbimg.com/qGe1TGQj5s_rXkxzlinPQ7bAnpM=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/C/v/jckrpiQZyJ6U6ErSDXwA/55368499694-71316830e5-k.jpg"
+      },
+      {
+        "id": "a-d521bdc9",
+        "sourceId": "valor",
+        "title": "Nunes Marques dá 24 horas para Meta apresentar relatório sobre 'Exército do Lula",
+        "excerpt": "",
+        "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/22/nunes-marques-da-24-horas-para-meta-apresentar-relatorio-sobre-exercito-do-lula.ghtml",
+        "publishedAt": "2026-10-22T19:51:35.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-valor.glbimg.com/nXwT9p5iYaR02noLFvyZxiBIBFw=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/p/u/wZGTd1SIWOdWUCzBFw5w/exercito-do-lula-whats-1.jpg"
+      },
+      {
+        "id": "a-1f6a6ab2",
+        "sourceId": "sbt",
+        "title": "Kassio manda Meta explicar atuação do ‘Exército do Lula",
+        "excerpt": "Presidente do TSE pede informações técnicas sobre possíveis ações coordenadas, circulação e alcance das publicações",
+        "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/kassio-manda-meta-explicar-atuacao-do-exercito-do-lula",
+        "publishedAt": "2026-10-22T19:58:09.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/nunes_marques_sessao_tse_9a31db1d60.jpg"
+      },
+      {
+        "id": "a-295c1e19",
+        "sourceId": "folha",
+        "title": "Kassio manda Meta apresentar em 24 horas relatório detalhado sobre ações do 'Exército do Lula",
+        "excerpt": "O presidente do TSE (Tribunal Superior Eleitoral), Kassio Nunes Marques , determinou nesta quinta-feira (22) que a Meta apresente, em até 24 horas, um relatório detalhado sobre as atividades do canal no WhatsApp \"Exército do Lula \", administrado pelo deputado André Janones (Rede-MG). Leia mais (10/22/2026 - 17h18)",
+        "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-manda-meta-apresentar-em-24-horas-relatorio-detalhado-sobre-acoes-do-exercito-de-lula.shtml",
+        "publishedAt": "2026-10-22T20:18:00.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-a3735eb8",
+        "sourceId": "atarde",
+        "title": "Presidente do TSE dá 24 horas para Meta investigar o “Exército do Lula",
+        "excerpt": "O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, solicitou a Meta um relatório sobre as ações do canal \"Exército do Lula\", idealizado pelo pelo deputado federal André Janones (Rede-MG). O ministro estabeleceu um prazo de 24 horas para receber as informações. Atualmente, o canal de Whatsapp \"Exército do Lula\" possui mais de 8 milhões de inscritos.No pedido, o ministro determ",
+        "url": "https://atarde.com.br/politica/presidente-do-tse-da-24-horas-para-meta-investigar-o-exercito-do-lula-1406740",
+        "publishedAt": "2026-10-22T21:02:01.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/presidente-do-tse-da-24-horas-para-meta-investigar0140674000202610221802.jpg?xid=7363558"
+      }
+    ],
+    "image": "https://s2-oglobo.glbimg.com/R_Ja15OozWuas3y0hK5NbzNjPGI=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/a/c/B4GIF4QFaqAePWnWY4Hw/nunes-marques.png",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-c3b40e93",
+    "slug": "saiba-como-o-fato-ou-fake-checara-declaracoes-dos-candidatos-no-debate",
+    "title": "Fato ou Fake checará declarações dos candidatos no debate de 2⁰ turno da Globo",
+    "summary": [
+      "A Globo terá uma \"regra antideboche\" para o debate entre Lula ( PT ) e Flávio Bolsonaro , que vai acontecer nesta sexta (23), após o Jornal Nacional",
+      "Será o segundo encontro, após a primeira etapa das eleições, de Luiz Inácio Lula da Silva (PT), que tenta a reeleição, e Flávio Bolsonaro (PL), senador e filho mais velho do ex-presidente Jair Bolsonaro",
+      "Olga Curado, que ajudou Lula na reeleição e treinou Dilma Rousseff, passa o dia em Brasília para orientar o presidente"
+    ],
+    "debate": "Em disputa: Leia mais (10/22/2026 - 15h10).",
+    "theme": "Política",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-79aa8739",
+        "sourceId": "globo",
+        "title": "Saiba como o Fato ou Fake checará declarações dos candidatos no debate de 2⁰ turno da Globo",
+        "excerpt": "",
+        "url": "https://oglobo.globo.com/fato-ou-fake/noticia/2026/10/22/saiba-como-o-fato-ou-fake-checara-declaracoes-dos-candidatos-no-debate-de-2-turno-da-globo.ghtml",
+        "publishedAt": "2026-10-22T16:49:19.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-oglobo.glbimg.com/Y0JBa5K7nEsHAa6S_BgpqEFXZw8=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/l/B/mHHMdnTEGqR6OhLAQXow/banner-marcas-azul-01.avif"
+      },
+      {
+        "id": "a-50ccdff2",
+        "sourceId": "cbn",
+        "title": "Fato ou Fake checará declarações dos candidatos no debate de 2⁰ turno da Globo",
+        "excerpt": "",
+        "url": "https://cbn.globo.com/politica/noticia/2026/10/22/fato-ou-fake-checara-declaracoes-dos-candidatos-no-debate-de-2-turno-da-globo.ghtml",
+        "publishedAt": "2026-10-22T17:27:07.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-cbn.glbimg.com/cwMgHimAL5AQGYQv4U1aAn0wV3Q=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/t/r/1roCBcRzysJ1qnCVQBSQ/captura-de-tela-2026-10-22-141412.png"
+      },
+      {
+        "id": "a-e9f3838c",
+        "sourceId": "valor",
+        "title": "Saiba como o Fato ou Fake checará declarações dos candidatos no debate de 2⁰ turno da Globo",
+        "excerpt": "",
+        "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/22/saiba-como-o-fato-ou-fake-checara-declaracoes-dos-candidatos-no-debate-de-2-turno-da-globo.ghtml",
+        "publishedAt": "2026-10-22T17:38:10.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-valor.glbimg.com/McMgKZLsKR8kI8uNhgHRE9bWAn4=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/s/p/aeTyrzTbWX5LhtpJcp6w/fatofake.png"
+      },
+      {
+        "id": "a-b64f6ac7",
+        "sourceId": "folha",
+        "title": "Globo terá regra 'antideboche' e proíbe Flávio Bolsonaro de aparecer atrás de Lula em debate",
+        "excerpt": "A Globo terá uma \"regra antideboche\" para o debate entre Lula ( PT ) e Flávio Bolsonaro , que vai acontecer nesta sexta (23), após o Jornal Nacional. Durante os três primeiros blocos do debate, o candidato que não tiver a palavra não poderá se movimentar livremente pelo cenário. Leia mais (10/22/2026 - 15h10)",
+        "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/globo-cria-regra-antideboche-e-proibe-flavio-bolsonaro-de-aparecer-atras-de-lula-em-debate.shtml",
+        "publishedAt": "2026-10-22T18:10:00.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-b18faf0d",
+        "sourceId": "metropoles",
+        "title": "Lula x Flávio: Globo divulga regras para debate com medida “anti-deboche",
+        "excerpt": "",
+        "url": "https://metropoles.com/brasil/lula-x-flavio-globo-divulga-regras-para-debate-com-medida-anti-deboche",
+        "publishedAt": "2026-10-22T19:14:28.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://images.metroimg.com/2026/10/lula-e-flavio-debate-band-2.jpg"
+      },
+      {
+        "id": "a-17d9c6ce",
+        "sourceId": "moneytimes",
+        "title": "Globo define regras para o debate entre Flávio Bolsonaro e Lula desta sexta-feira; saiba como vai funcionar",
+        "excerpt": "As regras do debate presidencial de segundo turno da Rede Globo, marcado para sexta-feira (23), foram definidas pela emissora de televisão. Será o segundo encontro, após a primeira etapa das eleições, de Luiz Inácio Lula da Silva (PT), que tenta a reeleição, e Flávio Bolsonaro (PL), senador e filho mais velho do ex-presidente Jair Bolsonaro. […]",
+        "url": "https://moneytimes.com.br/globo-define-regras-para-o-debate-entre-flavio-bolsonaro-e-lula-saiba-como-vai-funcionar-davs/",
+        "publishedAt": "2026-10-22T20:50:35.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-05b8b7ab",
+        "sourceId": "poder360",
+        "title": "Globo” anuncia checagem de fatos para o debate de Lula e Flávio",
+        "excerpt": "Empresa terá equipes para verificar as declarações dos candidatos durante o último debate antes do 2º turno",
+        "url": "https://poder360.com.br/poder-eleicoes-2026/globo-anuncia-checagem-de-fatos-para-o-debate-de-lula-e-flavio/",
+        "publishedAt": "2026-10-22T21:01:29.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-a45ee930",
+        "sourceId": "sbt",
+        "title": "Lula convoca consultora de 2006 para debate da Globo",
+        "excerpt": "Olga Curado, que ajudou Lula na reeleição e treinou Dilma Rousseff, passa o dia em Brasília para orientar o presidente",
+        "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/lula-convoca-consultora-de-2006-para-debate-da-globo",
+        "publishedAt": "2026-10-22T21:18:35.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/olgacurado_cefe0b0302.jpg"
+      }
+    ],
+    "image": "https://s2-cbn.glbimg.com/cwMgHimAL5AQGYQv4U1aAn0wV3Q=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/t/r/1roCBcRzysJ1qnCVQBSQ/captura-de-tela-2026-10-22-141412.png",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-aad34bb9",
+    "slug": "datafolha-no-df-2-turno-celina-leao-54-leandro-grass-37",
+    "title": "Datafolha no DF, 2º turno: Celina Leão, 54%; Leandro Grass, 37%",
+    "summary": [
+      "A governadora Celina Leão ( PP ) lidera a disputa no segundo turno ao Governo do Distrito Federal , segundo pesquisa Datafolha divulgada nesta quinta-feira (22)",
+      "Celina Leão e Leandro Grass disputam o governo do Distrito Federal",
+      "Levantamento ouviu 910 eleitores do Distrito Federal de 20 a 22 de outubro; margem de erro é de 3 pontos percentuais"
+    ],
+    "debate": "Em disputa: Leia mais (10/22/2026 - 17h09).",
+    "theme": "Eleições",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-df4d0edc",
+        "sourceId": "folha",
+        "title": "Datafolha: Celina Leão mantém liderança no DF com 60% dos votos válidos, contra 40% de Grass",
+        "excerpt": "A governadora Celina Leão ( PP ) lidera a disputa no segundo turno ao Governo do Distrito Federal , segundo pesquisa Datafolha divulgada nesta quinta-feira (22). Leia mais (10/22/2026 - 17h09)",
+        "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-celina-leao-mantem-lideranca-no-df.shtml",
+        "publishedAt": "2026-10-22T20:09:00.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-4446e725",
+        "sourceId": "cbn",
+        "title": "Datafolha no DF, 2º turno: Celina Leão, 54%; Leandro Grass, 37%",
+        "excerpt": "",
+        "url": "https://cbn.globo.com/politica/noticia/2026/10/22/datafolha-no-df-2o-turno-celina-leao-54percent-leandro-grass-37percent.ghtml",
+        "publishedAt": "2026-10-22T20:16:07.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-cbn.glbimg.com/7kG-cG3U0yJ3tpdKpeXXZPnItic=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/p/J/YpSvinTceFeBol3mW1sA/site-template-grade-de-fotos-2-.png"
+      },
+      {
+        "id": "a-73600b90",
+        "sourceId": "metropoles",
+        "title": "Às vésperas do 2º turno, Celina tem 54% e Grass soma 37%, diz Datafolha",
+        "excerpt": "",
+        "url": "https://metropoles.com/colunas/grande-angular/as-vesperas-2o-turno-celina-tem-54-e-grass-soma-37-diz-datafolha",
+        "publishedAt": "2026-10-22T20:23:15.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://images.metroimg.com/2026/10/whatsapp-image-2026-10-22-at-17-26-38.jpeg"
+      },
+      {
+        "id": "a-c78e1e26",
+        "sourceId": "valor",
+        "title": "Datafolha: No DF, Celina Leão tem 54% das intenções de voto contra 37% de Leandro Grass",
+        "excerpt": "",
+        "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/22/datafolha-no-df-celina-leao-tem-54percent-das-intencoes-de-voto-contra-37percent-de-leandro-grass.ghtml",
+        "publishedAt": "2026-10-22T20:46:46.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-valor.glbimg.com/xov4bKKS2RDLjRgppo9ZpSW4sGQ=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/U/J/Go0uRkT6qcAYHgCzGj4g/montagem-1791569506193.jpg"
+      },
+      {
+        "id": "a-03b7f75b",
+        "sourceId": "infomoney",
+        "title": "Datafolha: No 2º turno, Celina Leão tem 54% e Leandro Grass 37% no DF",
+        "excerpt": "Celina Leão e Leandro Grass disputam o governo do Distrito Federal. Fotos: Divulgação / DF | IPHAN \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/09/Eleicao-pelo-governo-do-Rio-tem-corrida-por-apoio-evangelico.png?fit=1200%2C600&quality=70&strip=all\" />Atual governadora é aprovada por 54% dos entrevistados The post Datafolha: No 2º turno, Celina Leão tem 54% e Leandro Gras",
+        "url": "https://infomoney.com.br/politica/datafolha-segundo-turno-df/",
+        "publishedAt": "2026-10-22T20:58:36.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Eleicao-pelo-governo-do-Rio-tem-corrida-por-apoio-evangelico.png?fit=300%2C150&amp;quality=70&amp;strip=all"
+      },
+      {
+        "id": "a-3f3cbd5e",
+        "sourceId": "poder360",
+        "title": "Celina Leão tem 54% contra 37% de Leandro Grass, diz Datafolha",
+        "excerpt": "Levantamento ouviu 910 eleitores do Distrito Federal de 20 a 22 de outubro; margem de erro é de 3 pontos percentuais",
+        "url": "https://poder360.com.br/poder-eleicoes-2026/celina-leao-tem-54-contra-37-de-leandro-grass-diz-datafolha/",
+        "publishedAt": "2026-10-22T21:17:40.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      }
+    ],
+    "image": "https://s2-cbn.glbimg.com/7kG-cG3U0yJ3tpdKpeXXZPnItic=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/p/J/YpSvinTceFeBol3mW1sA/site-template-grade-de-fotos-2-.png",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-80a822c5",
+    "slug": "apos-impasse-justica-eleitoral-garante-transporte-de-eleitores-indigen",
+    "title": "Após impasse, Justiça Eleitoral garante transporte de eleitores indígenas do Vale do Javari no 2º turno",
+    "summary": [
+      "Mais de 158,7 milhões de eleitoras e eleitores vão às urnas, neste domingo (25), em todo o país, para decidir quem presidirá o Brasil de 2027 a 2030",
+      "Além do presidente, os eleitores do Distrito Federal e de outros cinco estados , onde a disputa não foi decidida no primeiro turno, também vão às urnas daqui a três dias",
+      "Haverá segundo turno no Acre , Amazonas , Espírito Santo , Rio Grande do Norte"
+    ],
+    "debate": "Em disputa: Leia mais (10/22/2026 - 17h15).",
+    "theme": "Eleições",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-1284e0c6",
+        "sourceId": "cbn",
+        "title": "Após impasse, Justiça Eleitoral garante transporte de eleitores indígenas do Vale do Javari no 2º turno",
+        "excerpt": "",
+        "url": "https://cbn.globo.com/coberturas/eleicoes-2026/noticia/2026/10/22/apos-impasse-justica-eleitoral-garante-transporte-de-eleitores-indigenas-do-vale-do-javari-no-2o-turno.ghtml",
+        "publishedAt": "2026-10-22T13:09:19.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-cbn.glbimg.com/0uCJvSoqFrf7SBDxh-kW-YtybFE=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/h/X/2lWQ3rTnyV0KMbHU6lKg/32876629578-bcaef0d303-h.jpg"
+      },
+      {
+        "id": "a-53059d53",
+        "sourceId": "agenciabrasil",
+        "title": "Prefeituras e estados devem garantir transporte gratuito no 2° turno",
+        "excerpt": "Mais de 158,7 milhões de eleitoras e eleitores vão às urnas, neste domingo (25), em todo o país, para decidir quem presidirá o Brasil de 2027 a 2030. Além do presidente, os eleitores do Distrito Federal e de outros cinco estados , onde a disputa não foi decidida no primeiro turno, também vão às urnas daqui a três dias. Haverá segundo turno no Acre , Amazonas , Espírito Santo , Rio Grande do Norte",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-prefeituras-estados-devem-garantir-transporte-gratuito-no-segundo-turno",
+        "publishedAt": "2026-10-22T18:21:00.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-1dbca820",
+        "sourceId": "folha",
+        "title": "Após negar pedido, Justiça eleitoral do Amazonas diz que transporte para indígenas no Vale do Javari no 2º turno está garantido",
+        "excerpt": "Um dia após ter negado judicialmente pedido da União dos Povos Indígenas do Vale do Javari (Univaja) para que fosse fornecido transporte fluvial gratuito para o 2º turno das eleições aos indígenas da Terra Indígena Vale do Javari, o TRE-AM (Tribunal Regional Eleitoral do Amazonas ) disse que a locomoção dos eleitores das aldeias para o pleito está garantida. Leia mais (10/22/2026 - 17h15)",
+        "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/apos-negar-pedido-justica-eleitoral-do-amazonas-diz-que-transporte-para-indigenas-no-vale-do-javari-no-2o-turno-esta-garantido.shtml",
+        "publishedAt": "2026-10-22T20:15:00.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-bcd78b57",
+        "sourceId": "sbt",
+        "title": "Transporte gratuito no 2º turno é obrigatório",
+        "excerpt": "Prefeituras e estados devem garantir a locomoção da população neste domingo (25)",
+        "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/transporte-gratuito-no-2-turno-e-obrigatorio",
+        "publishedAt": "2026-10-22T21:02:02.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/transporte_publico_d20a1124dc.jpg"
+      },
+      {
+        "id": "a-199b81bb",
+        "sourceId": "globo",
+        "title": "Justiça determina que União garanta transporte e alimentação a indígenas no segundo turno",
+        "excerpt": "",
+        "url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/10/justica-determina-que-uniao-garanta-transporte-e-alimentacao-a-indigenas-no-segundo-turno.ghtml",
+        "publishedAt": "2026-10-22T21:07:44.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-oglobo.glbimg.com/hI9FASfwKomCo-GBvhkOuAFtDoY=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/U/M/fz4ee4TRuR8c5fTq7iCw/re-am-cobra-explicacoes-sobre-veto-a-barcos-no-javari-mas-deixa-transporte-de-indigenas-sem-decisao-a-quatro-dias-do-2-turno-da7ad.jpg"
+      }
+    ],
+    "image": "https://s2-cbn.glbimg.com/0uCJvSoqFrf7SBDxh-kW-YtybFE=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/h/X/2lWQ3rTnyV0KMbHU6lKg/32876629578-bcaef0d303-h.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-0d62b820",
+    "slug": "empresario-suspeito-de-agredir-esposa-com-taco-de-beisebol-e-solto-em-",
+    "title": "Empresário de SP acusado de agredir mulher deixa prisão e usará tornozeleira, diz defesa",
+    "summary": [
+      "Suspeito de agredir e ameaçar a esposa, o empresário Ivo Kros, de 48 anos, teve a prisão preventiva revogada pela Justiça de São Paulo e deixou o presídio nesta quarta-feira (21)",
+      "Segundo Giullia Falcão, esposa de Ivo, ele a teria agredido na mão direita com um golpe de taco de b",
+      "O empresário Ivo Vel Kos , 48, réu sob acusação de agredir e ameaçar a ex- mulher , deixou a Penitenciária de Potim II (a 158 km de SP) na quarta-feira (21), após a Justiça revogar sua prisão preventiva"
+    ],
+    "debate": "Em disputa: Caso ganhou repercussão depois que a vítima publicou nas redes sociais imagens dos ferimentos que sofreu.",
+    "theme": "Segurança",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-286c9a73",
+        "sourceId": "cnnbrasil",
+        "title": "Empresário suspeito de agredir esposa com taco de beisebol é solto em SP",
+        "excerpt": "Ivo Kos foi preso em agosto por agredir e ameaçar a esposa, Giullia Falcão, de 27 anos; a mulher relatou ter ficado com lesões e com um dedo fraturado",
+        "url": "https://cnnbrasil.com.br/nacional/sudeste/sp/empresario-suspeito-de-agredir-esposa-com-taco-de-beisebol-e-solto-em-sp/",
+        "publishedAt": "2026-10-22T17:42:45.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-f09dc7c7",
+        "sourceId": "globo",
+        "title": "Ivo Vel Kos, acusado de agredir e ameaçar a esposa, deixa a prisão após dois meses detido",
+        "excerpt": "",
+        "url": "https://oglobo.globo.com/brasil/noticia/2026/10/22/ivo-vel-kos-acusado-de-agredir-e-ameacar-a-esposa-deixa-a-prisao-apos-dois-meses-detido.ghtml",
+        "publishedAt": "2026-10-22T19:05:07.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-oglobo.glbimg.com/Z1vHkzOsnPhdSg27Q8hBz9FZVK4=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/L/I/AD0JEXTmeRDbFZEkkMAg/design-sem-nome.jpeg"
+      },
+      {
+        "id": "a-78f52102",
+        "sourceId": "jovempan",
+        "title": "Empresário acusado de agredir esposa é solto em SP após decisão da Justiça",
+        "excerpt": "Caso ganhou repercussão depois que a vítima publicou nas redes sociais imagens dos ferimentos que sofreu",
+        "url": "https://jovempan.com.br/brasil/empresario-acusado-de-agredir-esposa-e-solto-em-sp-apos-decisao-da-justica/",
+        "publishedAt": "2026-10-22T20:20:15.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-6ab78a8c",
+        "sourceId": "atarde",
+        "title": "Empresário suspeito de agredir esposa com taco de beisebol é solto",
+        "excerpt": "Suspeito de agredir e ameaçar a esposa, o empresário Ivo Kros, de 48 anos, teve a prisão preventiva revogada pela Justiça de São Paulo e deixou o presídio nesta quarta-feira (21). Ele estava preso na Penitenciária de Potim II, no interior do estado.O caso aconteceu na madrugada do dia 15 de agosto. Segundo Giullia Falcão, esposa de Ivo, ele a teria agredido na mão direita com um golpe de taco de b",
+        "url": "https://atarde.com.br/brasil/empresario-suspeito-de-agredir-esposa-com-taco-de-beisebol-e-solto-1406741",
+        "publishedAt": "2026-10-22T21:04:30.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/empresario-suspeito-de-agredir-esposa-com-taco-de-0140674100202610221804.jpg?xid=7363563"
+      },
+      {
+        "id": "a-d506cf04",
+        "sourceId": "folha",
+        "title": "Empresário de SP acusado de agredir mulher deixa prisão e usará tornozeleira, diz defesa",
+        "excerpt": "O empresário Ivo Vel Kos , 48, réu sob acusação de agredir e ameaçar a ex- mulher , deixou a Penitenciária de Potim II (a 158 km de SP) na quarta-feira (21), após a Justiça revogar sua prisão preventiva. Leia mais (10/22/2026 - 18h15)",
+        "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/empresario-de-sp-acusado-de-agredir-mulher-deixa-prisao-e-usara-tornozeleira-diz-defesa.shtml",
+        "publishedAt": "2026-10-22T21:15:00.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      }
+    ],
+    "image": "https://s2-oglobo.glbimg.com/Z1vHkzOsnPhdSg27Q8hBz9FZVK4=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/L/I/AD0JEXTmeRDbFZEkkMAg/design-sem-nome.jpeg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-08f7a4f6",
+    "slug": "terremoto-de-magnitude-7-atinge-tibete-na-china",
+    "title": "Terremoto de magnitude 7 atinge o Tibete",
+    "summary": [
+      "Um forte terremoto de magnitude 7 atingiu a região do Tibete, na China, na noite desta quinta-feira (22), informaram sismólogos dos Estados Unidos",
+      "Não houve relatos imediatos de vítimas ou danos",
+      "O epicentro do tremor, ocorrido às 22h33 (11h33 no horário de Brasília), localizou-se cerca de 190 quilômetros a leste-nordeste de Nagqu e 390 quilômetros a nordeste de Lhasa"
+    ],
+    "debate": "Em disputa: O terremoto ocorreu a uma p.",
+    "theme": "Internacional",
+    "region": "sudeste",
+    "state": "DF",
+    "articles": [
+      {
+        "id": "a-58aa71a0",
+        "sourceId": "journaldebrasilia",
+        "title": "Terremoto de magnitude 7 abala região chinesa do Tibete",
+        "excerpt": "Um forte terremoto de magnitude 7 atingiu a região do Tibete, na China, na noite desta quinta-feira (22), informaram sismólogos dos Estados Unidos. Não houve relatos imediatos de vítimas ou danos. O epicentro do tremor, ocorrido às 22h33 (11h33 no horário de Brasília), localizou-se cerca de 190 quilômetros a leste-nordeste de Nagqu e 390 quilômetros a nordeste de Lhasa. O terremoto ocorreu a uma p",
+        "url": "https://jornaldebrasilia.com.br/noticias/mundo/terremoto-de-magnitude-7-abala-regiao-chinesa-do-tibete/",
+        "publishedAt": "2026-10-22T16:51:45.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/10/22135057/Design-sem-nome-7-4.jpg"
+      },
+      {
+        "id": "a-c106af88",
+        "sourceId": "valor",
+        "title": "Terremoto de magnitude 7 atinge o Tibete, o maior na China em quase 3 anos",
+        "excerpt": "",
+        "url": "https://valor.globo.com/mundo/noticia/2026/10/22/terremoto-de-magnitude-7-atinge-o-tibete-o-maior-na-china-em-quase-3-anos.ghtml",
+        "publishedAt": "2026-10-22T16:57:49.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-valor.glbimg.com/8En1wdYfynhk0m0aXfjLu63e0M0=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/I/9/tb4WQ8TNKAT2RdOx7sOw/2026-08-28t055446z-1889601841-rc2h7na3o7j0-rtrmadp-3-nepal-floods-china.jpg"
+      },
+      {
+        "id": "a-cba7a7cd",
+        "sourceId": "metropoles",
+        "title": "Terremoto de magnitude 7 atinge Tibete, na China",
+        "excerpt": "",
+        "url": "https://metropoles.com/mundo/terremoto-de-magnitude-7-atinge-tibete-na-china",
+        "publishedAt": "2026-10-22T17:11:30.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://images.metroimg.com/2026/10/terremoto-de-magnitude-7-atinge-tibete-na-china.jpg"
+      },
+      {
+        "id": "a-b18cb0ed",
+        "sourceId": "globo",
+        "title": "Terremoto de magnitude 7 deixa 16 mortos e 32 feridos no Tibete, na China",
+        "excerpt": "",
+        "url": "https://oglobo.globo.com/mundo/noticia/2026/10/22/terremoto-de-magnitude-7-deixa-16-mortos-e-32-feridos-no-tibete-na-china.ghtml",
+        "publishedAt": "2026-10-22T20:40:48.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-oglobo.glbimg.com/8gHnoKkw0fWEUGYklvAYhM7Zp5Q=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/L/u/rRyLOjQzKB8h3dNNMxXw/137685799-15452619751151n.jpg"
+      },
+      {
+        "id": "a-b4ca9582",
+        "sourceId": "sbt",
+        "title": "Terremoto de magnitude 7 atinge o Tibete",
+        "excerpt": "Tremor é o mais forte a atingir a China desde 2024",
+        "url": "https://sbtnews.sbt.com.br/noticia/mundo/terremoto-de-magnitude-7-atinge-o-tibete",
+        "publishedAt": "2026-10-22T21:11:12.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/paisagem_do_tibete_b9aea61b13.jpg"
+      }
+    ],
+    "image": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/10/22135057/Design-sem-nome-7-4.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
   },
   {
     "id": "st-adb2a8b4",
@@ -196,6 +719,364 @@
     "updatedAt": "2026-10-22T19:21:38.606Z"
   },
   {
+    "id": "st-d93331da",
+    "slug": "bradesco-bbdc4-tem-lucro-liquido-recorrente-de-r-7-1-bi-no-3-trimestre",
+    "title": "Bradesco (BBDC4) tem lucro líquido recorrente de R$ 7,1 bi no 3º trimestre de 2026",
+    "summary": [
+      "O banco divulgou seus dados nesta quinta-feira (22) The post Bradesco (BBDC4) tem lucro líquido recorrente de R$ 7,1 bi no 3º trimestre de 2026 appeared first on InfoMoney",
+      "O Bradesco (BBDC4) encerrou o terceiro trimestre de 2026 (3T26) com lucro líquido recorrente de R$ 7,1 bilhões, um avanço de 14,6% na base anual e em linha com as expectativas do mercado, que apontavam para R$ 7,145 bilhões, segundo o consenso da Bloomberg",
+      "Segundo o balanço financeiro do banco publicado nesta quinta-feira (22), o resultado líquido somou R$ 7,1 bilhões no terceiro trimestre deste ano, um aumento de 0,8% na comparação trimestral e de 14,6% na anual"
+    ],
+    "debate": "Em disputa: Leia mais (10/22/2026 - 18h24).",
+    "theme": "Economia",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-f627c173",
+        "sourceId": "infomoney",
+        "title": "Bradesco (BBDC4) tem lucro líquido recorrente de R$ 7,1 bi no 3º trimestre de 2026",
+        "excerpt": "O banco divulgou seus dados nesta quinta-feira (22) The post Bradesco (BBDC4) tem lucro líquido recorrente de R$ 7,1 bi no 3º trimestre de 2026 appeared first on InfoMoney .",
+        "url": "https://infomoney.com.br/mercados/bradesco-bbdc4-resultados-terceiro-trimestre-2026/",
+        "publishedAt": "2026-10-22T21:02:33.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/bradesco_realista_1200x675.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      },
+      {
+        "id": "a-ad11f730",
+        "sourceId": "moneytimes",
+        "title": "Lucro do Bradesco (BBDC4) avança a R$ 7,1 bilhões no 3T26, em linha com as expectativas",
+        "excerpt": "O Bradesco (BBDC4) encerrou o terceiro trimestre de 2026 (3T26) com lucro líquido recorrente de R$ 7,1 bilhões, um avanço de 14,6% na base anual e em linha com as expectativas do mercado, que apontavam para R$ 7,145 bilhões, segundo o consenso da Bloomberg. Com o resultado, o banco completa o 11º trimestre consecutivo de […]",
+        "url": "https://moneytimes.com.br/lucro-do-bradesco-bbdc4-3t26-rentabilidade-roe-expectativas-miql/",
+        "publishedAt": "2026-10-22T21:04:46.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-96744aff",
+        "sourceId": "valor",
+        "title": "Bradesco tem lucro recorrente de R$ 7,109 bi no 3º tri, com alta de 0,8% no trimestre e 14,6% em 12 meses",
+        "excerpt": "",
+        "url": "https://valor.globo.com/financas/noticia/2026/10/22/bradesco-tem-lucro-recorrente-de-r-7109-bi-no-3-tri-com-alta-de-08-pontos-percentuais-no-trimestre-e-146-em-12-meses.ghtml",
+        "publishedAt": "2026-10-22T21:18:03.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-valor.glbimg.com/k-A1kUv7QzVHQIPp2aKHG-I-3PM=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/a/d/kNwfuZR5aQ8XGmBYYm9Q/281211bradesco07.jpg"
+      },
+      {
+        "id": "a-f0f5d52b",
+        "sourceId": "folha",
+        "title": "Bradesco segura despesas e lucro sobe para R$ 7,1 bilhões no 3º tri",
+        "excerpt": "Em um cenário de maior cautela na concessão de crédito, o Bradesco segurou as despesas e conseguiu entregar um crescimento no lucro. Segundo o balanço financeiro do banco publicado nesta quinta-feira (22), o resultado líquido somou R$ 7,1 bilhões no terceiro trimestre deste ano, um aumento de 0,8% na comparação trimestral e de 14,6% na anual. Leia mais (10/22/2026 - 18h24)",
+        "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/bradesco-segura-despesas-e-lucro-sobe-para-r-71-bilhoes-no-3o-tri.shtml",
+        "publishedAt": "2026-10-22T21:24:00.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      }
+    ],
+    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/bradesco_realista_1200x675.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-52298d4e",
+    "slug": "petroleo-brent-sobe-4-e-supera-us-113-maior-preco-desde-maio",
+    "title": "Petróleo Brent sobe 4% e supera US$ 113, maior preço desde maio",
+    "summary": [
+      "Os preços do petróleo fecharam em alta nesta quinta-feira (22), com o Brent atingindo o maior nível desde meados de maio, à medida que continuam os ataques entre Houthis e Arábia Saudita, no Mar Vermelho, e aumentam os temores de uma retomada de ações militares de Estados Unidos e Israel contra o Irã"
+    ],
+    "debate": "Em disputa: Petróleo sobe tensões no Oriente Médio; Brent atinge maior valor desde maio.",
+    "theme": "Economia",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-6824435a",
+        "sourceId": "moneytimes",
+        "title": "Petróleo sobe tensões no Oriente Médio; Brent atinge maior valor desde maio",
+        "excerpt": "Os preços do petróleo fecharam em alta nesta quinta-feira (22), com o Brent atingindo o maior nível desde meados de maio, à medida que continuam os ataques entre Houthis e Arábia Saudita, no Mar Vermelho, e aumentam os temores de uma retomada de ações militares de Estados Unidos e Israel contra o Irã. Negociado na […]",
+        "url": "https://moneytimes.com.br/petroleo-22-10-26-lils/",
+        "publishedAt": "2026-10-22T19:22:39.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-1564d33d",
+        "sourceId": "valor",
+        "title": "Petróleo Brent sobe 4% e supera US$ 113, maior preço desde maio",
+        "excerpt": "",
+        "url": "https://valor.globo.com/financas/noticia/2026/10/22/petroleo-brent-sobe-4percent-e-supera-us-113-maior-preco-desde-maio.ghtml",
+        "publishedAt": "2026-10-22T19:31:53.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-valor.glbimg.com/Ch5NnX-bcYu0KVr_uLre2FOfyR4=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/P/U/aRcZNnS52SLtR1j4Di5g/333789047.jpg"
+      },
+      {
+        "id": "a-f7345631",
+        "sourceId": "metropoles",
+        "title": "Petróleo sobe 4% e barril ultrapassa US$ 113, maior patamar desde maio",
+        "excerpt": "",
+        "url": "https://metropoles.com/brasil/petroleo-sobe-4-e-barril-ultrapassa-us-113-maior-patamar-desde-maio",
+        "publishedAt": "2026-10-22T20:26:53.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://images.metroimg.com/2026/03/barris-petroleo-1.jpg"
+      },
+      {
+        "id": "a-141f4905",
+        "sourceId": "globo",
+        "title": "Petróleo fecha no maior valor desde maio com novos ataques no Oriente Médio",
+        "excerpt": "",
+        "url": "https://oglobo.globo.com/economia/financas/ao-vivo/ibovespa-hoje-acompanhe-bolsa-e-dolar.ghtml",
+        "publishedAt": "2026-10-22T20:33:26.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-oglobo.glbimg.com/SjAxXHTexOjggckiAFZb2E9SQVY=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/I/c/MAnMbITbA04HJIvgKYwQ/466996247.jpg"
+      }
+    ],
+    "image": "https://s2-valor.glbimg.com/Ch5NnX-bcYu0KVr_uLre2FOfyR4=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/P/U/aRcZNnS52SLtR1j4Di5g/333789047.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-2d1da12a",
+    "slug": "qual-e-o-horario-de-votacao-das-eleicoes-2026-no-segundo-turno",
+    "title": "Qual é o horário de votação das eleições 2026 no segundo turno?",
+    "summary": [
+      "Quase 2,5 mil eleitores paraibanos precisarão ficar atentos ao endereço de votação no segundo turno das eleições de 2026",
+      "Ao todo, 2.447 pessoas terão… O post Quase 2,5 mil eleitores terão locais de votação alterados na Paraíba; veja como consultar apareceu primeiro em Contrapoder"
+    ],
+    "debate": "Em disputa: Quase 2,5 mil eleitores terão locais de votação alterados na Paraíba; veja como consultar.",
+    "theme": "Eleições",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-1fed2a16",
+        "sourceId": "contrapoder",
+        "title": "Quase 2,5 mil eleitores terão locais de votação alterados na Paraíba; veja como consultar",
+        "excerpt": "Quase 2,5 mil eleitores paraibanos precisarão ficar atentos ao endereço de votação no segundo turno das eleições de 2026. Ao todo, 2.447 pessoas terão… O post Quase 2,5 mil eleitores terão locais de votação alterados na Paraíba; veja como consultar apareceu primeiro em Contrapoder .",
+        "url": "https://contrapoder.com.br/2026/10/20/quase-25-mil-eleitores-terao-locais-de-votacao-alterados-na-paraiba-veja-como-consultar/",
+        "publishedAt": "2026-10-20T19:30:24.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-f8c6c9d8",
+        "sourceId": "cbn",
+        "title": "Penúltima pesquisa do Datafolha para eleições 2026 será divulgada nesta quinta (22); veja horário",
+        "excerpt": "",
+        "url": "https://cbn.globo.com/coberturas/eleicoes-2026/noticia/2026/10/22/penultima-pesquisa-do-datafolha-para-eleicoes-2026-sera-divulgada-nesta-quinta-22-veja-horario.ghtml",
+        "publishedAt": "2026-10-22T09:18:36.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-cbn.glbimg.com/vEKgWN_mg4fLsSjokAYClDBea7I=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/z/w/uUFfGFQGehklDmCqGCpA/site-template-grade-de-fotos-2026-09-07t142421.189.png"
+      },
+      {
+        "id": "a-1344b334",
+        "sourceId": "globo",
+        "title": "Qual é o horário de votação das eleições 2026 no segundo turno?",
+        "excerpt": "",
+        "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/qual-e-o-horario-de-votacao-das-eleicoes-2026-no-segundo-turno.ghtml",
+        "publishedAt": "2026-10-22T18:15:17.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-oglobo.glbimg.com/s4Xfad_cEd8OXkteYvM7hbvDO-s=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/e/o/KBzqm5TIulE198IpdBug/5-horario-eleicoes.png"
+      },
+      {
+        "id": "a-b81ef6dc",
+        "sourceId": "diariodopara",
+        "title": "Seu local de votação pode ter mudado; veja como consultar para o 2º turno",
+        "excerpt": "Vai votar no domingo? Veja como confirmar seu local de votação Eleitores já podem consultar o local de votação para o segundo turno das eleições de 2026. A verificação pode ser feita pelo aplicativo e-Título, Autoatendimento Eleitoral e ChatVote. O post Seu local de votação pode ter mudado; veja como consultar para o 2º turno apareceu primeiro em Diário do Pará .",
+        "url": "https://diariodopara.com.br/eleicoes-2026/seu-local-de-votacao-pode-ter-mudado-veja-como-consultar-para-o-2o-turno/",
+        "publishedAt": "2026-10-22T18:29:17.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_images_-_2026-10-19T154209_612.jpg"
+      }
+    ],
+    "image": "https://s2-cbn.glbimg.com/vEKgWN_mg4fLsSjokAYClDBea7I=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/z/w/uUFfGFQGehklDmCqGCpA/site-template-grade-de-fotos-2026-09-07t142421.189.png",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-bbc04943",
+    "slug": "pms-sao-acusados-de-obrigar-jovens-presos-por-suspeita-de-trafico-a-ve",
+    "title": "PMs são acusados de obrigar jovens presos por suspeita de tráfico a vestir camiseta do PT",
+    "summary": [
+      "Policiais militares de Piracicaba, no interior de São Paulo, são acusados de obrigar três suspeitos de tráfico de drogas a vestir camisetas da campanha do presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, antes de apresentá-los na delegacia",
+      "Policiais são acusados de obrigar jovens detidos em Piracicaba a vestir camisetas de apoio ao presidente Lula",
+      "A Secretaria de Segurança Pública (SSP) de São Paulo diz que foi instaurada uma investigação preliminar para apurar a denúncia de que policiais militares obrigaram um adolescente e dois homens detidos por suspeita de tráfico de drogas a vestirem uma camiseta em apoio ao candidato Lula ( PT )"
+    ],
+    "debate": "Em disputa: A PM nega ter sido informada, até o mome.",
+    "theme": "Segurança",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-7f0f0443",
+        "sourceId": "journaldebrasilia",
+        "title": "PMs são acusados de obrigar jovens presos por suspeita de tráfico a vestir camiseta do PT",
+        "excerpt": "Policiais militares de Piracicaba, no interior de São Paulo, são acusados de obrigar três suspeitos de tráfico de drogas a vestir camisetas da campanha do presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, antes de apresentá-los na delegacia. A mãe de um dos detidos e a deputada estadual Professora Bebel (PT) sustentam que a cena foi forjada. A PM nega ter sido informada, até o mome",
+        "url": "https://jornaldebrasilia.com.br/noticias/brasil/pms-sao-acusados-de-obrigar-jovens-presos-por-suspeita-de-trafico-a-vestir-camiseta-do-pt/",
+        "publishedAt": "2026-10-22T17:31:02.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/10/22143017/5FNJBAHVMVHC7N4BRXKE36ZZQA.jpg"
+      },
+      {
+        "id": "a-db8c736e",
+        "sourceId": "jovempan",
+        "title": "PMs são acusados de obrigar presos por tráfico a vestir camiseta do PT em SP",
+        "excerpt": "Foram presos em flagrante dois homens, de 21 e 24 anos, e apreendido um adolescente de 17, que foi encaminhado à Fundação Casa",
+        "url": "https://jovempan.com.br/brasil/pms-sao-acusados-de-obrigar-presos-por-trafico-a-vestir-camiseta-do-pt-em-sp/",
+        "publishedAt": "2026-10-22T18:46:27.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-b4724eb2",
+        "sourceId": "sbt",
+        "title": "Ouvidoria quer afastar PMs após roupas do PT em presos",
+        "excerpt": "Policiais são acusados de obrigar jovens detidos em Piracicaba a vestir camisetas de apoio ao presidente Lula",
+        "url": "https://sbtnews.sbt.com.br/noticia/brasil/ouvidoria-quer-afastar-p-ms-apos-roupas-do-pt-em-presos",
+        "publishedAt": "2026-10-22T20:19:24.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/Detidos_usando_camisetas_em_apoio_ao_Lula_d78a80102c.jpg"
+      },
+      {
+        "id": "a-66f8d634",
+        "sourceId": "folha",
+        "title": "PM abre investigação para apurar se agentes obrigaram jovens presos a vestir camiseta do PT",
+        "excerpt": "A Secretaria de Segurança Pública (SSP) de São Paulo diz que foi instaurada uma investigação preliminar para apurar a denúncia de que policiais militares obrigaram um adolescente e dois homens detidos por suspeita de tráfico de drogas a vestirem uma camiseta em apoio ao candidato Lula ( PT ). Leia mais (10/22/2026 - 18h02)",
+        "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/pm-abre-investigacao-para-apurar-se-agentes-obrigaram-jovens-presos-a-vestir-camiseta-do-pt.shtml",
+        "publishedAt": "2026-10-22T21:02:00.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      }
+    ],
+    "image": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/10/22143017/5FNJBAHVMVHC7N4BRXKE36ZZQA.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-ad4f61ae",
+    "slug": "caixa-antecipa-sorteio-da-mega-sena-devido-ao-2-turno-das-eleicoes",
+    "title": "Mega-Sena sorteia prêmio de R$ 200 milhões nesta quinta (22)",
+    "summary": [
+      "Apostas podem ser feitas em casas lotéricas ou pela internet até as 20h",
+      "A Caixa Econômica Federal sorteia, a partir das 21h desta quinta-feira (22), o concurso 3073 da Mega-Sena",
+      "A estimativa é que o prêmio principal chegue a R$ 200 milhões"
+    ],
+    "debate": "Em disputa: Leia mais (10/22/2026 - 15h28).",
+    "theme": "Tecnologia",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-18e3e962",
+        "sourceId": "sbt",
+        "title": "Mega-Sena sorteia prêmio de R$ 200 milhões nesta quinta (22)",
+        "excerpt": "Apostas podem ser feitas em casas lotéricas ou pela internet até as 20h",
+        "url": "https://sbtnews.sbt.com.br/noticia/brasil/mega-sena-sorteia-premio-de-r-200-milhoes-nesta-quinta-22",
+        "publishedAt": "2026-10-22T07:00:00.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/cartela_da_mega_sena_sendo_preenchida_e8e256a38a.jpg"
+      },
+      {
+        "id": "a-a0e64619",
+        "sourceId": "cnnbrasil",
+        "title": "Mega-Sena: Caixa altera dia de sorteio por causa do 2º turno das eleições",
+        "excerpt": "Veja como apostar, os valores dos jogos e as regras de premiação",
+        "url": "https://cnnbrasil.com.br/economia/seu-bolso/loterias/mega-sena-caixa-altera-dia-de-sorteio-por-causa-do-2o-turno-das-eleicoes/",
+        "publishedAt": "2026-10-22T17:08:27.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-397194f2",
+        "sourceId": "metropoles",
+        "title": "Caixa antecipa sorteio da Mega-Sena devido ao 2º turno das eleições",
+        "excerpt": "",
+        "url": "https://metropoles.com/brasil/caixa-antecipa-sorteio-da-mega-sena-devido-ao-2o-turno-das-eleicoes",
+        "publishedAt": "2026-10-22T18:21:27.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://images.metroimg.com/2026/04/destaque-mega-senajpg.jpeg"
+      },
+      {
+        "id": "a-f41cc39d",
+        "sourceId": "folha",
+        "title": "Confira a partir das 21h desta quinta (22) o resultado do concurso 3073 da Mega-Sena",
+        "excerpt": "A Caixa Econômica Federal sorteia, a partir das 21h desta quinta-feira (22), o concurso 3073 da Mega-Sena . A estimativa é que o prêmio principal chegue a R$ 200 milhões. Leia mais (10/22/2026 - 15h28)",
+        "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/confira-a-partir-das-21h-desta-quinta-22-o-resultado-do-concurso-3073-da-mega-sena.shtml",
+        "publishedAt": "2026-10-22T18:28:00.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      }
+    ],
+    "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/cartela_da_mega_sena_sendo_preenchida_e8e256a38a.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-53ca7d99",
+    "slug": "palmeiras-elimina-o-fluminense-nos-penaltis-e-vai-a-final-da-libertado",
+    "title": "Palmeiras elimina o Fluminense nos pênaltis e vai à final da Libertadores",
+    "summary": [
+      "A classificação do Palmeiras para a final da Copa Libertadores rendeu muita comemoração entre os"
+    ],
+    "debate": "Em disputa: Palmeiras elimina o Fluminense nos pênaltis e vai à final da Libertadores.",
+    "theme": "Esportes",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-97bc0e10",
+        "sourceId": "sbt",
+        "title": "Palmeiras x Fluminense: onde assistir ao vivo e horário",
+        "excerpt": "Palmeiras recebe o Fluminense no Allianz Parque pelo jogo de volta da semifinal da Libertadores",
+        "url": "https://sbtnews.sbt.com.br/noticia/mundo/palmeiras-x-fluminense-onde-assistir-ao-vivo-e-horario",
+        "publishedAt": "2026-10-21T21:30:00.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/Palmeiras_x_Fluminense_5e828e36f8.jpg"
+      },
+      {
+        "id": "a-0019191d",
+        "sourceId": "cbn",
+        "title": "Palmeiras elimina o Fluminense nos pênaltis e vai à final da Libertadores",
+        "excerpt": "",
+        "url": "https://cbn.globo.com/esporte/noticia/2026/10/22/palmeiras-elimina-o-fluminense-nos-penaltis-e-vai-a-final-da-libertadores.ghtml",
+        "publishedAt": "2026-10-22T08:56:18.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-cbn.glbimg.com/BFrP_scjpK3KT1DnNnU5WdKB_-w=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/q/e/aCqcypQR2o4ciYUR1J2Q/afp-20261022-d42c8dr-v1-midres-fbllibertadorespalmeirasfluminense.jpg"
+      },
+      {
+        "id": "a-c0c8cbf7",
+        "sourceId": "metropoles",
+        "title": "Palmeiras chega à 8ª final da Libertadores e se torna 3º com mais decisões",
+        "excerpt": "",
+        "url": "https://metropoles.com/esportes/palmeiras-chega-a-8a-final-da-libertadores-e-se-torna-3o-com-mais-decisoes",
+        "publishedAt": "2026-10-22T17:09:18.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://images.metroimg.com/2026/09/palmeiras-x-ldu3.jpg"
+      },
+      {
+        "id": "a-97335748",
+        "sourceId": "terra",
+        "title": "Narrador se empolga com gol da classificação do Palmeiras na Libertadores",
+        "excerpt": "A classificação do Palmeiras para a final da Copa Libertadores rendeu muita comemoração entre os ...",
+        "url": "https://terra.com.br/esportes/palmeiras/narrador-se-empolga-com-gol-da-classificacao-do-palmeiras-na-libertadores,768ccd635ec33df85318d1ec287438695v5dt9s9.html",
+        "publishedAt": "2026-10-22T21:11:00.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      }
+    ],
+    "image": "https://s2-cbn.glbimg.com/BFrP_scjpK3KT1DnNnU5WdKB_-w=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/q/e/aCqcypQR2o4ciYUR1J2Q/afp-20261022-d42c8dr-v1-midres-fbllibertadorespalmeirasfluminense.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
     "id": "st-ad6e1a00",
     "slug": "jonatas-faro-desiste-de-a-fazenda-18",
     "title": "Jônatas Faro desiste de A Fazenda 18",
@@ -257,201 +1138,349 @@
     "updatedAt": "2026-10-22T19:21:38.606Z"
   },
   {
-    "id": "st-2d1da12a",
-    "slug": "qual-e-o-horario-de-votacao-das-eleicoes-2026-no-segundo-turno",
-    "title": "Qual é o horário de votação das eleições 2026 no segundo turno?",
+    "id": "st-8f28074f",
+    "slug": "dolar-sobe-0-22-e-fecha-a-r-5-038-ibovespa-cai-1-15",
+    "title": "Dólar sobe 0,22% e fecha a R$ 5,038; Ibovespa cai 1,15%",
     "summary": [
-      "Veja como confirmar seu local de votação Eleitores já podem consultar o local de votação para o segundo turno das eleições de 2026",
-      "A verificação pode ser feita pelo aplicativo e-Título, Autoatendimento Eleitoral e ChatVote",
-      "O post Seu local de votação pode ter mudado; veja como consultar para o 2º turno apareceu primeiro em Diário do Pará"
+      "O dólar engatou o segundo dia de ganhos consecutivos com aumento das incertezas sobre o cenário eleitoral a três dias do segundo turno das eleições e exterior mais avesso a risco",
+      "Nesta quinta-feira (22), o dólar encerrou R$ 5,0394 no mercado à vista, com alta de 0,23%",
+      "O mercado está atento ao 2º turno das eleições presidenciais, marcado para domingo (25.out)"
     ],
-    "debate": "Em disputa: Penúltima pesquisa do Datafolha para eleições 2026 será divulgada nesta quinta (22); veja horário.",
-    "theme": "Eleições",
+    "debate": "Em disputa: O movimento local destoou do desempenho do dólar […].",
+    "theme": "Economia",
     "region": "sudeste",
     "state": "SP",
     "articles": [
       {
-        "id": "a-f8c6c9d8",
-        "sourceId": "cbn",
-        "title": "Penúltima pesquisa do Datafolha para eleições 2026 será divulgada nesta quinta (22); veja horário",
-        "excerpt": "",
-        "url": "https://cbn.globo.com/coberturas/eleicoes-2026/noticia/2026/10/22/penultima-pesquisa-do-datafolha-para-eleicoes-2026-sera-divulgada-nesta-quinta-22-veja-horario.ghtml",
-        "publishedAt": "2026-10-22T09:18:36.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://s2-cbn.glbimg.com/vEKgWN_mg4fLsSjokAYClDBea7I=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/z/w/uUFfGFQGehklDmCqGCpA/site-template-grade-de-fotos-2026-09-07t142421.189.png"
-      },
-      {
-        "id": "a-1344b334",
-        "sourceId": "globo",
-        "title": "Qual é o horário de votação das eleições 2026 no segundo turno?",
-        "excerpt": "",
-        "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/qual-e-o-horario-de-votacao-das-eleicoes-2026-no-segundo-turno.ghtml",
-        "publishedAt": "2026-10-22T18:15:17.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://s2-oglobo.glbimg.com/s4Xfad_cEd8OXkteYvM7hbvDO-s=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/e/o/KBzqm5TIulE198IpdBug/5-horario-eleicoes.png"
-      },
-      {
-        "id": "a-b81ef6dc",
-        "sourceId": "diariodopara",
-        "title": "Seu local de votação pode ter mudado; veja como consultar para o 2º turno",
-        "excerpt": "Vai votar no domingo? Veja como confirmar seu local de votação Eleitores já podem consultar o local de votação para o segundo turno das eleições de 2026. A verificação pode ser feita pelo aplicativo e-Título, Autoatendimento Eleitoral e ChatVote. O post Seu local de votação pode ter mudado; veja como consultar para o 2º turno apareceu primeiro em Diário do Pará .",
-        "url": "https://diariodopara.com.br/eleicoes-2026/seu-local-de-votacao-pode-ter-mudado-veja-como-consultar-para-o-2o-turno/",
-        "publishedAt": "2026-10-22T18:29:17.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_images_-_2026-10-19T154209_612.jpg"
-      }
-    ],
-    "image": "https://s2-cbn.glbimg.com/vEKgWN_mg4fLsSjokAYClDBea7I=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/z/w/uUFfGFQGehklDmCqGCpA/site-template-grade-de-fotos-2026-09-07t142421.189.png",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
-  },
-  {
-    "id": "st-ad4f61ae",
-    "slug": "caixa-antecipa-sorteio-da-mega-sena-devido-ao-2-turno-das-eleicoes",
-    "title": "Caixa antecipa sorteio da Mega-Sena devido ao 2º turno das eleições",
-    "summary": [
-      "Apostas podem ser feitas em casas lotéricas ou pela internet até as 20h",
-      "Veja como apostar, os valores dos jogos e as regras de premiação"
-    ],
-    "debate": "Em disputa: Mega-Sena sorteia prêmio de R$ 200 milhões nesta quinta (22).",
-    "theme": "Eleições",
-    "region": "sudeste",
-    "state": "SP",
-    "articles": [
-      {
-        "id": "a-18e3e962",
-        "sourceId": "sbt",
-        "title": "Mega-Sena sorteia prêmio de R$ 200 milhões nesta quinta (22)",
-        "excerpt": "Apostas podem ser feitas em casas lotéricas ou pela internet até as 20h",
-        "url": "https://sbtnews.sbt.com.br/noticia/brasil/mega-sena-sorteia-premio-de-r-200-milhoes-nesta-quinta-22",
-        "publishedAt": "2026-10-22T07:00:00.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/cartela_da_mega_sena_sendo_preenchida_e8e256a38a.jpg"
-      },
-      {
-        "id": "a-a0e64619",
-        "sourceId": "cnnbrasil",
-        "title": "Mega-Sena: Caixa altera dia de sorteio por causa do 2º turno das eleições",
-        "excerpt": "Veja como apostar, os valores dos jogos e as regras de premiação",
-        "url": "https://cnnbrasil.com.br/economia/seu-bolso/loterias/mega-sena-caixa-altera-dia-de-sorteio-por-causa-do-2o-turno-das-eleicoes/",
-        "publishedAt": "2026-10-22T17:08:27.000Z",
+        "id": "a-2f4014e0",
+        "sourceId": "moneytimes",
+        "title": "Dólar tem 2º dia de ganhos e fecha a R$ 5,0394 à espera de Datafolha",
+        "excerpt": "O dólar engatou o segundo dia de ganhos consecutivos com aumento das incertezas sobre o cenário eleitoral a três dias do segundo turno das eleições e exterior mais avesso a risco. Nesta quinta-feira (22), o dólar encerrou R$ 5,0394 no mercado à vista, com alta de 0,23%. O movimento local destoou do desempenho do dólar […]",
+        "url": "https://moneytimes.com.br/dolar-22-10-26-lils/",
+        "publishedAt": "2026-10-22T20:04:22.000Z",
         "stance": "neutral",
         "stanceEstimated": true
       },
       {
-        "id": "a-397194f2",
-        "sourceId": "metropoles",
-        "title": "Caixa antecipa sorteio da Mega-Sena devido ao 2º turno das eleições",
-        "excerpt": "",
-        "url": "https://metropoles.com/brasil/caixa-antecipa-sorteio-da-mega-sena-devido-ao-2o-turno-das-eleicoes",
-        "publishedAt": "2026-10-22T18:21:27.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://images.metroimg.com/2026/04/destaque-mega-senajpg.jpeg"
-      }
-    ],
-    "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/cartela_da_mega_sena_sendo_preenchida_e8e256a38a.jpg",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
-  },
-  {
-    "id": "st-c3b40e93",
-    "slug": "saiba-como-o-fato-ou-fake-checara-declaracoes-dos-candidatos-no-debate",
-    "title": "Saiba como o Fato ou Fake checará declarações dos candidatos no debate de 2⁰ turno da Globo",
-    "summary": [
-      "Saiba como o Fato ou Fake checará declarações dos candidatos no debate de 2⁰ turno da Globo"
-    ],
-    "debate": "Em disputa: Fato ou Fake checará declarações dos candidatos no debate de 2⁰ turno da Globo.",
-    "theme": "Geral",
-    "region": "sudeste",
-    "state": "SP",
-    "articles": [
-      {
-        "id": "a-79aa8739",
-        "sourceId": "globo",
-        "title": "Saiba como o Fato ou Fake checará declarações dos candidatos no debate de 2⁰ turno da Globo",
-        "excerpt": "",
-        "url": "https://oglobo.globo.com/fato-ou-fake/noticia/2026/10/22/saiba-como-o-fato-ou-fake-checara-declaracoes-dos-candidatos-no-debate-de-2-turno-da-globo.ghtml",
-        "publishedAt": "2026-10-22T16:49:19.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://s2-oglobo.glbimg.com/Y0JBa5K7nEsHAa6S_BgpqEFXZw8=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/l/B/mHHMdnTEGqR6OhLAQXow/banner-marcas-azul-01.avif"
-      },
-      {
-        "id": "a-50ccdff2",
-        "sourceId": "cbn",
-        "title": "Fato ou Fake checará declarações dos candidatos no debate de 2⁰ turno da Globo",
-        "excerpt": "",
-        "url": "https://cbn.globo.com/politica/noticia/2026/10/22/fato-ou-fake-checara-declaracoes-dos-candidatos-no-debate-de-2-turno-da-globo.ghtml",
-        "publishedAt": "2026-10-22T17:27:07.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://s2-cbn.glbimg.com/cwMgHimAL5AQGYQv4U1aAn0wV3Q=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/t/r/1roCBcRzysJ1qnCVQBSQ/captura-de-tela-2026-10-22-141412.png"
-      },
-      {
-        "id": "a-e9f3838c",
+        "id": "a-442882a8",
         "sourceId": "valor",
-        "title": "Saiba como o Fato ou Fake checará declarações dos candidatos no debate de 2⁰ turno da Globo",
+        "title": "Ibovespa tem forte queda e dólar e juros futuros sobem com pressão externa e eleição no foco",
         "excerpt": "",
-        "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/22/saiba-como-o-fato-ou-fake-checara-declaracoes-dos-candidatos-no-debate-de-2-turno-da-globo.ghtml",
-        "publishedAt": "2026-10-22T17:38:10.000Z",
+        "url": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
+        "publishedAt": "2026-10-22T20:29:42.000Z",
         "stance": "neutral",
         "stanceEstimated": true,
-        "image": "https://s2-valor.glbimg.com/McMgKZLsKR8kI8uNhgHRE9bWAn4=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/s/p/aeTyrzTbWX5LhtpJcp6w/fatofake.png"
+        "image": "https://s2-valor.glbimg.com/sdBNj5MJuMooCUk6g3W6vLEsrgU=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/3/9/4Kdk7vRfymynO0AMBzqg/116615695-lulaeflaviobolsonaroemsabatinadaglobofotoglobo-manoellamello.jpg"
+      },
+      {
+        "id": "a-2b98fe80",
+        "sourceId": "poder360",
+        "title": "Dólar sobe 0,22% e fecha a R$ 5,038; Ibovespa cai 1,15%",
+        "excerpt": "O mercado está atento ao 2º turno das eleições presidenciais, marcado para domingo (25.out)",
+        "url": "https://poder360.com.br/poder-economia/dolar-sobe-022-e-fecha-a-r-5038-ibovespa-cai-115/",
+        "publishedAt": "2026-10-22T20:34:07.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
       }
     ],
-    "image": "https://s2-oglobo.glbimg.com/Y0JBa5K7nEsHAa6S_BgpqEFXZw8=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/l/B/mHHMdnTEGqR6OhLAQXow/banner-marcas-azul-01.avif",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
+    "image": "https://s2-valor.glbimg.com/sdBNj5MJuMooCUk6g3W6vLEsrgU=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/3/9/4Kdk7vRfymynO0AMBzqg/116615695-lulaeflaviobolsonaroemsabatinadaglobofotoglobo-manoellamello.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
   },
   {
-    "id": "st-cf353e5a",
-    "slug": "kassio-da-24-horas-para-meta-detalhar-atuacao-do-canal-exercito-do-lul",
-    "title": "Kassio dá 24 horas para Meta detalhar atuação do canal “Exército do Lula",
+    "id": "st-472be9fc",
+    "slug": "ator-de-top-gun-alien-e-m-a-s-h-tom-skerritt-morre-aos-93-anos",
+    "title": "Ator de 'Top Gun', 'Alien' e 'M*A*S*H', Tom Skerritt morre aos 93 anos",
     "summary": [
-      "Presidente do TSE pede relatório sobre possível ação coordenada de canal de Janones, que já reúne mais de 7 milhões de seguidores"
+      "Morre Tom Skerritt, astro de Top Gun e Alien, aos 93 anos",
+      "Morre aos 93 anos o ator Tom Skerritt, conhecido pelos filmes ‘Top Gun’ e ‘Alien"
     ],
-    "debate": "Em disputa: Kassio dá 24h para Meta apresentar dados sobre atuação de Exército do Lula.",
-    "theme": "Política",
+    "debate": "Em disputa: Ator de 'Top Gun', 'Alien' e 'M*A*S*H', Tom Skerritt morre aos 93 anos.",
+    "theme": "Geral",
     "region": "sudeste",
     "state": "RJ",
     "articles": [
       {
-        "id": "a-ac122cbf",
+        "id": "a-76b866c5",
         "sourceId": "metropoles",
-        "title": "Kassio dá 24h para Meta apresentar dados sobre atuação de Exército do Lula",
+        "title": "Morre Tom Skerritt, astro de Top Gun e Alien, aos 93 anos",
         "excerpt": "",
-        "url": "https://metropoles.com/colunas/manoela-alcantara/kassio-acao-coordenada-exercito-do-lula-canal",
-        "publishedAt": "2026-10-22T18:43:04.000Z",
+        "url": "https://metropoles.com/celebridades/morre-tom-skerritt-astro-de-top-gun-e-alien-aos-93-anos",
+        "publishedAt": "2026-10-22T20:33:55.000Z",
         "stance": "neutral",
         "stanceEstimated": true,
-        "image": "https://images.metroimg.com/2026/09/ministro-kassio-nunes-durante-sessao-no-tribunal-superior-eleitoral-tse-metropoles-2-scaled.jpeg"
+        "image": "https://images.metroimg.com/2026/10/tom-skerritt-top-gun.jpg"
       },
       {
-        "id": "a-9e1958f9",
+        "id": "a-b6b266a2",
+        "sourceId": "cbn",
+        "title": "Morre aos 93 anos o ator Tom Skerritt, conhecido pelos filmes ‘Top Gun’ e ‘Alien",
+        "excerpt": "",
+        "url": "https://cbn.globo.com/mundo/noticia/2026/10/22/morre-aos-93-anos-o-ator-tom-skerritt-conhecido-pelos-filmes-top-gun-e-alien.ghtml",
+        "publishedAt": "2026-10-22T20:52:36.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-cbn.glbimg.com/civwR4BrohQwkojWnLhS5RNlDEI=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/B/5/0mnthtSNiAU7f2wINTmw/tom-skerritt-2014.jpg"
+      },
+      {
+        "id": "a-634bd236",
         "sourceId": "globo",
-        "title": "Presidente do TSE dá 24 horas para Meta detalhar ação coordenada no canal 'Exército do Lula",
+        "title": "Ator de 'Top Gun', 'Alien' e 'M*A*S*H', Tom Skerritt morre aos 93 anos",
         "excerpt": "",
-        "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/22/presidente-do-tse-da-24-horas-para-meta-detalhar-acao-coordenada-no-canal-exercito-do-lula.ghtml",
-        "publishedAt": "2026-10-22T18:54:09.000Z",
+        "url": "https://oglobo.globo.com/cultura/noticia/2026/10/22/ator-de-top-gun-alien-e-mash-tom-skerritt-morre-aos-93-anos.ghtml",
+        "publishedAt": "2026-10-22T21:09:58.000Z",
         "stance": "neutral",
         "stanceEstimated": true,
-        "image": "https://s2-oglobo.glbimg.com/R_Ja15OozWuas3y0hK5NbzNjPGI=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/a/c/B4GIF4QFaqAePWnWY4Hw/nunes-marques.png"
+        "image": "https://s2-oglobo.glbimg.com/0e7AGTCZToQyP7s4Txsin86kRuc=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/3/l/usmZwMQAyjjaI8wlEYGA/116676579-actor-tom-skerritt-arrives-for-the-world-premiere-of-the-1517-to-paris-at-the-warner-bros.jpg"
+      }
+    ],
+    "image": "https://images.metroimg.com/2026/10/tom-skerritt-top-gun.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-9df6830b",
+    "slug": "durigan-diz-que-flavio-propoe-calote-de-r-3-tri-na-economia",
+    "title": "Durigan diz que Flávio propõe calote de R$ 3 tri na economia",
+    "summary": [
+      "Ministro da Fazenda diz que suspensão de pagamentos ameaçaria crédito e investimentos e questiona falta de clareza",
+      "Ministro afirma que suspensão do pagamento de dívidas por até 1 ano comprometeria crédito e investimentos no país"
+    ],
+    "debate": "Em disputa: Governo Lula vê “calote” de R$ 3 tri em proposta de Flávio.",
+    "theme": "Política",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-586b4636",
+        "sourceId": "sbt",
+        "title": "Governo Lula vê “calote” de R$ 3 tri em proposta de Flávio",
+        "excerpt": "Ministro da Fazenda diz que suspensão de pagamentos ameaçaria crédito e investimentos e questiona falta de clareza",
+        "url": "https://sbtnews.sbt.com.br/noticia/economia/governo-lula-ve-calote-de-r-3-tri-em-proposta-de-flavio",
+        "publishedAt": "2026-10-22T19:38:34.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/Ministro_da_Fazenda_Dario_Durigan_Divulgacao_Lula_Marques_Agencia_Brasil_a8f3e2ebdd.jpg"
       },
       {
-        "id": "a-8773653b",
-        "sourceId": "cnnbrasil",
-        "title": "Kassio dá 24 horas para Meta detalhar atuação do canal “Exército do Lula",
-        "excerpt": "Presidente do TSE pede relatório sobre possível ação coordenada de canal de Janones, que já reúne mais de 7 milhões de seguidores",
-        "url": "https://cnnbrasil.com.br/eleicoes/kassio-da-24-horas-para-meta-detalhar-atuacao-do-canal-exercito-do-lula/",
-        "publishedAt": "2026-10-22T18:58:34.000Z",
+        "id": "a-71cd4a64",
+        "sourceId": "poder360",
+        "title": "Durigan diz que Flávio propõe calote de R$ 3 tri na economia",
+        "excerpt": "Ministro afirma que suspensão do pagamento de dívidas por até 1 ano comprometeria crédito e investimentos no país",
+        "url": "https://poder360.com.br/poder-eleicoes-2026/durigan-diz-que-flavio-propoe-calote-de-r-3-tri-na-economia/",
+        "publishedAt": "2026-10-22T19:55:03.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-18e4efc3",
+        "sourceId": "metropoles",
+        "title": "Durigan diz que Flávio causaria calote geral de R$ 3 trilhões",
+        "excerpt": "",
+        "url": "https://metropoles.com/colunas/matheus-leitao/exclusivo-durigan-diz-que-flavio-causaria-calote-geral-de-r-3-trilhoes",
+        "publishedAt": "2026-10-22T20:38:27.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://images.metroimg.com/2026/06/dario-durigan.jpeg"
+      }
+    ],
+    "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/Ministro_da_Fazenda_Dario_Durigan_Divulgacao_Lula_Marques_Agencia_Brasil_a8f3e2ebdd.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-3435fc84",
+    "slug": "caixa-preta-nao-gravou-voo-que-matou-cantor-rick-em-sc",
+    "title": "Cenipa aponta falhas em helicóptero que matou Rick e caixa-preta sem áudio",
+    "summary": [
+      "Relatório preliminar do Cenipa aponta que áudio encontrado no gravador do helicóptero era de uma manutenção feita em data indeterminada",
+      "Falta de gravação atrapalha investigação do acidente fatal em Santa Catarina"
+    ],
+    "debate": "Em disputa: Caixa-preta não gravou voo que matou cantor Rick em SC.",
+    "theme": "Mobilidade",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-be29063a",
+        "sourceId": "sbt",
+        "title": "Caixa-preta não gravou voo que matou cantor Rick em SC",
+        "excerpt": "Relatório preliminar do Cenipa aponta que áudio encontrado no gravador do helicóptero era de uma manutenção feita em data indeterminada",
+        "url": "https://sbtnews.sbt.com.br/noticia/brasil/caixa-preta-nao-gravou-voo-que-matou-cantor-rick-em-sc",
+        "publishedAt": "2026-10-22T18:01:54.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/Design_sem_nome_8be9b87a46.jpg"
+      },
+      {
+        "id": "a-2cdb970b",
+        "sourceId": "metropoles",
+        "title": "Cenipa aponta falhas em helicóptero que matou Rick e caixa-preta sem áudio",
+        "excerpt": "",
+        "url": "https://metropoles.com/celebridades/relatorio-aponta-historico-de-falhas-em-helicoptero-que-matou-rick-em-sc",
+        "publishedAt": "2026-10-22T19:06:45.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://images.metroimg.com/2026/09/rick-queda.jpg"
+      },
+      {
+        "id": "a-ef15624d",
+        "sourceId": "record",
+        "title": "Caixa-preta de helicóptero que caiu com cantor Rick Sollo não registrou áudio no dia do acidente",
+        "excerpt": "Falta de gravação atrapalha investigação do acidente fatal em Santa Catarina",
+        "url": "https://record.r7.com/cidade-alerta/video/caixa-preta-de-helicoptero-que-caiu-com-cantor-rick-sollo-nao-registrou-audio-no-dia-do-acidente-22102026/",
+        "publishedAt": "2026-10-22T21:22:31.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://newr7-recordtv-prod.web.arc-cdn.net/resizer/XbEEGutvUnvQP30XM_n-4vxBiuA=/1200x0/d22yf0mxeu0gma.cloudfront.net/10-22-2026/t_fba8193c198e4527b7d63ca1de9b0ad4_name_file_960x540_1600_v4_.jpg"
+      }
+    ],
+    "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/Design_sem_nome_8be9b87a46.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-e155aa87",
+    "slug": "apos-doenca-de-newcastle-governo-declara-emergencia-zoossanitaria",
+    "title": "Após doença de Newcastle, governo declara emergência zoossanitária",
+    "summary": [
+      "O Ministério da Agricultura e Pecuária informou que foi concluído o despovoamento sanitário do estabelecimento comercial de criação de perus de corte no município de Nova Itaberaba , em Santa Catarina, onde foi identificado um foco da doença de Newcastle",
+      "De acordo com o ministério, estão em andamento procedimentos de limpeza e desinfecção das instalações, conforme protocolos sanitários aplicávei",
+      "Vírus foi identificado em uma granja com cerca de 6.000 perus de corte em Nova Itaberaba"
+    ],
+    "debate": "Em disputa: Após doença de Newcastle, governo declara emergência zoossanitária.",
+    "theme": "Saúde",
+    "region": "nordeste",
+    "state": "DF",
+    "articles": [
+      {
+        "id": "a-de88964f",
+        "sourceId": "atarde",
+        "title": "Após doença de Newcastle, governo declara emergência zoossanitária",
+        "excerpt": "Após a detecção de doença de Newcastle em uma granja de perus, em Santa Catarina, o governo federal decretou estado de emergência zoossanitária por 60 dias em cidades nos municípios de Nova Itaberaba, Águas Frias, Coronel Freitas e Nova ErechimA emergência foi declarada pelo Ministério da Agricultura e Pecuária (Mapa), e resultou na restrição da importação da carne de frango brasileira para pelo m",
+        "url": "https://atarde.com.br/agro/apos-doenca-de-newcastle-governo-declara-emergencia-zoossanitaria-1406703",
+        "publishedAt": "2026-10-22T17:06:51.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/apos-doenca-de-newcastle-governo-declara-emergenci0140670300202610221451.png?xid=7363213"
+      },
+      {
+        "id": "a-48ca539c",
+        "sourceId": "agenciabrasil",
+        "title": "Doença de Newcastle: protocolos sanitários são cumpridos em SC",
+        "excerpt": "O Ministério da Agricultura e Pecuária informou que foi concluído o despovoamento sanitário do estabelecimento comercial de criação de perus de corte no município de Nova Itaberaba , em Santa Catarina, onde foi identificado um foco da doença de Newcastle . De acordo com o ministério, estão em andamento procedimentos de limpeza e desinfecção das instalações, conforme protocolos sanitários aplicávei",
+        "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/doenca-de-newcastle-protocolos-sanitarios-sao-cumpridos-em-sc",
+        "publishedAt": "2026-10-22T18:21:00.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-0ba39a1e",
+        "sourceId": "poder360",
+        "title": "Governo declara emergência zoosanitária em 4 municípios de SC",
+        "excerpt": "Vírus foi identificado em uma granja com cerca de 6.000 perus de corte em Nova Itaberaba",
+        "url": "https://poder360.com.br/poder-agro/governo-declara-emergencia-zoosanitaria-em-4-municipios-de-sc/",
+        "publishedAt": "2026-10-22T21:21:35.000Z",
         "stance": "neutral",
         "stanceEstimated": true
       }
     ],
-    "image": "https://images.metroimg.com/2026/09/ministro-kassio-nunes-durante-sessao-no-tribunal-superior-eleitoral-tse-metropoles-2-scaled.jpeg",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
+    "image": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/apos-doenca-de-newcastle-governo-declara-emergenci0140670300202610221451.png?xid=7363213",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-f04f4fbf",
+    "slug": "familia-de-matthew-perry-teria-se-emocionado-com-casamento-em-friends",
+    "title": "Elenco de Friends chorou junto ao caixão de Matthew Perry, diz irmã do ator",
+    "summary": [
+      "Os cinco protagonistas de Friends se reuniram diante do caixão de Matthew Perry durante o funeral do ator, realizado em 2023",
+      "Segundo o Page Six, a cena foi descrita por Mia Perry Bowick, irmã do artista, em um novo documentário da Netflix , que estreia na próxima terça-feira (27)",
+      "Leia mais (10/22/2026 - 17h56)"
+    ],
+    "debate": "Em disputa: Elenco de Friends chorou junto ao caixão de Matthew Perry, diz irmã do ator.",
+    "theme": "Geral",
+    "region": "sudeste",
+    "state": "RJ",
+    "articles": [
+      {
+        "id": "a-5becf07e",
+        "sourceId": "cnnbrasil",
+        "title": "Família de Matthew Perry teria se emocionado com casamento em “Friends",
+        "excerpt": "Mia, irmã do ator que morreu em 2023, falou sobre ele pela primeira vez no documentário da Netflix e citou cena que Chandler e Mônica celebram união",
+        "url": "https://cnnbrasil.com.br/pop/streaming/familia-de-matthew-perry-teria-se-emocionado-com-casamento-em-friends/",
+        "publishedAt": "2026-10-22T18:07:59.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-9f57098d",
+        "sourceId": "metropoles",
+        "title": "Elenco de Friends chorou junto ao caixão de Matthew Perry, diz irmã do ator",
+        "excerpt": "",
+        "url": "https://metropoles.com/entretenimento/matthew-perry-irma-revela-atitude-dos-atores-de-friends-no-funeral-do-ator",
+        "publishedAt": "2026-10-22T18:59:52.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://images.metroimg.com/2025/04/04111208/5-609.jpg"
+      },
+      {
+        "id": "a-769264a9",
+        "sourceId": "folha",
+        "title": "Irmã de Matthew Perry revela momento emocionante do elenco de Friends em funeral",
+        "excerpt": "Os cinco protagonistas de Friends se reuniram diante do caixão de Matthew Perry durante o funeral do ator, realizado em 2023. Segundo o Page Six, a cena foi descrita por Mia Perry Bowick, irmã do artista, em um novo documentário da Netflix , que estreia na próxima terça-feira (27). Leia mais (10/22/2026 - 17h56)",
+        "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/irma-de-matthew-perry-revela-momento-emocionante-do-elenco-de-friends-em-funeral.shtml",
+        "publishedAt": "2026-10-22T20:56:00.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      }
+    ],
+    "image": "https://images.metroimg.com/2025/04/04111208/5-609.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-e6feb1b5",
+    "slug": "juiza-ordena-que-trump-preste-depoimento-em-processo-contra-a-bbc-em-1",
+    "title": "Juíza ordena que Trump preste depoimento em processo contra a BBC em 11 de dezembro",
+    "summary": [
+      "Uma juíza americana estabeleceu o dia 11 de dezembro como prazo para que o presidente Donald Trump preste depoimento sob juramento no processo por difamação que ele moveu contra o veículo britânico BBC",
+      "A juíza Enjolique Lett, de Miami, tomou essa decisão em resposta às reclamações da BBC sobre a recusa de Trump em fornecer seu depoimento oral, após o cancelamento da data anteriormente acordada, 1"
+    ],
+    "debate": "Em disputa: Juíza ordena que Trump preste depoimento em processo contra a BBC em 11 de dezembro.",
+    "theme": "Judiciário",
+    "region": "centro-oeste",
+    "state": "DF",
+    "articles": [
+      {
+        "id": "a-bbd1758c",
+        "sourceId": "journaldebrasilia",
+        "title": "Juíza ordena que Trump preste depoimento em processo contra a BBC em 11 de dezembro",
+        "excerpt": "Uma juíza americana estabeleceu o dia 11 de dezembro como prazo para que o presidente Donald Trump preste depoimento sob juramento no processo por difamação que ele moveu contra o veículo britânico BBC. A juíza Enjolique Lett, de Miami, tomou essa decisão em resposta às reclamações da BBC sobre a recusa de Trump em fornecer seu depoimento oral, após o cancelamento da data anteriormente acordada, 1",
+        "url": "https://jornaldebrasilia.com.br/noticias/mundo/juiza-ordena-que-trump-preste-depoimento-em-processo-contra-a-bbc-em-11-de-dezembro/",
+        "publishedAt": "2026-10-22T17:36:45.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/09/19125243/AFP__20260918__C8QM3XX__v1__MidRes__UsPresidentDonaldTrumpMakesAnAnnouncementOnHealt.jpg"
+      },
+      {
+        "id": "a-0de82342",
+        "sourceId": "jovempan",
+        "title": "Juíza ordena que Trump preste depoimento em processo contra a BBC",
+        "excerpt": "Presidente norte-americano processou a BBC e pediu 10 bilhões de dólares (R$ 50,3 bilhões) pela edição de um vídeo dele",
+        "url": "https://jovempan.com.br/mundo/juiza-ordena-que-trump-preste-depoimento-em-processo-contra-a-bbc/",
+        "publishedAt": "2026-10-22T18:31:11.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-6001d9b9",
+        "sourceId": "valor",
+        "title": "Trump é obrigado pela Justiça a depor em processo de US$ 10 bi contra a BBC",
+        "excerpt": "",
+        "url": "https://valor.globo.com/mundo/noticia/2026/10/22/trump-obrigado-pela-justia-a-depor-em-processo-de-us-10-bi-contra-a-bbc.ghtml",
+        "publishedAt": "2026-10-22T19:48:04.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-valor.glbimg.com/DcofvgEBU_zXIB0Q1gm9D4ASPOc=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/k/a/o6EZ2BRgWlqpSFrJwdZw/ap26294850827208.jpg"
+      }
+    ],
+    "image": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/09/19125243/AFP__20260918__C8QM3XX__v1__MidRes__UsPresidentDonaldTrumpMakesAnAnnouncementOnHealt.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
   },
   {
     "id": "st-8a12e59f",
@@ -501,7 +1530,7 @@
       }
     ],
     "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/FOTOS_CORTE_45_1fa25444d3.jpg",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
+    "updatedAt": "2026-10-22T21:29:42.024Z"
   },
   {
     "id": "st-00366936",
@@ -646,57 +1675,6 @@
       }
     ],
     "image": "https://s2-valor.glbimg.com/N-hUWpgkQfuouOVsdFr89hGz_Ec=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/a/A/u29pdzQmOjSAsGuINzUg/439452808.jpg",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
-  },
-  {
-    "id": "st-08f7a4f6",
-    "slug": "terremoto-de-magnitude-7-atinge-tibete-na-china",
-    "title": "Terremoto de magnitude 7 atinge Tibete, na China",
-    "summary": [
-      "Um forte terremoto de magnitude 7 atingiu a região do Tibete, na China, na noite desta quinta-feira (22), informaram sismólogos dos Estados Unidos",
-      "Não houve relatos imediatos de vítimas ou danos",
-      "O epicentro do tremor, ocorrido às 22h33 (11h33 no horário de Brasília), localizou-se cerca de 190 quilômetros a leste-nordeste de Nagqu e 390 quilômetros a nordeste de Lhasa"
-    ],
-    "debate": "Em disputa: O terremoto ocorreu a uma p.",
-    "theme": "Internacional",
-    "region": "sudeste",
-    "state": "DF",
-    "articles": [
-      {
-        "id": "a-58aa71a0",
-        "sourceId": "journaldebrasilia",
-        "title": "Terremoto de magnitude 7 abala região chinesa do Tibete",
-        "excerpt": "Um forte terremoto de magnitude 7 atingiu a região do Tibete, na China, na noite desta quinta-feira (22), informaram sismólogos dos Estados Unidos. Não houve relatos imediatos de vítimas ou danos. O epicentro do tremor, ocorrido às 22h33 (11h33 no horário de Brasília), localizou-se cerca de 190 quilômetros a leste-nordeste de Nagqu e 390 quilômetros a nordeste de Lhasa. O terremoto ocorreu a uma p",
-        "url": "https://jornaldebrasilia.com.br/noticias/mundo/terremoto-de-magnitude-7-abala-regiao-chinesa-do-tibete/",
-        "publishedAt": "2026-10-22T16:51:45.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/10/22135057/Design-sem-nome-7-4.jpg"
-      },
-      {
-        "id": "a-c106af88",
-        "sourceId": "valor",
-        "title": "Terremoto de magnitude 7 atinge o Tibete, o maior na China em quase 3 anos",
-        "excerpt": "",
-        "url": "https://valor.globo.com/mundo/noticia/2026/10/22/terremoto-de-magnitude-7-atinge-o-tibete-o-maior-na-china-em-quase-3-anos.ghtml",
-        "publishedAt": "2026-10-22T16:57:49.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://s2-valor.glbimg.com/8En1wdYfynhk0m0aXfjLu63e0M0=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/I/9/tb4WQ8TNKAT2RdOx7sOw/2026-08-28t055446z-1889601841-rc2h7na3o7j0-rtrmadp-3-nepal-floods-china.jpg"
-      },
-      {
-        "id": "a-cba7a7cd",
-        "sourceId": "metropoles",
-        "title": "Terremoto de magnitude 7 atinge Tibete, na China",
-        "excerpt": "",
-        "url": "https://metropoles.com/mundo/terremoto-de-magnitude-7-atinge-tibete-na-china",
-        "publishedAt": "2026-10-22T17:11:30.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://images.metroimg.com/2026/10/terremoto-de-magnitude-7-atinge-tibete-na-china.jpg"
-      }
-    ],
-    "image": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/10/22135057/Design-sem-nome-7-4.jpg",
     "updatedAt": "2026-10-22T19:21:38.606Z"
   },
   {
@@ -897,55 +1875,6 @@
     "updatedAt": "2026-10-22T19:21:38.606Z"
   },
   {
-    "id": "st-53ca7d99",
-    "slug": "palmeiras-elimina-o-fluminense-nos-penaltis-e-vai-a-final-da-libertado",
-    "title": "Palmeiras elimina o Fluminense nos pênaltis e vai à final da Libertadores",
-    "summary": [
-      "Palmeiras recebe o Fluminense no Allianz Parque pelo jogo de volta da semifinal da Libertadores"
-    ],
-    "debate": "Em disputa: Palmeiras x Fluminense: onde assistir ao vivo e horário.",
-    "theme": "Esportes",
-    "region": "sudeste",
-    "state": "SP",
-    "articles": [
-      {
-        "id": "a-97bc0e10",
-        "sourceId": "sbt",
-        "title": "Palmeiras x Fluminense: onde assistir ao vivo e horário",
-        "excerpt": "Palmeiras recebe o Fluminense no Allianz Parque pelo jogo de volta da semifinal da Libertadores",
-        "url": "https://sbtnews.sbt.com.br/noticia/mundo/palmeiras-x-fluminense-onde-assistir-ao-vivo-e-horario",
-        "publishedAt": "2026-10-21T21:30:00.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/Palmeiras_x_Fluminense_5e828e36f8.jpg"
-      },
-      {
-        "id": "a-0019191d",
-        "sourceId": "cbn",
-        "title": "Palmeiras elimina o Fluminense nos pênaltis e vai à final da Libertadores",
-        "excerpt": "",
-        "url": "https://cbn.globo.com/esporte/noticia/2026/10/22/palmeiras-elimina-o-fluminense-nos-penaltis-e-vai-a-final-da-libertadores.ghtml",
-        "publishedAt": "2026-10-22T08:56:18.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://s2-cbn.glbimg.com/BFrP_scjpK3KT1DnNnU5WdKB_-w=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/q/e/aCqcypQR2o4ciYUR1J2Q/afp-20261022-d42c8dr-v1-midres-fbllibertadorespalmeirasfluminense.jpg"
-      },
-      {
-        "id": "a-c0c8cbf7",
-        "sourceId": "metropoles",
-        "title": "Palmeiras chega à 8ª final da Libertadores e se torna 3º com mais decisões",
-        "excerpt": "",
-        "url": "https://metropoles.com/esportes/palmeiras-chega-a-8a-final-da-libertadores-e-se-torna-3o-com-mais-decisoes",
-        "publishedAt": "2026-10-22T17:09:18.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://images.metroimg.com/2026/09/palmeiras-x-ldu3.jpg"
-      }
-    ],
-    "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/Palmeiras_x_Fluminense_5e828e36f8.jpg",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
-  },
-  {
     "id": "st-b2502e53",
     "slug": "alckmin-lula-aceitou-exigencias-de-flavio-para-abrir-sigilo",
     "title": "Alckmin: Lula aceitou exigências de Flávio para abrir sigilo",
@@ -1045,6 +1974,55 @@
     "updatedAt": "2026-10-22T19:21:38.606Z"
   },
   {
+    "id": "st-da51757a",
+    "slug": "aviao-que-saiu-do-galeao-com-destino-a-curitiba-retorna-ao-rio-apos-su",
+    "title": "Avião que saiu do Galeão com destino a Curitiba retorna ao Rio após suspeita de pane elétrica",
+    "summary": [
+      "Aeronave declarou protocolo de emergência por precaução após apresentar problemas técnicos",
+      "Aeroporto comunicou que a aeronave conseguiu fazer o pouso em segurança"
+    ],
+    "debate": "Em disputa: Avião que saiu do Galeão com destino a Curitiba retorna ao Rio após suspeita de pane elétrica.",
+    "theme": "Ambiente",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-43a6b2e2",
+        "sourceId": "cbn",
+        "title": "Avião que saiu do Galeão com destino a Curitiba retorna ao Rio após suspeita de pane elétrica",
+        "excerpt": "",
+        "url": "https://cbn.globo.com/rio-de-janeiro/noticia/2026/10/22/aviao-que-saiu-do-galeao-com-destino-a-curitiba-retorna-ao-rio-apos-suspeita-de-pane-eletrica.ghtml",
+        "publishedAt": "2026-10-22T12:06:11.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-cbn.glbimg.com/Z9KIH1LiWsp4j2wbqOr-ZEkPD4E=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/J/p/Yb7cdTSC6mS2uTKZBi0w/galeao.png"
+      },
+      {
+        "id": "a-333ba0cd",
+        "sourceId": "sbt",
+        "title": "Pane em voo que saiu do Rio para Curitiba força desembarque",
+        "excerpt": "Aeronave declarou protocolo de emergência por precaução após apresentar problemas técnicos",
+        "url": "https://sbtnews.sbt.com.br/noticia/brasil/pane-em-voo-que-saiu-do-rio-para-curitiba-forca-desembarque",
+        "publishedAt": "2026-10-22T13:22:23.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/Azul_ffdbbe0b81.jpeg"
+      },
+      {
+        "id": "a-0f3bca4b",
+        "sourceId": "jovempan",
+        "title": "Avião da Azul com destino a Curitiba retorna ao Rio de Janeiro após problemas técnicos",
+        "excerpt": "Aeroporto comunicou que a aeronave conseguiu fazer o pouso em segurança",
+        "url": "https://jovempan.com.br/brasil/aviao-da-azul-com-destino-a-curitiba-retorna-ao-rio-de-janeiro-apos-problemas-tecnicos/",
+        "publishedAt": "2026-10-22T20:50:42.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      }
+    ],
+    "image": "https://s2-cbn.glbimg.com/Z9KIH1LiWsp4j2wbqOr-ZEkPD4E=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/J/p/Yb7cdTSC6mS2uTKZBi0w/galeao.png",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
     "id": "st-f4092ddc",
     "slug": "carlos-alberto-de-nobrega-aparece-pela-1-vez-apos-cirurgia",
     "title": "Carlos Alberto de Nóbrega aparece pela 1ª vez após cirurgia",
@@ -1096,41 +2074,236 @@
     "updatedAt": "2026-10-22T19:21:38.606Z"
   },
   {
-    "id": "st-0d62b820",
-    "slug": "empresario-suspeito-de-agredir-esposa-com-taco-de-beisebol-e-solto-em-",
-    "title": "Empresário suspeito de agredir esposa com taco de beisebol é solto em SP",
+    "id": "st-7bc21e5c",
+    "slug": "reporter-resgata-motorista-que-afundava-em-enchente",
+    "title": "repórter resgata motorista que afundava em enchente",
     "summary": [
-      "Ivo Kos foi preso em agosto por agredir e ameaçar a esposa, Giullia Falcão, de 27 anos; a mulher relatou ter ficado com lesões e com um dedo fraturado"
+      "Jornalista e outro homem nadaram até o veículo e retiraram o motorista pouco antes do carro ficar completamente submerso",
+      "Um repórter de uma emissora de televisão da Austrália e um homem que passava pelo local resgataram um motorista de um carro enquanto o veículo era tomado pelas águas de uma enchente nesta quinta-feira (22), segundo imagens do incidente",
+      "Leia mais (10/22/2026 - 17h55)"
     ],
-    "debate": "Em disputa: Empresário suspeito de agredir esposa com taco de beisebol é solto em SP.",
-    "theme": "Segurança",
+    "debate": "Em disputa: repórter resgata motorista que afundava em enchente.",
+    "theme": "Clima",
     "region": "sudeste",
     "state": "SP",
     "articles": [
       {
-        "id": "a-286c9a73",
-        "sourceId": "cnnbrasil",
-        "title": "Empresário suspeito de agredir esposa com taco de beisebol é solto em SP",
-        "excerpt": "Ivo Kos foi preso em agosto por agredir e ameaçar a esposa, Giullia Falcão, de 27 anos; a mulher relatou ter ficado com lesões e com um dedo fraturado",
-        "url": "https://cnnbrasil.com.br/nacional/sudeste/sp/empresario-suspeito-de-agredir-esposa-com-taco-de-beisebol-e-solto-em-sp/",
-        "publishedAt": "2026-10-22T17:42:45.000Z",
+        "id": "a-679bdee2",
+        "sourceId": "sbt",
+        "title": "repórter resgata motorista que afundava em enchente",
+        "excerpt": "Jornalista e outro homem nadaram até o veículo e retiraram o motorista pouco antes do carro ficar completamente submerso",
+        "url": "https://sbtnews.sbt.com.br/noticia/mundo/video-reporter-resgata-motorista-que-afundava-em-enchente",
+        "publishedAt": "2026-10-22T14:09:30.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/Reporter_de_TV_australiana_resgata_homem_de_carro_que_afundava_durante_enchentes_a9503ec3ef.jpg"
+      },
+      {
+        "id": "a-272c8979",
+        "sourceId": "folha",
+        "title": "Repórter de TV na Austrália salva homem em carro levado por enchente; veja vídeo",
+        "excerpt": "Um repórter de uma emissora de televisão da Austrália e um homem que passava pelo local resgataram um motorista de um carro enquanto o veículo era tomado pelas águas de uma enchente nesta quinta-feira (22), segundo imagens do incidente. Leia mais (10/22/2026 - 17h55)",
+        "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/reporter-de-tv-na-australia-salva-homem-em-carro-levado-por-enchente-veja-video.shtml",
+        "publishedAt": "2026-10-22T20:55:00.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      }
+    ],
+    "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/Reporter_de_TV_australiana_resgata_homem_de_carro_que_afundava_durante_enchentes_a9503ec3ef.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-91a4b110",
+    "slug": "eua-anunciam-escritorio-antidrogas-no-paraguai-para-ampliar-operacoes-",
+    "title": "EUA anunciam escritório antidrogas no Paraguai para ampliar operações no Cone Sul",
+    "summary": [
+      "Os Estados Unidos abrirão um escritório antidrogas no Paraguai para coordenar operações no Cone Sul e também enviarão, pela primeira vez, um conselheiro de embaixada para assuntos de contraterrorismo, informou na quarta-feira (21) o Departamento de Estado americano",
+      "Leia mais (10/22/2026 - 17h07)"
+    ],
+    "debate": "Em disputa: EUA anunciam escritório antidrogas no Paraguai para ampliar operações no Cone Sul.",
+    "theme": "Internacional",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-c8e4b567",
+        "sourceId": "folha",
+        "title": "EUA anunciam escritório antidrogas no Paraguai para ampliar operações no Cone Sul",
+        "excerpt": "Os Estados Unidos abrirão um escritório antidrogas no Paraguai para coordenar operações no Cone Sul e também enviarão, pela primeira vez, um conselheiro de embaixada para assuntos de contraterrorismo, informou na quarta-feira (21) o Departamento de Estado americano. Leia mais (10/22/2026 - 17h07)",
+        "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/eua-anunciam-escritorio-antidrogas-no-paraguai-para-ampliar-operacoes-no-cone-sul.shtml",
+        "publishedAt": "2026-10-22T20:07:00.000Z",
         "stance": "neutral",
         "stanceEstimated": true
       },
       {
-        "id": "a-f09dc7c7",
-        "sourceId": "globo",
-        "title": "Ivo Vel Kos, acusado de agredir e ameaçar a esposa, deixa a prisão após dois meses detido",
+        "id": "a-27abf0ff",
+        "sourceId": "metropoles",
+        "title": "EUA anuncia abertura de escritório para combate ao narcotráfico no Paraguai",
         "excerpt": "",
-        "url": "https://oglobo.globo.com/brasil/noticia/2026/10/22/ivo-vel-kos-acusado-de-agredir-e-ameacar-a-esposa-deixa-a-prisao-apos-dois-meses-detido.ghtml",
-        "publishedAt": "2026-10-22T19:05:07.000Z",
+        "url": "https://metropoles.com/mundo/eua-anuncia-abertura-de-escritorio-para-combate-ao-narcotrafico-no-paraguai",
+        "publishedAt": "2026-10-22T21:04:34.000Z",
         "stance": "neutral",
         "stanceEstimated": true,
-        "image": "https://s2-oglobo.glbimg.com/Z1vHkzOsnPhdSg27Q8hBz9FZVK4=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/L/I/AD0JEXTmeRDbFZEkkMAg/design-sem-nome.jpeg"
+        "image": "https://images.metroimg.com/2025/10/31002004/GettyImages-2045088798.jpg"
       }
     ],
-    "image": "https://s2-oglobo.glbimg.com/Z1vHkzOsnPhdSg27Q8hBz9FZVK4=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/L/I/AD0JEXTmeRDbFZEkkMAg/design-sem-nome.jpeg",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
+    "image": "https://images.metroimg.com/2025/10/31002004/GettyImages-2045088798.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-785643b1",
+    "slug": "herdeiro-de-beto-carrero-ceo-do-parque-injeta-meio-milhao-na-campanha-",
+    "title": "Herdeiro de Beto Carrero, CEO do parque injeta meio milhão na campanha de Flávio",
+    "summary": [
+      "Herdeiro de Beto Carrero, CEO do parque injeta meio milhão na campanha de Flávio",
+      "Herdeiro do Beto Carrero doa R$ 500 mil para campanha de Flávio"
+    ],
+    "debate": "Em disputa: Herdeiro de Beto Carrero, CEO do parque injeta meio milhão na campanha de Flávio.",
+    "theme": "Eleições",
+    "region": "sudeste",
+    "state": "RJ",
+    "articles": [
+      {
+        "id": "a-41907607",
+        "sourceId": "globo",
+        "title": "Herdeiro de Beto Carrero, CEO do parque injeta meio milhão na campanha de Flávio",
+        "excerpt": "",
+        "url": "https://oglobo.globo.com/blogs/capital/post/2026/10/herdeiro-de-beto-carrero-ceo-do-parque-injeta-meio-milhao-na-campanha-de-flavio.ghtml",
+        "publishedAt": "2026-10-22T20:45:16.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-oglobo.glbimg.com/V5aoCxq1xdfVkuI1pE4NaCHNz8g=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/w/S/eqGAgSRbqxNWZJQZV01Q/whatsapp-image-2026-08-17-at-18.00.24.jpeg"
+      },
+      {
+        "id": "a-a89959b3",
+        "sourceId": "metropoles",
+        "title": "Herdeiro do Beto Carrero doa R$ 500 mil para campanha de Flávio",
+        "excerpt": "",
+        "url": "https://metropoles.com/colunas/igor-gadelha/herdeiro-do-beto-carrero-doa-r-500-mil-para-campanha-de-flavio",
+        "publishedAt": "2026-10-22T21:20:58.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://images.metroimg.com/2024/07/24115938/beto-carrero-world-2.jpg"
+      }
+    ],
+    "image": "https://s2-oglobo.glbimg.com/V5aoCxq1xdfVkuI1pE4NaCHNz8g=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/w/S/eqGAgSRbqxNWZJQZV01Q/whatsapp-image-2026-08-17-at-18.00.24.jpeg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-9da79cc0",
+    "slug": "estados-unidos-revogam-vistos-de-dezenas-de-altos-funcionarios-da-colo",
+    "title": "Estados Unidos revogam vistos de dezenas de altos funcionários da Colômbia e da Bolívia",
+    "summary": [
+      "Estados Unidos revogam vistos de dezenas de altos funcionários da Colômbia e da Bolívia",
+      "EUA anuncia restrição de vistos para 14 autoridades da Bolívia"
+    ],
+    "debate": "Em disputa: Estados Unidos revogam vistos de dezenas de altos funcionários da Colômbia e da Bolívia.",
+    "theme": "Internacional",
+    "region": "sudeste",
+    "state": "RJ",
+    "articles": [
+      {
+        "id": "a-a6980f52",
+        "sourceId": "globo",
+        "title": "Estados Unidos revogam vistos de dezenas de altos funcionários da Colômbia e da Bolívia",
+        "excerpt": "",
+        "url": "https://oglobo.globo.com/mundo/noticia/2026/10/22/estados-unidos-revogam-vistos-de-dezenas-de-altos-funcionarios-da-colombia-e-da-bolivia.ghtml",
+        "publishedAt": "2026-10-22T20:06:44.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-oglobo.glbimg.com/CO30zUtqp8DcmBfIpSX97yZIhvg=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/U/I/1Mu8dvQi2g7m23camvbg/116108150-washington-dc-september-3-secretary-of-state-marco-rubio-speaks-during-the-foundry-schoo.jpg"
+      },
+      {
+        "id": "a-23b7136f",
+        "sourceId": "metropoles",
+        "title": "EUA anuncia restrição de vistos para 14 autoridades da Bolívia",
+        "excerpt": "",
+        "url": "https://metropoles.com/mundo/eua-anuncia-restricao-de-vistos-para-14-autoridades-da-bolivia",
+        "publishedAt": "2026-10-22T20:17:06.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://images.metroimg.com/2025/08/15181110/GettyImages-2157386619-1.jpg"
+      }
+    ],
+    "image": "https://s2-oglobo.glbimg.com/CO30zUtqp8DcmBfIpSX97yZIhvg=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/U/I/1Mu8dvQi2g7m23camvbg/116108150-washington-dc-september-3-secretary-of-state-marco-rubio-speaks-during-the-foundry-schoo.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-11b3042b",
+    "slug": "marca-brasileira-vyta-entra-na-corrida-global-dos-aneis-inteligentes",
+    "title": "Marca brasileira VYTA entra na corrida global dos anéis inteligentes",
+    "summary": [
+      "Marca brasileira VYTA entra na corrida global dos anéis inteligentes"
+    ],
+    "debate": "Em disputa: Marca brasileira VYTA entra na corrida global dos anéis inteligentes.",
+    "theme": "Geral",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-188cea30",
+        "sourceId": "valor",
+        "title": "Marca brasileira VYTA entra na corrida global dos anéis inteligentes",
+        "excerpt": "",
+        "url": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/10/22/marca-brasileira-vyta-entra-na-corrida-global-dos-aneis-inteligentes-1.ghtml",
+        "publishedAt": "2026-10-22T19:40:32.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-valor.glbimg.com/nszWZGA79M75AuyrjuyoukFyhjQ=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/n/z/BJiPpyRReAEZHvLVBCcg/publicador-api-valor-pulse-brand-100-87ccce05-0af4-4948-b4e7-984d6296a632.jpg-20261022164017"
+      },
+      {
+        "id": "a-a6a6856e",
+        "sourceId": "globo",
+        "title": "Marca brasileira VYTA entra na corrida global dos anéis inteligentes",
+        "excerpt": "",
+        "url": "https://oglobo.globo.com/patrocinado/pulse-brand/noticia/2026/10/22/marca-brasileira-vyta-entra-na-corrida-global-dos-aneis-inteligentes-1.ghtml",
+        "publishedAt": "2026-10-22T19:45:02.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-oglobo.glbimg.com/DniWdZEWyEzAUhMaIk8dNkQGAmc=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/1/3/Dc7VM2SYidk93PQ9H3Cw/publicador-api-oglobo-pulse-brand-100-e69ac8fe-4aeb-4386-ab49-3a96eea577cc.jpg-20261022164446"
+      }
+    ],
+    "image": "https://s2-valor.glbimg.com/nszWZGA79M75AuyrjuyoukFyhjQ=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/n/z/BJiPpyRReAEZHvLVBCcg/publicador-api-valor-pulse-brand-100-87ccce05-0af4-4948-b4e7-984d6296a632.jpg-20261022164017",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-d9117c50",
+    "slug": "essa-zambelli-vota-13-irma-de-ex-deputada-federal-bolsonarista-declara",
+    "title": "Essa Zambelli vota 13': irmã de ex-deputada federal bolsonarista declara voto em Lula no 2º turno",
+    "summary": [
+      "Essa Zambelli vota 13': irmã de ex-deputada federal bolsonarista declara voto em Lula no 2º turno",
+      "Sou progressista\": irmã da ex-deputada Carla Zambelli anuncia voto em Lula"
+    ],
+    "debate": "Em disputa: Essa Zambelli vota 13': irmã de ex-deputada federal bolsonarista declara voto em Lula no 2º turno.",
+    "theme": "Política",
+    "region": "sudeste",
+    "state": "RJ",
+    "articles": [
+      {
+        "id": "a-e7cbad0d",
+        "sourceId": "globo",
+        "title": "Essa Zambelli vota 13': irmã de ex-deputada federal bolsonarista declara voto em Lula no 2º turno",
+        "excerpt": "",
+        "url": "https://oglobo.globo.com/blogs/sonar-a-escuta-das-redes/post/2026/10/essa-zambelli-vota-13-irma-de-ex-deputada-federal-bolsonarista-declara-voto-em-lula-no-2o-turno.ghtml",
+        "publishedAt": "2026-10-22T19:09:19.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-oglobo.glbimg.com/iiBxwmKPCGn8cbPs7o0F9uzdoio=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/6/a/886QB2Q5Kw2B8JBY4zIg/zambelli-vota-13.png"
+      },
+      {
+        "id": "a-8dc17983",
+        "sourceId": "metropoles",
+        "title": "Sou progressista\": irmã da ex-deputada Carla Zambelli anuncia voto em Lula",
+        "excerpt": "",
+        "url": "https://metropoles.com/sao-paulo/sou-progressista-irma-da-ex-deputada-carla-zambelli-anuncia-voto-em-lula",
+        "publishedAt": "2026-10-22T21:19:30.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://images.metroimg.com/2026/10/irma-zambelli-lula-1.png"
+      }
+    ],
+    "image": "https://s2-oglobo.glbimg.com/iiBxwmKPCGn8cbPs7o0F9uzdoio=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/6/a/886QB2Q5Kw2B8JBY4zIg/zambelli-vota-13.png",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
   },
   {
     "id": "st-ece83757",
@@ -1168,7 +2341,46 @@
       }
     ],
     "image": "https://s2-oglobo.glbimg.com/vwgECcgI_T_EBuOFW2V0TTCS6Sg=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/9/w/EpIHj1TTSLEGe5VkKGcQ/publicador-api-oglobo-dino-100-a848c644-12cd-40a4-920a-4e24d72edd87.jpg-20261022155232",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-f0f97afe",
+    "slug": "espriella-demite-ministro-em-meio-a-impasse-fiscal-na-colombia",
+    "title": "Espriella demite ministro em meio a impasse fiscal na Colômbia",
+    "summary": [
+      "Espriella demite ministro em meio a impasse fiscal na Colômbia",
+      "Espriella demite ministro do Interior da Colômbia em meio a impasse orçamentário"
+    ],
+    "debate": "Em disputa: Espriella demite ministro em meio a impasse fiscal na Colômbia.",
+    "theme": "Economia",
+    "region": "sudeste",
+    "state": "RJ",
+    "articles": [
+      {
+        "id": "a-cfc6bc28",
+        "sourceId": "globo",
+        "title": "Espriella demite ministro em meio a impasse fiscal na Colômbia",
+        "excerpt": "",
+        "url": "https://oglobo.globo.com/mundo/noticia/2026/10/22/espriella-demite-ministro-em-meio-a-impasse-fiscal-na-colombia.ghtml",
+        "publishedAt": "2026-10-22T18:51:25.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-oglobo.glbimg.com/IwAjC7l5MbR7w0uKRHzJg1W4hUE=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/9/7/87BE3mQ56S1Qf9HXiBEQ/115840922-colombias-president-elect-abelardo-de-la-espriella-waves-as-he-gives-a-speech-during.jpg"
+      },
+      {
+        "id": "a-96c7463d",
+        "sourceId": "valor",
+        "title": "Espriella demite ministro do Interior da Colômbia em meio a impasse orçamentário",
+        "excerpt": "",
+        "url": "https://valor.globo.com/mundo/noticia/2026/10/22/espriella-demite-ministro-do-interior-da-colombia-em-meio-a-impasse-orcamentario.ghtml",
+        "publishedAt": "2026-10-22T19:27:43.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-valor.glbimg.com/VvqapZnpAFk_m931UqYzdSjBl9Q=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/D/x/Di2ZFrTpmRKt7WL0QnWg/465024675.jpg"
+      }
+    ],
+    "image": "https://s2-oglobo.glbimg.com/IwAjC7l5MbR7w0uKRHzJg1W4hUE=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/9/7/87BE3mQ56S1Qf9HXiBEQ/115840922-colombias-president-elect-abelardo-de-la-espriella-waves-as-he-gives-a-speech-during.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
   },
   {
     "id": "st-fbea09e4",
@@ -1207,7 +2419,7 @@
       }
     ],
     "image": "https://s2-valor.glbimg.com/xfBjyzxCXTyGzGfkAtb-Kv2ctIY=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/D/m/DH36YkQsuvPLy7MIoELA/publicador-api-valor-pulse-brand-100-8b0767c4-ddb7-4328-9185-8a776538f0f0.jpg-20261022152006",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
+    "updatedAt": "2026-10-22T21:29:42.024Z"
   },
   {
     "id": "st-8ffb3a04",
@@ -1245,7 +2457,348 @@
       }
     ],
     "image": "https://s2-valor.glbimg.com/Ng6NYAJenMFmOLMAbady2uYIXpw=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/X/Y/B6b3jATHSCpUrsq3JiTg/publicador-api-valor-dino-100-15413541-a052-4f6e-b582-f02840c96601.jpg-20261022154558",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-f3617b8f",
+    "slug": "pecuarista-chamado-de-rei-do-gado-faz-doacao-milionaria-a-flavio-bolso",
+    "title": "Pecuarista chamado de 'Rei do Gado' faz doação milionária a Flávio Bolsonaro",
+    "summary": [
+      "Pecuarista chamado de 'Rei do Gado' faz doação milionária a Flávio Bolsonaro",
+      "Flávio recebe doação milionária de advogado amigo de Nunes Marques"
+    ],
+    "debate": "Em disputa: Pecuarista chamado de 'Rei do Gado' faz doação milionária a Flávio Bolsonaro.",
+    "theme": "Política",
+    "region": "sudeste",
+    "state": "RJ",
+    "articles": [
+      {
+        "id": "a-b2aedc68",
+        "sourceId": "globo",
+        "title": "Pecuarista chamado de 'Rei do Gado' faz doação milionária a Flávio Bolsonaro",
+        "excerpt": "",
+        "url": "https://oglobo.globo.com/blogs/ancelmo-gois/post/2026/10/pecuarista-chamado-de-rei-do-gado-faz-doacao-milionaria-a-flavio-bolsonaro.ghtml",
+        "publishedAt": "2026-10-22T18:29:25.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-oglobo.glbimg.com/1fZBEqvjBmc_bJqrnkR9ucLjSJM=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/m/c/jqRQyQQD2e9e3z3SfFvw/saveclip.app-731031388-18603750046058427-4620238410150454668-n.jpg"
+      },
+      {
+        "id": "a-68ce7e52",
+        "sourceId": "metropoles",
+        "title": "Flávio recebe doação milionária de advogado amigo de Nunes Marques",
+        "excerpt": "",
+        "url": "https://metropoles.com/colunas/igor-gadelha/flavio-recebe-doacao-milionaria-de-advogado-amigo-de-nunes-marques",
+        "publishedAt": "2026-10-22T20:37:59.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://images.metroimg.com/2026/10/flavio-debate-band-5.jpg"
+      }
+    ],
+    "image": "https://s2-oglobo.glbimg.com/1fZBEqvjBmc_bJqrnkR9ucLjSJM=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/m/c/jqRQyQQD2e9e3z3SfFvw/saveclip.app-731031388-18603750046058427-4620238410150454668-n.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-2a2cda93",
+    "slug": "stf-reafirma-prazo-para-devolucao-de-valores-referentes-a-tese-do-secu",
+    "title": "STF reafirma prazo para devolução de valores referentes à “tese do século” na tarifa de energia",
+    "summary": [
+      "Corte define por maioria que prazo de 10 anos conta do recebimento do dinheiro ou da compensação pelas distribuidoras"
+    ],
+    "debate": "Em disputa: STF reafirma prazo para devolução de valores referentes à “tese do século” na tarifa de energia.",
+    "theme": "Judiciário",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-565932fa",
+        "sourceId": "valor",
+        "title": "STF reafirma prazo para devolução de valores referentes à “tese do século” na tarifa de energia",
+        "excerpt": "",
+        "url": "https://valor.globo.com/legislacao/noticia/2026/10/22/stf-reafirma-prazo-para-devoluo-de-valores-referentes-tese-do-sculo-na-tarifa-de-energia.ghtml",
+        "publishedAt": "2026-10-22T19:11:46.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-valor.glbimg.com/SmYah0q1YwaJgF88nH0wCtJIKns=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/4/D/p7gGALT8i0HscLZ9aCDw/116254540-sessaoextraordinariaparajulgamentosobreasmensagensenviadaspeloex-banqueirodaniel.jpg"
+      },
+      {
+        "id": "a-178f5060",
+        "sourceId": "poder360",
+        "title": "STF define prazo para devolução de valores na conta de luz",
+        "excerpt": "Corte define por maioria que prazo de 10 anos conta do recebimento do dinheiro ou da compensação pelas distribuidoras",
+        "url": "https://poder360.com.br/poder-justica/stf-define-prazo-para-devolucao-de-valores-na-conta-de-luz/",
+        "publishedAt": "2026-10-22T20:31:28.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      }
+    ],
+    "image": "https://s2-valor.glbimg.com/SmYah0q1YwaJgF88nH0wCtJIKns=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/4/D/p7gGALT8i0HscLZ9aCDw/116254540-sessaoextraordinariaparajulgamentosobreasmensagensenviadaspeloex-banqueirodaniel.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-f20f0172",
+    "slug": "sem-exclusividade-venda-da-csn-cimentos-deve-ser-assinada-em-2-semanas",
+    "title": "Sem exclusividade, venda da CSN Cimentos deve ser assinada em 2 semanas, dizem fontes",
+    "summary": [
+      "A CSN (CSNA3) deve assinar em cerca de duas semanas o acordo que sela a venda do seu braço de cimentos, em acordo que segue sem exclusividade, segundo o jornal Valor Econômico",
+      "De acordo com as fontes do jornal, entre os principais compradores, estão a chinesa Huaxin e a Votorantim Cimentos, em consórcio com a […]"
+    ],
+    "debate": "Em disputa: Sem exclusividade, venda da CSN Cimentos deve ser assinada em 2 semanas, dizem fontes.",
+    "theme": "Geral",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-93334219",
+        "sourceId": "valor",
+        "title": "Sem exclusividade, venda da CSN Cimentos deve ser assinada em 2 semanas, dizem fontes",
+        "excerpt": "",
+        "url": "https://valor.globo.com/empresas/noticia/2026/10/22/sem-exclusividade-venda-da-csn-cimentos-deve-ser-assinada-em-2-semanas-dizem-fontes.ghtml",
+        "publishedAt": "2026-10-22T18:16:32.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-valor.glbimg.com/cmCnJwSjDwTFkWjBrHrMgOy4YwQ=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/6/T/A7Rv0rRO6ouqWOrMhFEA/foto04emp-101-csn-b5.jpg"
+      },
+      {
+        "id": "a-62069784",
+        "sourceId": "moneytimes",
+        "title": "CSN (CSNA3): Venda da divisão de cimentos deve ser assinada em 2 semanas, mas sem exclusividade, diz jornal",
+        "excerpt": "A CSN (CSNA3) deve assinar em cerca de duas semanas o acordo que sela a venda do seu braço de cimentos, em acordo que segue sem exclusividade, segundo o jornal Valor Econômico. De acordo com as fontes do jornal, entre os principais compradores, estão a chinesa Huaxin e a Votorantim Cimentos, em consórcio com a […]",
+        "url": "https://moneytimes.com.br/csn-csna3-venda-da-divisao-de-cimentos-deve-ser-assinada-em-2-semanas-mas-sem-exclusividade-diz-jornal/",
+        "publishedAt": "2026-10-22T20:23:17.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      }
+    ],
+    "image": "https://s2-valor.glbimg.com/cmCnJwSjDwTFkWjBrHrMgOy4YwQ=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/6/T/A7Rv0rRO6ouqWOrMhFEA/foto04emp-101-csn-b5.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-14ab92d7",
+    "slug": "trump-acusa-lebron-james-de-desrespeitar-os-eua-durante-o-hino-naciona",
+    "title": "Trump acusa LeBron James de desrespeitar os EUA durante o hino nacional",
+    "summary": [
+      "Presidente diz que astro do basquete deve um pedido de desculpas; os dois já haviam trocado farpas no primeiro mandato do republicano"
+    ],
+    "debate": "Em disputa: Trump acusa LeBron James de desrespeitar os EUA durante o hino nacional.",
+    "theme": "Internacional",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-4ffed955",
+        "sourceId": "valor",
+        "title": "Trump acusa LeBron James de desrespeitar os EUA durante o hino nacional",
+        "excerpt": "",
+        "url": "https://valor.globo.com/mundo/noticia/2026/10/22/trump-acusa-lebron-james-de-desrespeitar-os-eua-durante-o-hino-nacional.ghtml",
+        "publishedAt": "2026-10-22T18:08:02.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-valor.glbimg.com/WAakUZAqGma89X2izHwnwf-tfzo=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/u/z/0Aha4WSFiaTL6Pu5eCag/2026-10-21t022726z-1095884503-mt1usatoday30140952-rtrmadp-3-nba-philadelphia-76ers-at-new-york-knicks.jpg"
+      },
+      {
+        "id": "a-be207136",
+        "sourceId": "sbt",
+        "title": "Trump acusa LeBron James de desrespeitar hino dos EUA",
+        "excerpt": "Presidente diz que astro do basquete deve um pedido de desculpas; os dois já haviam trocado farpas no primeiro mandato do republicano",
+        "url": "https://sbtnews.sbt.com.br/noticia/mundo/trump-acusa-le-bron-james-de-desrespeitar-hino-dos-eua",
+        "publishedAt": "2026-10-22T20:59:40.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/Le_Bron_James_9399b1c49f.jpg"
+      }
+    ],
+    "image": "https://s2-valor.glbimg.com/WAakUZAqGma89X2izHwnwf-tfzo=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/u/z/0Aha4WSFiaTL6Pu5eCag/2026-10-21t022726z-1095884503-mt1usatoday30140952-rtrmadp-3-nba-philadelphia-76ers-at-new-york-knicks.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-0c8894f9",
+    "slug": "anthropic-lanca-claude-duet-ia-que-cuida-de-tarefas-e-e-mails-enquanto",
+    "title": "Anthropic lança Claude Duet, IA que cuida de tarefas e e-mails enquanto você dorme",
+    "summary": [
+      "A Anthropic anunciou, na quarta-feira (21), o Claude Duet , um novo aplicativo de inteligência artificial (IA) capaz de executar tarefas, organizar e-mails e acompanhar compromissos mesmo enquanto o usuário dorme",
+      "A ferramenta funciona como um assistente pessoal que toma iniciativas sem precisar receber comandos a todo momento",
+      "Disponível para Android, iOS e pela web, o Duet utiliza o modelo Claud"
+    ],
+    "debate": "Em disputa: Anthropic lança Claude Duet, IA que cuida de tarefas e e-mails enquanto você dorme.",
+    "theme": "Tecnologia",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-9827f56c",
+        "sourceId": "canaltech",
+        "title": "Anthropic lança Claude Duet, IA que cuida de tarefas e e-mails enquanto você dorme",
+        "excerpt": "A Anthropic anunciou, na quarta-feira (21), o Claude Duet , um novo aplicativo de inteligência artificial (IA) capaz de executar tarefas, organizar e-mails e acompanhar compromissos mesmo enquanto o usuário dorme. A ferramenta funciona como um assistente pessoal que toma iniciativas sem precisar receber comandos a todo momento. Disponível para Android, iOS e pela web, o Duet utiliza o modelo Claud",
+        "url": "https://canaltech.com.br/inteligencia-artificial/anthropic-lanca-claude-duet-ia-que-cuida-de-tarefas-e-e-mails-enquanto-voce-dorme/",
+        "publishedAt": "2026-10-22T13:11:24.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://tl.ctcdn.com.br/YDdB1Dh73E1XrURn02Lnouf2dcc=/0x0/filters:format(webp):quality(85)/1b935e5e-508f-4a44-9cc3-80b13624a51b.png"
+      },
+      {
+        "id": "a-0e7314a3",
+        "sourceId": "valor",
+        "title": "Como o Claude Duet, da Anthropic, difere do Muse, da Meta, na corrida dos agentes de IA",
+        "excerpt": "",
+        "url": "https://valor.globo.com/empresas/noticia/2026/10/22/como-o-claude-duet-da-anthropic-difere-do-muse-da-meta-na-corrida-dos-agentes-de-ia.ghtml",
+        "publishedAt": "2026-10-22T17:59:59.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-valor.glbimg.com/bUmxZZEU9MAzTTnSVOLYsvpoKuI=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/3/W/xV09qUQ8mVicSHSDEAQA/449665231.jpg"
+      }
+    ],
+    "image": "https://tl.ctcdn.com.br/YDdB1Dh73E1XrURn02Lnouf2dcc=/0x0/filters:format(webp):quality(85)/1b935e5e-508f-4a44-9cc3-80b13624a51b.png",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-765202a0",
+    "slug": "liga-europa-bournemouth-vence-o-milan-com-dois-gols-de-penalti",
+    "title": "Liga Europa: Bournemouth vence o Milan com dois gols de pênalti",
+    "summary": [
+      "O Bournemouth venceu o Milan por 3 a 0 nesta quinta-feira (22), no Vitality Stadium, com gols de"
+    ],
+    "debate": "Em disputa: Liga Europa: Bournemouth vence o Milan com dois gols de pênalti.",
+    "theme": "Internacional",
+    "region": "sudeste",
+    "state": "RJ",
+    "articles": [
+      {
+        "id": "a-ad2c707f",
+        "sourceId": "metropoles",
+        "title": "Liga Europa: Bournemouth vence o Milan com dois gols de pênalti",
+        "excerpt": "",
+        "url": "https://metropoles.com/esportes/liga-europa-bournemouth-vence-o-milan-com-dois-gols-de-penalti",
+        "publishedAt": "2026-10-22T21:02:55.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://images.metroimg.com/2026/10/bournemouth.jpg"
+      },
+      {
+        "id": "a-630e0651",
+        "sourceId": "terra",
+        "title": "Bournemouth atropela Milan e mantém campanha perfeita na Europa League",
+        "excerpt": "O Bournemouth venceu o Milan por 3 a 0 nesta quinta-feira (22), no Vitality Stadium, com gols de ...",
+        "url": "https://terra.com.br/esportes/futebol/internacional/equipes/milan/bournemouth-atropela-milan-e-mantem-campanha-perfeita-na-europa-league,db85e760d2320c0fb3dc0eb38b7c0950a23edc62.html",
+        "publishedAt": "2026-10-22T21:12:58.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      }
+    ],
+    "image": "https://images.metroimg.com/2026/10/bournemouth.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-5f9c1ad2",
+    "slug": "aviao-da-latam-e-atingido-por-raio-em-pleno-voo-no-chile",
+    "title": "Avião da Latam é atingido por raio em pleno voo no Chile",
+    "summary": [
+      "Um avião da companhia aérea Latam foi atingido por um raio enquanto fazia uma rota no Chile,"
+    ],
+    "debate": "Em disputa: Avião da Latam é atingido por raio em pleno voo no Chile.",
+    "theme": "Mobilidade",
+    "region": "sudeste",
+    "state": "RJ",
+    "articles": [
+      {
+        "id": "a-c331297f",
+        "sourceId": "metropoles",
+        "title": "Avião da Latam é atingido por raio em pleno voo no Chile",
+        "excerpt": "",
+        "url": "https://metropoles.com/mundo/aviao-da-latam-e-atingido-por-raio-em-pleno-voo-no-chile",
+        "publishedAt": "2026-10-22T19:42:06.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://images.metroimg.com/2026/10/aviao-latam-1.jpg"
+      },
+      {
+        "id": "a-f0ab64e2",
+        "sourceId": "terra",
+        "title": "Avião da Latam é atingido por raio durante voo e surpreende passageiros; veja vídeo",
+        "excerpt": "Um avião da companhia aérea Latam foi atingido por um raio enquanto fazia uma rota no Chile, ...",
+        "url": "https://terra.com.br/noticias/mundo/aviao-da-latam-e-atingido-por-raio-durante-voo-e-surpreende-passageiros-veja-video,9901c2c85aa852451f1f4a8e20a803c1pnntpawl.html",
+        "publishedAt": "2026-10-22T21:14:33.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      }
+    ],
+    "image": "https://images.metroimg.com/2026/10/aviao-latam-1.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-898977a8",
+    "slug": "poderdata-aya-flavio-tem-51-dos-votos-validos-lula-49",
+    "title": "PoderData/Aya: Flávio tem 51% dos votos válidos; Lula, 49%",
+    "summary": [
+      "Percentuais desconsideram brancos, nulos e indecisos; na contagem geral, senador registra 49% ante 48% do presidente",
+      "Jonathan Karter e Mateus Netzel falam sobre os dados da penúltima rodada do levantamento a 3 dias do 2º turno"
+    ],
+    "debate": "Em disputa: PoderData/Aya: Flávio tem 51% dos votos válidos; Lula, 49%.",
+    "theme": "Política",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-40aa5aab",
+        "sourceId": "sbt",
+        "title": "PoderData/Aya: Flávio tem 51% dos votos válidos; Lula, 49%",
+        "excerpt": "Percentuais desconsideram brancos, nulos e indecisos; na contagem geral, senador registra 49% ante 48% do presidente",
+        "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/poder-data-aya-flavio-tem-51-dos-votos-validos-lula-49",
+        "publishedAt": "2026-10-22T10:42:05.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/Flavio_Bolsonaro_e_Lula_durante_debate_na_Band_TV_c403f97573.jpg"
+      },
+      {
+        "id": "a-3d192291",
+        "sourceId": "poder360",
+        "title": "Flávio tem 50,6% dos votos válidos e Lula, 49,4%, diz pesquisa",
+        "excerpt": "Levantamento Indexa/Broadcast ouviu 2.000 pessoas de 20 a 21 de outubro de 2026; margem de erro é 2,2 p.p.",
+        "url": "https://poder360.com.br/poder-pesquisas/flavio-tem-506-dos-votos-validos-e-lula-494-diz-pesquisa/",
+        "publishedAt": "2026-10-22T18:09:32.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      }
+    ],
+    "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/Flavio_Bolsonaro_e_Lula_durante_debate_na_Band_TV_c403f97573.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-552c2753",
+    "slug": "revista-britanica-questiona-se-lula-agora-zebra-ainda-tem-ultima-carta",
+    "title": "Revista britânica questiona se Lula, agora 'zebra', ainda tem última carta na manga para vencer eleições",
+    "summary": [
+      "Revista britânica aponta dificuldades para o presidente reverter no 2º turno a vantagem de Flávio Bolsonaro"
+    ],
+    "debate": "Em disputa: Revista britânica questiona se Lula, agora 'zebra', ainda tem última carta na manga para vencer eleições.",
+    "theme": "Eleições",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-0055921e",
+        "sourceId": "cbn",
+        "title": "Revista britânica questiona se Lula, agora 'zebra', ainda tem última carta na manga para vencer eleições",
+        "excerpt": "",
+        "url": "https://cbn.globo.com/coberturas/eleicoes-2026/noticia/2026/10/22/revista-britanica-questiona-se-lula-agora-zebra-ainda-tem-ultima-carta-na-manga-para-vencer-eleicoes.ghtml",
+        "publishedAt": "2026-10-22T12:51:04.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-cbn.glbimg.com/ohkcdPHJCAKl-ArEzXaFPdJeCzw=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/t/o/xTosRoROKyKaXanXc1KQ/captura-de-tela-2026-10-22-094323.png"
+      },
+      {
+        "id": "a-17f23e18",
+        "sourceId": "poder360",
+        "title": "Economist” questiona se Lula ainda tem uma “última carta na manga",
+        "excerpt": "Revista britânica aponta dificuldades para o presidente reverter no 2º turno a vantagem de Flávio Bolsonaro",
+        "url": "https://poder360.com.br/poder-eleicoes-2026/economist-questiona-se-lula-ainda-tem-uma-ultima-carta-na-manga/",
+        "publishedAt": "2026-10-22T20:15:14.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      }
+    ],
+    "image": "https://s2-cbn.glbimg.com/ohkcdPHJCAKl-ArEzXaFPdJeCzw=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/t/o/xTosRoROKyKaXanXc1KQ/captura-de-tela-2026-10-22-094323.png",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
   },
   {
     "id": "st-bb8b8c9f",
@@ -1476,46 +3029,6 @@
     "updatedAt": "2026-10-22T19:21:38.606Z"
   },
   {
-    "id": "st-0c8894f9",
-    "slug": "anthropic-lanca-claude-duet-ia-que-cuida-de-tarefas-e-e-mails-enquanto",
-    "title": "Anthropic lança Claude Duet, IA que cuida de tarefas e e-mails enquanto você dorme",
-    "summary": [
-      "A Anthropic anunciou, na quarta-feira (21), o Claude Duet , um novo aplicativo de inteligência artificial (IA) capaz de executar tarefas, organizar e-mails e acompanhar compromissos mesmo enquanto o usuário dorme",
-      "A ferramenta funciona como um assistente pessoal que toma iniciativas sem precisar receber comandos a todo momento",
-      "Disponível para Android, iOS e pela web, o Duet utiliza o modelo Claud"
-    ],
-    "debate": "Em disputa: Anthropic lança Claude Duet, IA que cuida de tarefas e e-mails enquanto você dorme.",
-    "theme": "Tecnologia",
-    "region": "sudeste",
-    "state": "SP",
-    "articles": [
-      {
-        "id": "a-9827f56c",
-        "sourceId": "canaltech",
-        "title": "Anthropic lança Claude Duet, IA que cuida de tarefas e e-mails enquanto você dorme",
-        "excerpt": "A Anthropic anunciou, na quarta-feira (21), o Claude Duet , um novo aplicativo de inteligência artificial (IA) capaz de executar tarefas, organizar e-mails e acompanhar compromissos mesmo enquanto o usuário dorme. A ferramenta funciona como um assistente pessoal que toma iniciativas sem precisar receber comandos a todo momento. Disponível para Android, iOS e pela web, o Duet utiliza o modelo Claud",
-        "url": "https://canaltech.com.br/inteligencia-artificial/anthropic-lanca-claude-duet-ia-que-cuida-de-tarefas-e-e-mails-enquanto-voce-dorme/",
-        "publishedAt": "2026-10-22T13:11:24.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://tl.ctcdn.com.br/YDdB1Dh73E1XrURn02Lnouf2dcc=/0x0/filters:format(webp):quality(85)/1b935e5e-508f-4a44-9cc3-80b13624a51b.png"
-      },
-      {
-        "id": "a-0e7314a3",
-        "sourceId": "valor",
-        "title": "Como o Claude Duet, da Anthropic, difere do Muse, da Meta, na corrida dos agentes de IA",
-        "excerpt": "",
-        "url": "https://valor.globo.com/empresas/noticia/2026/10/22/como-o-claude-duet-da-anthropic-difere-do-muse-da-meta-na-corrida-dos-agentes-de-ia.ghtml",
-        "publishedAt": "2026-10-22T17:59:59.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://s2-valor.glbimg.com/bUmxZZEU9MAzTTnSVOLYsvpoKuI=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/3/W/xV09qUQ8mVicSHSDEAQA/449665231.jpg"
-      }
-    ],
-    "image": "https://tl.ctcdn.com.br/YDdB1Dh73E1XrURn02Lnouf2dcc=/0x0/filters:format(webp):quality(85)/1b935e5e-508f-4a44-9cc3-80b13624a51b.png",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
-  },
-  {
     "id": "st-dbee1bf9",
     "slug": "ouro-cai-em-meio-a-aversao-global-a-risco-e-avanco-do-petroleo",
     "title": "Ouro cai em meio a aversão global a risco e avanço do petróleo",
@@ -1666,81 +3179,6 @@
       }
     ],
     "image": "https://images.metroimg.com/2026/09/bruna-biancardi-ensaio-gestante-filha-neymar4.jpg",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
-  },
-  {
-    "id": "st-3435fc84",
-    "slug": "caixa-preta-nao-gravou-voo-que-matou-cantor-rick-em-sc",
-    "title": "Caixa-preta não gravou voo que matou cantor Rick em SC",
-    "summary": [
-      "Relatório preliminar do Cenipa aponta que áudio encontrado no gravador do helicóptero era de uma manutenção feita em data indeterminada"
-    ],
-    "debate": "Em disputa: Caixa-preta não gravou voo que matou cantor Rick em SC.",
-    "theme": "Mobilidade",
-    "region": "sudeste",
-    "state": "SP",
-    "articles": [
-      {
-        "id": "a-be29063a",
-        "sourceId": "sbt",
-        "title": "Caixa-preta não gravou voo que matou cantor Rick em SC",
-        "excerpt": "Relatório preliminar do Cenipa aponta que áudio encontrado no gravador do helicóptero era de uma manutenção feita em data indeterminada",
-        "url": "https://sbtnews.sbt.com.br/noticia/brasil/caixa-preta-nao-gravou-voo-que-matou-cantor-rick-em-sc",
-        "publishedAt": "2026-10-22T18:01:54.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/Design_sem_nome_8be9b87a46.jpg"
-      },
-      {
-        "id": "a-2cdb970b",
-        "sourceId": "metropoles",
-        "title": "Cenipa aponta falhas em helicóptero que matou Rick e caixa-preta sem áudio",
-        "excerpt": "",
-        "url": "https://metropoles.com/celebridades/relatorio-aponta-historico-de-falhas-em-helicoptero-que-matou-rick-em-sc",
-        "publishedAt": "2026-10-22T19:06:45.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://images.metroimg.com/2026/09/rick-queda.jpg"
-      }
-    ],
-    "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/Design_sem_nome_8be9b87a46.jpg",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
-  },
-  {
-    "id": "st-f04f4fbf",
-    "slug": "familia-de-matthew-perry-teria-se-emocionado-com-casamento-em-friends",
-    "title": "Família de Matthew Perry teria se emocionado com casamento em “Friends",
-    "summary": [
-      "Mia, irmã do ator que morreu em 2023, falou sobre ele pela primeira vez no documentário da Netflix e citou cena que Chandler e Mônica celebram união"
-    ],
-    "debate": "Em disputa: Família de Matthew Perry teria se emocionado com casamento em “Friends.",
-    "theme": "Cultura",
-    "region": "sudeste",
-    "state": "SP",
-    "articles": [
-      {
-        "id": "a-5becf07e",
-        "sourceId": "cnnbrasil",
-        "title": "Família de Matthew Perry teria se emocionado com casamento em “Friends",
-        "excerpt": "Mia, irmã do ator que morreu em 2023, falou sobre ele pela primeira vez no documentário da Netflix e citou cena que Chandler e Mônica celebram união",
-        "url": "https://cnnbrasil.com.br/pop/streaming/familia-de-matthew-perry-teria-se-emocionado-com-casamento-em-friends/",
-        "publishedAt": "2026-10-22T18:07:59.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true
-      },
-      {
-        "id": "a-9f57098d",
-        "sourceId": "metropoles",
-        "title": "Elenco de Friends chorou junto ao caixão de Matthew Perry, diz irmã do ator",
-        "excerpt": "",
-        "url": "https://metropoles.com/entretenimento/matthew-perry-irma-revela-atitude-dos-atores-de-friends-no-funeral-do-ator",
-        "publishedAt": "2026-10-22T18:59:52.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://images.metroimg.com/2025/04/04111208/5-609.jpg"
-      }
-    ],
-    "image": "https://images.metroimg.com/2025/04/04111208/5-609.jpg",
     "updatedAt": "2026-10-22T19:21:38.606Z"
   },
   {
@@ -2125,80 +3563,311 @@
     "updatedAt": "2026-10-22T19:21:38.606Z"
   },
   {
-    "id": "st-898977a8",
-    "slug": "poderdata-aya-flavio-tem-51-dos-votos-validos-lula-49",
-    "title": "PoderData/Aya: Flávio tem 51% dos votos válidos; Lula, 49%",
+    "id": "st-5856cc7b",
+    "slug": "meta-fecha-acordo-com-mark-zuckerberg-para-ajudar-em-imposto-sobre-riq",
+    "title": "Meta fecha acordo com Mark Zuckerberg para ajudar em imposto sobre riqueza na Califórnia",
     "summary": [
-      "Percentuais desconsideram brancos, nulos e indecisos; na contagem geral, senador registra 49% ante 48% do presidente",
-      "Levantamento Indexa/Broadcast ouviu 2.000 pessoas de 20 a 21 de outubro de 2026; margem de erro é 2,2 p.p"
+      "Meta fecha acordo com Mark Zuckerberg para ajudar em imposto sobre riqueza na Califórnia",
+      "Zuckerberg ameaça deixar a Califórnia, e Meta monta plano para segurá-lo"
     ],
-    "debate": "Em disputa: PoderData/Aya: Flávio tem 51% dos votos válidos; Lula, 49%.",
-    "theme": "Política",
+    "debate": "Em disputa: Meta fecha acordo com Mark Zuckerberg para ajudar em imposto sobre riqueza na Califórnia.",
+    "theme": "Economia",
     "region": "sudeste",
     "state": "SP",
     "articles": [
       {
-        "id": "a-40aa5aab",
-        "sourceId": "sbt",
-        "title": "PoderData/Aya: Flávio tem 51% dos votos válidos; Lula, 49%",
-        "excerpt": "Percentuais desconsideram brancos, nulos e indecisos; na contagem geral, senador registra 49% ante 48% do presidente",
-        "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/poder-data-aya-flavio-tem-51-dos-votos-validos-lula-49",
-        "publishedAt": "2026-10-22T10:42:05.000Z",
+        "id": "a-ae4b2160",
+        "sourceId": "cbn",
+        "title": "Meta fecha acordo com Mark Zuckerberg para ajudar em imposto sobre riqueza na Califórnia",
+        "excerpt": "",
+        "url": "https://cbn.globo.com/mundo/noticia/2026/10/22/meta-fecha-acordo-com-mark-zuckerberg-para-ajudar-em-imposto-sobre-riqueza-na-california.ghtml",
+        "publishedAt": "2026-10-22T13:42:15.000Z",
         "stance": "neutral",
         "stanceEstimated": true,
-        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/Flavio_Bolsonaro_e_Lula_durante_debate_na_Band_TV_c403f97573.jpg"
+        "image": "https://s2-cbn.glbimg.com/VnIDONthB3nbHlimxnkPLXZ-sf4=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2025/g/W/k3vwoAT2SqrYCKDLkh8A/000-36t98yn.jpg"
       },
       {
-        "id": "a-3d192291",
-        "sourceId": "poder360",
-        "title": "Flávio tem 50,6% dos votos válidos e Lula, 49,4%, diz pesquisa",
-        "excerpt": "Levantamento Indexa/Broadcast ouviu 2.000 pessoas de 20 a 21 de outubro de 2026; margem de erro é 2,2 p.p.",
-        "url": "https://poder360.com.br/poder-pesquisas/flavio-tem-506-dos-votos-validos-e-lula-494-diz-pesquisa/",
-        "publishedAt": "2026-10-22T18:09:32.000Z",
+        "id": "a-7aa016c6",
+        "sourceId": "infomoney",
+        "title": "Zuckerberg ameaça deixar a Califórnia, e Meta monta plano para segurá-lo",
+        "excerpt": "Mark Zuckerberg (David Paul Morris/Bloomberg) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/471870052.jpg?fit=1280%2C853&quality=70&strip=all\" />Empresa dará ações sem direito a voto ao fundador para que ele possa pagar uma eventual conta bilionária de impostos sem abrir mão do controle da companhia The post Zuckerberg ameaça deixar a Califórnia, e Meta monta plano par",
+        "url": "https://infomoney.com.br/business/zuckerberg-ameaca-deixar-a-california-e-meta-monta-plano-para-segura-lo/",
+        "publishedAt": "2026-10-22T20:58:41.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/471870052.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      }
+    ],
+    "image": "https://s2-cbn.glbimg.com/VnIDONthB3nbHlimxnkPLXZ-sf4=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2025/g/W/k3vwoAT2SqrYCKDLkh8A/000-36t98yn.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-27bde2ce",
+    "slug": "dois-corpos-sao-encontrados-em-sao-paulo-nesta-quinta-22-balancogeral-",
+    "title": "Dois corpos são encontrados em São Paulo nesta quinta (22) #BalançoGeral #Shorts",
+    "summary": [
+      "Secretaria de Segurança diz que ocorrências têm dinâmicas distintas que não indicam 'serial killer'; na capital, delegada fala em sinais de 'tribunal do crime'"
+    ],
+    "debate": "Em disputa: Dois corpos são encontrados em São Paulo nesta quinta (22) #BalançoGeral #Shorts.",
+    "theme": "Geral",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-83f1e4f8",
+        "sourceId": "record",
+        "title": "Dois corpos são encontrados em São Paulo nesta quinta (22) #BalançoGeral #Shorts",
+        "excerpt": "",
+        "url": "https://record.r7.com/balanco-geral/dois-corpos-sao-encontrados-em-sao-paulo-nesta-quinta-22-balancogeral-shorts-22102026/",
+        "publishedAt": "2026-10-22T16:17:31.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://newr7-recordtv-prod.web.arc-cdn.net/resizer/2or8kCUly3zxZTltrn8jZqIQOgk=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/newr7/G64EXLEWRRCI3DUKJ6H6BKXKNM.jpg"
+      },
+      {
+        "id": "a-f2d867d2",
+        "sourceId": "sbt",
+        "title": "Corpos encontrados em SP ainda são mistério",
+        "excerpt": "Secretaria de Segurança diz que ocorrências têm dinâmicas distintas que não indicam 'serial killer'; na capital, delegada fala em sinais de 'tribunal do crime'",
+        "url": "https://sbtnews.sbt.com.br/noticia/brasil/corpos-encontrados-em-sp-ainda-sao-misterio",
+        "publishedAt": "2026-10-22T21:07:22.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/furto_viatura_gcm_maua_sp_2d6f160ed6_6f853c0b45.jpg"
+      }
+    ],
+    "image": "https://newr7-recordtv-prod.web.arc-cdn.net/resizer/2or8kCUly3zxZTltrn8jZqIQOgk=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/newr7/G64EXLEWRRCI3DUKJ6H6BKXKNM.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-3412fc83",
+    "slug": "meta-derruba-video-de-mc-cabelinho-sobre-flavio-bolsonaro",
+    "title": "Meta derruba vídeo de MC Cabelinho sobre Flávio Bolsonaro",
+    "summary": [
+      "Plataforma afirma que medida segue regras eleitorais sobre conteúdos gerados ou alterados por IA; cantor e Gregório Duvivier negam uso da tecnologia",
+      "Essa foi a segunda gravação da série 'Revelando Brasil' que foi retirada pela big tech do Instagram"
+    ],
+    "debate": "Em disputa: Meta derruba vídeo de MC Cabelinho sobre Flávio Bolsonaro.",
+    "theme": "Tecnologia",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-9a14ea95",
+        "sourceId": "sbt",
+        "title": "Meta derruba vídeo de MC Cabelinho sobre Flávio Bolsonaro",
+        "excerpt": "Plataforma afirma que medida segue regras eleitorais sobre conteúdos gerados ou alterados por IA; cantor e Gregório Duvivier negam uso da tecnologia",
+        "url": "https://sbtnews.sbt.com.br/noticia/politica/meta-derruba-video-de-mc-cabelinho-sobre-flavio-bolsonaro",
+        "publishedAt": "2026-10-22T18:26:04.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/revelando_6319e688bd.jpg"
+      },
+      {
+        "id": "a-6f66cf63",
+        "sourceId": "jovempan",
+        "title": "Meta derruba vídeo do MC Cabelinho sobre Flávio Bolsonaro",
+        "excerpt": "Essa foi a segunda gravação da série 'Revelando Brasil' que foi retirada pela big tech do Instagram",
+        "url": "https://jovempan.com.br/politica/meta-derruba-video-do-mc-cabelinho-sobre-flavio-bolsonaro/",
+        "publishedAt": "2026-10-22T20:55:28.000Z",
         "stance": "neutral",
         "stanceEstimated": true
       }
     ],
-    "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/Flavio_Bolsonaro_e_Lula_durante_debate_na_Band_TV_c403f97573.jpg",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
+    "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/revelando_6319e688bd.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
   },
   {
-    "id": "st-e155aa87",
-    "slug": "apos-doenca-de-newcastle-governo-declara-emergencia-zoossanitaria",
-    "title": "Após doença de Newcastle, governo declara emergência zoossanitária",
+    "id": "st-a0ee827a",
+    "slug": "ex-candidata-a-presidente-e-presa-em-meio-a-escandalo-financeiro",
+    "title": "Ex-candidata a presidente é presa em meio a escândalo financeiro",
     "summary": [
-      "O Ministério da Agricultura e Pecuária informou que foi concluído o despovoamento sanitário do estabelecimento comercial de criação de perus de corte no município de Nova Itaberaba , em Santa Catarina, onde foi identificado um foco da doença de Newcastle",
-      "De acordo com o ministério, estão em andamento procedimentos de limpeza e desinfecção das instalações, conforme protocolos sanitários aplicávei"
+      "A ex-candidata à Presidência Luisa González, do Equador, foi presa nesta quinta-feira, 22",
+      "O ex-presidente equatoriano Rafael Correa, de quem González é aliada, anunciou a detenção.O motivo da prisão não foi divulgado até o momento, mas González é investigada no caso Caja Chica, que apura suspeitas de financiamento irregular da campanha presidencial de 2023.González é integrante do partido Revoluç",
+      "Luísa González, que disputou as eleições de 2023 com o atual presidente de extrema-direta Daniel Noboa, era investigada por financiamento irregular de campanha"
     ],
-    "debate": "Em disputa: Após doença de Newcastle, governo declara emergência zoossanitária.",
-    "theme": "Saúde",
+    "debate": "Em disputa: Ex-candidata a presidente é presa em meio a escândalo financeiro.",
+    "theme": "Eleições",
     "region": "nordeste",
     "state": "BA",
     "articles": [
       {
-        "id": "a-de88964f",
+        "id": "a-7371e835",
         "sourceId": "atarde",
-        "title": "Após doença de Newcastle, governo declara emergência zoossanitária",
-        "excerpt": "Após a detecção de doença de Newcastle em uma granja de perus, em Santa Catarina, o governo federal decretou estado de emergência zoossanitária por 60 dias em cidades nos municípios de Nova Itaberaba, Águas Frias, Coronel Freitas e Nova ErechimA emergência foi declarada pelo Ministério da Agricultura e Pecuária (Mapa), e resultou na restrição da importação da carne de frango brasileira para pelo m",
-        "url": "https://atarde.com.br/agro/apos-doenca-de-newcastle-governo-declara-emergencia-zoossanitaria-1406703",
-        "publishedAt": "2026-10-22T17:06:51.000Z",
-        "stance": "neutral",
+        "title": "Ex-candidata a presidente é presa em meio a escândalo financeiro",
+        "excerpt": "A ex-candidata à Presidência Luisa González, do Equador, foi presa nesta quinta-feira, 22. O ex-presidente equatoriano Rafael Correa, de quem González é aliada, anunciou a detenção.O motivo da prisão não foi divulgado até o momento, mas González é investigada no caso Caja Chica, que apura suspeitas de financiamento irregular da campanha presidencial de 2023.González é integrante do partido Revoluç",
+        "url": "https://atarde.com.br/politica/ex-candidata-a-presidente-e-presa-em-meio-a-escandalo-financeiro-1406689",
+        "publishedAt": "2026-10-22T15:52:18.000Z",
+        "stance": "critical",
         "stanceEstimated": true,
-        "image": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/apos-doenca-de-newcastle-governo-declara-emergenci0140670300202610221451.png?xid=7363213"
+        "image": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/ex-candidata-a-presidente-e-presa-em-meio-a-escand0140668900202610221252.jpg?xid=7363109"
       },
       {
-        "id": "a-48ca539c",
-        "sourceId": "agenciabrasil",
-        "title": "Doença de Newcastle: protocolos sanitários são cumpridos em SC",
-        "excerpt": "O Ministério da Agricultura e Pecuária informou que foi concluído o despovoamento sanitário do estabelecimento comercial de criação de perus de corte no município de Nova Itaberaba , em Santa Catarina, onde foi identificado um foco da doença de Newcastle . De acordo com o ministério, estão em andamento procedimentos de limpeza e desinfecção das instalações, conforme protocolos sanitários aplicávei",
-        "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/doenca-de-newcastle-protocolos-sanitarios-sao-cumpridos-em-sc",
-        "publishedAt": "2026-10-22T18:21:00.000Z",
+        "id": "a-c4738f6c",
+        "sourceId": "sbt",
+        "title": "Líder da oposição de esquerda no Equador é presa",
+        "excerpt": "Luísa González, que disputou as eleições de 2023 com o atual presidente de extrema-direta Daniel Noboa, era investigada por financiamento irregular de campanha",
+        "url": "https://sbtnews.sbt.com.br/noticia/mundo/lider-da-oposicao-de-esquerda-no-equador-e-presa",
+        "publishedAt": "2026-10-22T16:51:12.000Z",
+        "stance": "critical",
+        "stanceEstimated": true,
+        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/Captura_de_tela_2026_10_22_133250_10434ef524.png"
+      }
+    ],
+    "image": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/ex-candidata-a-presidente-e-presa-em-meio-a-escand0140668900202610221252.jpg?xid=7363109",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-7eb9792d",
+    "slug": "cnbb-pede-a-fieis-compromisso-com-a-democracia-no-2-turno",
+    "title": "CNBB pede a fiéis “compromisso com a democracia” no 2º turno",
+    "summary": [
+      "Em mensagem para eleições, principal entidade católica do país citou padroeira e cobrou defesa da soberania, direitos humanos e proteção do meio ambiente"
+    ],
+    "debate": "Em disputa: CNBB pede a fiéis “compromisso com a democracia” no 2º turno.",
+    "theme": "Ambiente",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-d27b0d3b",
+        "sourceId": "sbt",
+        "title": "CNBB pede a fiéis “compromisso com a democracia” no 2º turno",
+        "excerpt": "Em mensagem para eleições, principal entidade católica do país citou padroeira e cobrou defesa da soberania, direitos humanos e proteção do meio ambiente",
+        "url": "https://sbtnews.sbt.com.br/noticia/politica/cnbb-pede-a-fieis-compromisso-com-a-democracia-no-2-turno",
+        "publishedAt": "2026-10-22T00:32:14.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/CNBB_9519985535.jpeg"
+      },
+      {
+        "id": "a-b0f78bbf",
+        "sourceId": "cbn",
+        "title": "Em carta aberta, CNBB pede compromisso dos eleitores e intercessão de Nossa Senhora Aparecida",
+        "excerpt": "",
+        "url": "https://cbn.globo.com/coberturas/eleicoes-2026/noticia/2026/10/22/em-carta-aberta-cnbb-pede-compromisso-dos-eleitores-e-intercessao-de-nossa-senhora-aparecida.ghtml",
+        "publishedAt": "2026-10-22T12:33:57.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-cbn.glbimg.com/wfiwJdobtbknI94sv3jVTFYIeSg=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/H/i/XKUZW4QsAN2Vwxpz05mA/cnbb.png"
+      }
+    ],
+    "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/CNBB_9519985535.jpeg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-30d4eff6",
+    "slug": "sine-jp-oferece-200-vagas-de-emprego-sem-exigencia-de-experiencia-nest",
+    "title": "Sine-JP oferece 200 vagas de emprego sem exigência de experiência nesta quarta",
+    "summary": [
+      "Uma ação de empregabilidade vai disponibilizar 200 vagas de emprego em João Pessoa nesta quarta-feira (21)",
+      "A iniciativa será realizada na sede do Sistema… O post Sine-JP oferece 200 vagas de emprego sem exigência de experiência nesta quarta apareceu primeiro em Contrapoder",
+      "A ação faz parte da 17ª edição da Feira de Estágios e Empregabilidade da UniSãoJosé, em Realengo"
+    ],
+    "debate": "Em disputa: Sine-JP oferece 200 vagas de emprego sem exigência de experiência nesta quarta.",
+    "theme": "Economia",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-a6722a33",
+        "sourceId": "contrapoder",
+        "title": "Sine-JP oferece 200 vagas de emprego sem exigência de experiência nesta quarta",
+        "excerpt": "Uma ação de empregabilidade vai disponibilizar 200 vagas de emprego em João Pessoa nesta quarta-feira (21). A iniciativa será realizada na sede do Sistema… O post Sine-JP oferece 200 vagas de emprego sem exigência de experiência nesta quarta apareceu primeiro em Contrapoder .",
+        "url": "https://contrapoder.com.br/2026/10/20/sine-jp-oferece-200-vagas-de-emprego-sem-exigencia-de-experiencia-nesta-quarta/",
+        "publishedAt": "2026-10-20T20:05:05.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true
+      },
+      {
+        "id": "a-bdd0b8e1",
+        "sourceId": "record",
+        "title": "Evento oferece mais de 3 mil vagas de emprego, estágio e jovem aprendiz no Rio",
+        "excerpt": "A ação faz parte da 17ª edição da Feira de Estágios e Empregabilidade da UniSãoJosé, em Realengo",
+        "url": "https://record.r7.com/balanco-geral-rj/video/evento-oferece-mais-de-3-mil-vagas-de-emprego-estagio-e-jovem-aprendiz-no-rio-22102026/",
+        "publishedAt": "2026-10-22T19:42:53.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://newr7-recordtv-prod.web.arc-cdn.net/resizer/EFyDUVH8ipcyw3l4jYJowwGOVOY=/1200x0/d22yf0mxeu0gma.cloudfront.net/10-22-2026/t_5d368f6e0b8f4edc9ab0cdcf841a7df0_name_Captura_de_tela_2026_10_22_162748.png"
+      }
+    ],
+    "image": "https://newr7-recordtv-prod.web.arc-cdn.net/resizer/EFyDUVH8ipcyw3l4jYJowwGOVOY=/1200x0/d22yf0mxeu0gma.cloudfront.net/10-22-2026/t_5d368f6e0b8f4edc9ab0cdcf841a7df0_name_Captura_de_tela_2026_10_22_162748.png",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-d343be7b",
+    "slug": "motorista-de-aplicativo-e-baleado-ao-entrar-por-engano-em-comunidade-s",
+    "title": "Motorista de aplicativo é internado após ser baleado na cabeça em Jacarepaguá",
+    "summary": [
+      "Luiz Fernando dos Santos teria entrado por engano na comunidade da Colônia; ele teria sido confundido com milicianos"
+    ],
+    "debate": "Em disputa: Motorista de aplicativo é internado após ser baleado na cabeça em Jacarepaguá.",
+    "theme": "Tecnologia",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-08f9782a",
+        "sourceId": "record",
+        "title": "Motorista de aplicativo é baleado ao entrar por engano em comunidade #shorts #falabrasil",
+        "excerpt": "",
+        "url": "https://record.r7.com/fala-brasil/motorista-de-aplicativo-e-baleado-ao-entrar-por-engano-em-comunidade-shorts-falabrasil-22102026/",
+        "publishedAt": "2026-10-22T13:40:27.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://newr7-recordtv-prod.web.arc-cdn.net/resizer/rxiqTLk_HIp5uRapNtxI__uaLfo=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/newr7/DDJ6SBBFURF6TDVKZYBSPXA5YA.jpg"
+      },
+      {
+        "id": "a-5179dd3e",
+        "sourceId": "cbn",
+        "title": "Motorista de aplicativo é internado após ser baleado na cabeça em Jacarepaguá",
+        "excerpt": "",
+        "url": "https://cbn.globo.com/rio-de-janeiro/noticia/2026/10/22/motorista-de-aplicativo-esta-internado-apos-ser-baleado-na-cabeca-em-jacarepagua.ghtml",
+        "publishedAt": "2026-10-22T14:08:10.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-cbn.glbimg.com/YnWEr8G8AKA8UjGvJv3ZwBJRfwM=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/t/J/QcQ857SpCCtKgvmI32RA/48a6b7f1-3968-4aba-a3eb-ca414d431071.jpg"
+      }
+    ],
+    "image": "https://s2-cbn.glbimg.com/YnWEr8G8AKA8UjGvJv3ZwBJRfwM=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/t/J/QcQ857SpCCtKgvmI32RA/48a6b7f1-3968-4aba-a3eb-ca414d431071.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
+  },
+  {
+    "id": "st-dfd1a883",
+    "slug": "instituto-federal-de-sao-paulo-e-esvaziado-e-aulas-sao-suspensas-apos-",
+    "title": "Instituto Federal de São Paulo é esvaziado e aulas são suspensas após suposta ameaça",
+    "summary": [
+      "Segundo as informações preliminares, a intimidação teria sido feita por meio de um bilhete deixado no banheiro da escola"
+    ],
+    "debate": "Em disputa: Instituto Federal de São Paulo é esvaziado e aulas são suspensas após suposta ameaça.",
+    "theme": "Geral",
+    "region": "sudeste",
+    "state": "SP",
+    "articles": [
+      {
+        "id": "a-f6aa812a",
+        "sourceId": "cbn",
+        "title": "Instituto Federal de São Paulo é esvaziado e aulas são suspensas após suposta ameaça",
+        "excerpt": "",
+        "url": "https://cbn.globo.com/sao-paulo/noticia/2026/10/22/instituto-federal-de-sao-paulo-e-esvaziado-e-aulas-sao-suspensas-apos-suposta-ameaca.ghtml",
+        "publishedAt": "2026-10-22T19:16:04.000Z",
+        "stance": "neutral",
+        "stanceEstimated": true,
+        "image": "https://s2-cbn.glbimg.com/8M9Tjmfiipc5B3Dx0P26ph2jjyo=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2024/U/E/0z61QPR5Si3h5pplAqlA/grever-6.jpg"
+      },
+      {
+        "id": "a-760790b7",
+        "sourceId": "jovempan",
+        "title": "Instituto Federal de SP é esvaziado e aulas são suspensas após suposta ameaça",
+        "excerpt": "Segundo as informações preliminares, a intimidação teria sido feita por meio de um bilhete deixado no banheiro da escola",
+        "url": "https://jovempan.com.br/brasil/instituto-federal-de-sp-e-esvaziado-e-aulas-sao-suspensas-apos-suposta-ameaca/",
+        "publishedAt": "2026-10-22T20:00:18.000Z",
         "stance": "neutral",
         "stanceEstimated": true
       }
     ],
-    "image": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/apos-doenca-de-newcastle-governo-declara-emergenci0140670300202610221451.png?xid=7363213",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
+    "image": "https://s2-cbn.glbimg.com/8M9Tjmfiipc5B3Dx0P26ph2jjyo=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2024/U/E/0z61QPR5Si3h5pplAqlA/grever-6.jpg",
+    "updatedAt": "2026-10-22T21:29:42.024Z"
   },
   {
     "id": "st-10a8fece",
@@ -2278,82 +3947,6 @@
     "updatedAt": "2026-10-22T19:21:38.606Z"
   },
   {
-    "id": "st-da51757a",
-    "slug": "aviao-que-saiu-do-galeao-com-destino-a-curitiba-retorna-ao-rio-apos-su",
-    "title": "Avião que saiu do Galeão com destino a Curitiba retorna ao Rio após suspeita de pane elétrica",
-    "summary": [
-      "Aeronave declarou protocolo de emergência por precaução após apresentar problemas técnicos"
-    ],
-    "debate": "Em disputa: Avião que saiu do Galeão com destino a Curitiba retorna ao Rio após suspeita de pane elétrica.",
-    "theme": "Ambiente",
-    "region": "sudeste",
-    "state": "SP",
-    "articles": [
-      {
-        "id": "a-43a6b2e2",
-        "sourceId": "cbn",
-        "title": "Avião que saiu do Galeão com destino a Curitiba retorna ao Rio após suspeita de pane elétrica",
-        "excerpt": "",
-        "url": "https://cbn.globo.com/rio-de-janeiro/noticia/2026/10/22/aviao-que-saiu-do-galeao-com-destino-a-curitiba-retorna-ao-rio-apos-suspeita-de-pane-eletrica.ghtml",
-        "publishedAt": "2026-10-22T12:06:11.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://s2-cbn.glbimg.com/Z9KIH1LiWsp4j2wbqOr-ZEkPD4E=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/J/p/Yb7cdTSC6mS2uTKZBi0w/galeao.png"
-      },
-      {
-        "id": "a-333ba0cd",
-        "sourceId": "sbt",
-        "title": "Pane em voo que saiu do Rio para Curitiba força desembarque",
-        "excerpt": "Aeronave declarou protocolo de emergência por precaução após apresentar problemas técnicos",
-        "url": "https://sbtnews.sbt.com.br/noticia/brasil/pane-em-voo-que-saiu-do-rio-para-curitiba-forca-desembarque",
-        "publishedAt": "2026-10-22T13:22:23.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/Azul_ffdbbe0b81.jpeg"
-      }
-    ],
-    "image": "https://s2-cbn.glbimg.com/Z9KIH1LiWsp4j2wbqOr-ZEkPD4E=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/J/p/Yb7cdTSC6mS2uTKZBi0w/galeao.png",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
-  },
-  {
-    "id": "st-7eb9792d",
-    "slug": "cnbb-pede-a-fieis-compromisso-com-a-democracia-no-2-turno",
-    "title": "CNBB pede a fiéis “compromisso com a democracia” no 2º turno",
-    "summary": [
-      "Em mensagem para eleições, principal entidade católica do país citou padroeira e cobrou defesa da soberania, direitos humanos e proteção do meio ambiente"
-    ],
-    "debate": "Em disputa: CNBB pede a fiéis “compromisso com a democracia” no 2º turno.",
-    "theme": "Ambiente",
-    "region": "sudeste",
-    "state": "SP",
-    "articles": [
-      {
-        "id": "a-d27b0d3b",
-        "sourceId": "sbt",
-        "title": "CNBB pede a fiéis “compromisso com a democracia” no 2º turno",
-        "excerpt": "Em mensagem para eleições, principal entidade católica do país citou padroeira e cobrou defesa da soberania, direitos humanos e proteção do meio ambiente",
-        "url": "https://sbtnews.sbt.com.br/noticia/politica/cnbb-pede-a-fieis-compromisso-com-a-democracia-no-2-turno",
-        "publishedAt": "2026-10-22T00:32:14.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/CNBB_9519985535.jpeg"
-      },
-      {
-        "id": "a-b0f78bbf",
-        "sourceId": "cbn",
-        "title": "Em carta aberta, CNBB pede compromisso dos eleitores e intercessão de Nossa Senhora Aparecida",
-        "excerpt": "",
-        "url": "https://cbn.globo.com/coberturas/eleicoes-2026/noticia/2026/10/22/em-carta-aberta-cnbb-pede-compromisso-dos-eleitores-e-intercessao-de-nossa-senhora-aparecida.ghtml",
-        "publishedAt": "2026-10-22T12:33:57.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://s2-cbn.glbimg.com/wfiwJdobtbknI94sv3jVTFYIeSg=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/H/i/XKUZW4QsAN2Vwxpz05mA/cnbb.png"
-      }
-    ],
-    "image": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/CNBB_9519985535.jpeg",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
-  },
-  {
     "id": "st-67d9bd01",
     "slug": "campanha-de-lula-pede-ao-tse-cassacao-da-chapa-de-flavio-por-suspeita-",
     "title": "Campanha de Lula pede ao TSE cassação da chapa de Flávio por suspeita de favorecimento da Meta",
@@ -2392,45 +3985,6 @@
     "updatedAt": "2026-10-22T19:21:38.606Z"
   },
   {
-    "id": "st-d343be7b",
-    "slug": "motorista-de-aplicativo-e-baleado-ao-entrar-por-engano-em-comunidade-s",
-    "title": "Motorista de aplicativo é baleado ao entrar por engano em comunidade #shorts #falabrasil",
-    "summary": [
-      "Motorista de aplicativo é baleado ao entrar por engano em comunidade #shorts #falabrasil",
-      "Motorista de aplicativo é internado após ser baleado na cabeça em Jacarepaguá"
-    ],
-    "debate": "Em disputa: Motorista de aplicativo é baleado ao entrar por engano em comunidade #shorts #falabrasil.",
-    "theme": "Tecnologia",
-    "region": "sudeste",
-    "state": "SP",
-    "articles": [
-      {
-        "id": "a-08f9782a",
-        "sourceId": "record",
-        "title": "Motorista de aplicativo é baleado ao entrar por engano em comunidade #shorts #falabrasil",
-        "excerpt": "",
-        "url": "https://record.r7.com/fala-brasil/motorista-de-aplicativo-e-baleado-ao-entrar-por-engano-em-comunidade-shorts-falabrasil-22102026/",
-        "publishedAt": "2026-10-22T13:40:27.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://newr7-recordtv-prod.web.arc-cdn.net/resizer/rxiqTLk_HIp5uRapNtxI__uaLfo=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/newr7/DDJ6SBBFURF6TDVKZYBSPXA5YA.jpg"
-      },
-      {
-        "id": "a-5179dd3e",
-        "sourceId": "cbn",
-        "title": "Motorista de aplicativo é internado após ser baleado na cabeça em Jacarepaguá",
-        "excerpt": "",
-        "url": "https://cbn.globo.com/rio-de-janeiro/noticia/2026/10/22/motorista-de-aplicativo-esta-internado-apos-ser-baleado-na-cabeca-em-jacarepagua.ghtml",
-        "publishedAt": "2026-10-22T14:08:10.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://s2-cbn.glbimg.com/YnWEr8G8AKA8UjGvJv3ZwBJRfwM=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/t/J/QcQ857SpCCtKgvmI32RA/48a6b7f1-3968-4aba-a3eb-ca414d431071.jpg"
-      }
-    ],
-    "image": "https://newr7-recordtv-prod.web.arc-cdn.net/resizer/rxiqTLk_HIp5uRapNtxI__uaLfo=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/newr7/DDJ6SBBFURF6TDVKZYBSPXA5YA.jpg",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
-  },
-  {
     "id": "st-793e582c",
     "slug": "e-permitido-usar-colinha-eleitoral-no-segundo-turno",
     "title": "É permitido usar 'colinha eleitoral' no segundo turno?",
@@ -2465,84 +4019,6 @@
       }
     ],
     "image": "https://s2-cbn.glbimg.com/IDz-1bS89ulO34NTbY2eDnAooeU=/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/d/H/PTk1IjQA6LeEABiMpllg/0d4a2050.jpg",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
-  },
-  {
-    "id": "st-bbc04943",
-    "slug": "pms-sao-acusados-de-obrigar-jovens-presos-por-suspeita-de-trafico-a-ve",
-    "title": "PMs são acusados de obrigar jovens presos por suspeita de tráfico a vestir camiseta do PT",
-    "summary": [
-      "Policiais militares de Piracicaba, no interior de São Paulo, são acusados de obrigar três suspeitos de tráfico de drogas a vestir camisetas da campanha do presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, antes de apresentá-los na delegacia",
-      "A mãe de um dos detidos e a deputada estadual Professora Bebel (PT) sustentam que a cena foi forjada",
-      "Foram presos em flagrante dois homens, de 21 e 24 anos, e apreendido um adolescente de 17, que foi encaminhado à Fundação Casa"
-    ],
-    "debate": "Em disputa: A PM nega ter sido informada, até o mome.",
-    "theme": "Segurança",
-    "region": "centro-oeste",
-    "state": "DF",
-    "articles": [
-      {
-        "id": "a-7f0f0443",
-        "sourceId": "journaldebrasilia",
-        "title": "PMs são acusados de obrigar jovens presos por suspeita de tráfico a vestir camiseta do PT",
-        "excerpt": "Policiais militares de Piracicaba, no interior de São Paulo, são acusados de obrigar três suspeitos de tráfico de drogas a vestir camisetas da campanha do presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, antes de apresentá-los na delegacia. A mãe de um dos detidos e a deputada estadual Professora Bebel (PT) sustentam que a cena foi forjada. A PM nega ter sido informada, até o mome",
-        "url": "https://jornaldebrasilia.com.br/noticias/brasil/pms-sao-acusados-de-obrigar-jovens-presos-por-suspeita-de-trafico-a-vestir-camiseta-do-pt/",
-        "publishedAt": "2026-10-22T17:31:02.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/10/22143017/5FNJBAHVMVHC7N4BRXKE36ZZQA.jpg"
-      },
-      {
-        "id": "a-db8c736e",
-        "sourceId": "jovempan",
-        "title": "PMs são acusados de obrigar presos por tráfico a vestir camiseta do PT em SP",
-        "excerpt": "Foram presos em flagrante dois homens, de 21 e 24 anos, e apreendido um adolescente de 17, que foi encaminhado à Fundação Casa",
-        "url": "https://jovempan.com.br/brasil/pms-sao-acusados-de-obrigar-presos-por-trafico-a-vestir-camiseta-do-pt-em-sp/",
-        "publishedAt": "2026-10-22T18:46:27.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true
-      }
-    ],
-    "image": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/10/22143017/5FNJBAHVMVHC7N4BRXKE36ZZQA.jpg",
-    "updatedAt": "2026-10-22T19:21:38.606Z"
-  },
-  {
-    "id": "st-e6feb1b5",
-    "slug": "juiza-ordena-que-trump-preste-depoimento-em-processo-contra-a-bbc-em-1",
-    "title": "Juíza ordena que Trump preste depoimento em processo contra a BBC em 11 de dezembro",
-    "summary": [
-      "Uma juíza americana estabeleceu o dia 11 de dezembro como prazo para que o presidente Donald Trump preste depoimento sob juramento no processo por difamação que ele moveu contra o veículo britânico BBC",
-      "A juíza Enjolique Lett, de Miami, tomou essa decisão em resposta às reclamações da BBC sobre a recusa de Trump em fornecer seu depoimento oral, após o cancelamento da data anteriormente acordada, 1",
-      "Presidente norte-americano processou a BBC e pediu 10 bilhões de dólares (R$ 50,3 bilhões) pela edição de um vídeo dele"
-    ],
-    "debate": "Em disputa: Juíza ordena que Trump preste depoimento em processo contra a BBC em 11 de dezembro.",
-    "theme": "Judiciário",
-    "region": "centro-oeste",
-    "state": "DF",
-    "articles": [
-      {
-        "id": "a-bbd1758c",
-        "sourceId": "journaldebrasilia",
-        "title": "Juíza ordena que Trump preste depoimento em processo contra a BBC em 11 de dezembro",
-        "excerpt": "Uma juíza americana estabeleceu o dia 11 de dezembro como prazo para que o presidente Donald Trump preste depoimento sob juramento no processo por difamação que ele moveu contra o veículo britânico BBC. A juíza Enjolique Lett, de Miami, tomou essa decisão em resposta às reclamações da BBC sobre a recusa de Trump em fornecer seu depoimento oral, após o cancelamento da data anteriormente acordada, 1",
-        "url": "https://jornaldebrasilia.com.br/noticias/mundo/juiza-ordena-que-trump-preste-depoimento-em-processo-contra-a-bbc-em-11-de-dezembro/",
-        "publishedAt": "2026-10-22T17:36:45.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true,
-        "image": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/09/19125243/AFP__20260918__C8QM3XX__v1__MidRes__UsPresidentDonaldTrumpMakesAnAnnouncementOnHealt.jpg"
-      },
-      {
-        "id": "a-0de82342",
-        "sourceId": "jovempan",
-        "title": "Juíza ordena que Trump preste depoimento em processo contra a BBC",
-        "excerpt": "Presidente norte-americano processou a BBC e pediu 10 bilhões de dólares (R$ 50,3 bilhões) pela edição de um vídeo dele",
-        "url": "https://jovempan.com.br/mundo/juiza-ordena-que-trump-preste-depoimento-em-processo-contra-a-bbc/",
-        "publishedAt": "2026-10-22T18:31:11.000Z",
-        "stance": "neutral",
-        "stanceEstimated": true
-      }
-    ],
-    "image": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/09/19125243/AFP__20260918__C8QM3XX__v1__MidRes__UsPresidentDonaldTrumpMakesAnAnnouncementOnHealt.jpg",
     "updatedAt": "2026-10-22T19:21:38.606Z"
   },
   {

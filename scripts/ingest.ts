@@ -1,4 +1,4 @@
-import { mkdir, writeFile } from 'node:fs/promises'
+import { mkdir, readFile, writeFile } from 'node:fs/promises'
 import path from 'node:path'
 import process from 'node:process'
 import { SOURCES } from '@/data/sources'
@@ -7,8 +7,9 @@ import { buildStories, resolveArticleSources } from '@/lib/ingest/build'
 import { clusterItems } from '@/lib/ingest/cluster'
 import { fetchText } from '@/lib/ingest/http'
 import { dedupeArticles, normalizeArticle } from '@/lib/ingest/normalize'
+import { mergeStories } from '@/lib/ingest/merge'
 import { parseFeed } from '@/lib/ingest/rss'
-import type { Article } from '@/types/analysis'
+import type { Article, Story } from '@/types/analysis'
 
 interface Args {
   dryRun: boolean
@@ -19,6 +20,9 @@ interface Args {
   concurrency: number
   threshold: number
   show: number
+  retentionDays: number
+  maxTotal: number
+  force: boolean
 }
 
 function parseArgs(argv: string[]): Args {
@@ -31,6 +35,9 @@ function parseArgs(argv: string[]): Args {
     concurrency: 4,
     threshold: 0.32,
     show: 8,
+    retentionDays: 7,
+    maxTotal: 200,
+    force: false,
   }
 
   for (const raw of argv) {
@@ -41,6 +48,10 @@ function parseArgs(argv: string[]): Args {
     else if (raw.startsWith('--concurrency=')) args.concurrency = Number(raw.slice(14)) || 4
     else if (raw.startsWith('--threshold=')) args.threshold = Number(raw.slice(12)) || args.threshold
     else if (raw.startsWith('--show=')) args.show = Number(raw.slice(7)) || args.show
+    else if (raw.startsWith('--retention-days=')) {
+      args.retentionDays = Number(raw.slice(17)) || args.retentionDays
+    } else if (raw.startsWith('--max-total=')) args.maxTotal = Number(raw.slice(12)) || args.maxTotal
+    else if (raw === '--force') args.force = true
     else if (raw.startsWith('--source=')) {
       args.only = raw
         .slice(9)
@@ -84,9 +95,13 @@ interface FeedOutcome extends FeedReport {
   articles: Article[]
 }
 
-async function collect(args: Args): Promise<{ articles: Article[]; reports: FeedReport[] }> {
+async function collect(
+  args: Args,
+  onlyOverride?: string[],
+): Promise<{ articles: Article[]; reports: FeedReport[] }> {
+  const selected = onlyOverride ?? args.only
   const sourceIds = Object.keys(FEEDS).filter(
-    (id) => args.only.length === 0 || args.only.includes(id),
+    (id) => selected.length === 0 || selected.includes(id),
   )
   const now = new Date().toISOString()
 
@@ -162,6 +177,20 @@ function run(articles: Article[], args: Args): { stories: ReturnType<typeof buil
   }
 }
 
+function sleep(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms))
+}
+
+async function loadPrevious(outDir: string): Promise<Story[]> {
+  try {
+    const raw = await readFile(path.join(outDir, 'stories.json'), 'utf8')
+    const parsed: unknown = JSON.parse(raw)
+    return Array.isArray(parsed) ? (parsed as Story[]) : []
+  } catch {
+    return []
+  }
+}
+
 async function main(): Promise<void> {
   const args = parseArgs(process.argv.slice(2))
   const startedAt = Date.now()
@@ -171,9 +200,23 @@ async function main(): Promise<void> {
     `janela: ${args.windowHours}h · feeds: ${Object.keys(FEEDS).length} · concorrência: ${args.concurrency}${args.dryRun ? ' · DRY-RUN' : ''}\n`,
   )
 
-  const { articles, reports } = await collect(args)
+  let { articles, reports } = await collect(args)
+  let failed = reports.filter((report) => !report.ok)
 
-  const failed = reports.filter((report) => !report.ok)
+  if (failed.length > 0) {
+    const retryIds = failed.map((report) => report.sourceId)
+    console.log(`\n${retryIds.length} feed(s) falharam; nova tentativa em 5s: ${retryIds.join(', ')}`)
+    await sleep(5_000)
+    const retried = await collect(args, retryIds)
+    const retryReports = new Map(retried.reports.map((report) => [report.sourceId, report]))
+    reports = reports.map((report) => retryReports.get(report.sourceId) ?? report)
+    const retriedIds = new Set(retried.articles.map((article) => article.sourceId))
+    articles = [
+      ...articles.filter((article) => !retriedIds.has(article.sourceId)),
+      ...retried.articles,
+    ]
+    failed = reports.filter((report) => !report.ok)
+  }
   for (const report of reports) {
     const mark = report.ok ? 'ok  ' : 'erro'
     const detail = report.ok ? `${report.items} itens` : (report.error ?? '')
@@ -188,7 +231,14 @@ async function main(): Promise<void> {
 
   const { stories, stats } = run(filtered, args)
 
-  const sourceIds = new Set(stories.flatMap((story) => story.articles.map((a) => a.sourceId)))
+  const previous = await loadPrevious(args.outDir)
+  const merged = mergeStories(stories, previous, SOURCES, {
+    retentionDays: args.retentionDays,
+    maxStories: args.maxTotal,
+    maxArticlesPerStory: 12,
+  })
+  const dataset = merged.stories
+  const sourceIds = new Set(dataset.flatMap((story) => story.articles.map((a) => a.sourceId)))
 
   console.log(`\n  feeds ok:            ${reports.length - failed.length}/${reports.length}`)
   console.log(`  artigos brutos:      ${articles.length}`)
@@ -196,7 +246,11 @@ async function main(): Promise<void> {
   console.log(`  artigos únicos:      ${stats.artigos}`)
   console.log(`  pares avaliados:     ${stats.pares}`)
   console.log(`  grupos formados:     ${stats.grupos}`)
-  console.log(`  histórias com 2+:    ${stats.historias}`)
+  console.log(`  histórias novas:     ${stats.historias}`)
+  console.log(`  absorvidas:          ${merged.mergedStories}`)
+  console.log(`  mantidas (${args.retentionDays}d):      ${merged.retainedStories}`)
+  console.log(`  expiradas:           ${merged.expiredStories}`)
+  console.log(`  no dataset:          ${dataset.length}`)
   console.log(`  veículos cobrindo:   ${sourceIds.size}`)
   console.log(`  tempo:               ${((Date.now() - startedAt) / 1000).toFixed(1)}s`)
 
@@ -206,9 +260,18 @@ async function main(): Promise<void> {
     return
   }
 
+  const feedsOk = reports.length - failed.length
+  if (!args.force && !args.dryRun && args.only.length === 0 && feedsOk < Math.ceil(reports.length / 2)) {
+    console.error(
+      `\nApenas ${feedsOk}/${reports.length} feeds responderam; nada foi gravado (use --force para ignorar).`,
+    )
+    process.exitCode = 1
+    return
+  }
+
   if (args.dryRun) {
     console.log('\nDRY-RUN: nada foi gravado.')
-    for (const story of stories.slice(0, args.show)) {
+    for (const story of dataset.slice(0, args.show)) {
       const sources = story.articles.map((a) => a.sourceId).join(', ')
       console.log(`  · [${story.articles.length}] ${story.title}`)
       console.log(`    ${story.theme} · ${story.region} · ${sources}`)
@@ -216,17 +279,30 @@ async function main(): Promise<void> {
     return
   }
 
+  const datasetArticles = dataset.flatMap((story) => story.articles)
+  const oldest = datasetArticles.reduce(
+    (value, article) => Math.min(value, Date.parse(article.publishedAt)),
+    Number.POSITIVE_INFINITY,
+  )
+
   const manifest = {
     generatedAt: new Date().toISOString(),
     windowHours: args.windowHours,
-    stories: stories.length,
+    retentionDays: args.retentionDays,
+    stories: dataset.length,
+    freshStories: stories.length,
+    mergedStories: merged.mergedStories,
+    retainedStories: merged.retainedStories,
+    expiredStories: merged.expiredStories,
     articles: filtered.length,
+    datasetArticles: datasetArticles.length,
+    oldestArticleAt: Number.isFinite(oldest) ? new Date(oldest).toISOString() : null,
     sourcesWithData: sourceIds.size,
     feeds: reports,
   }
 
   await mkdir(args.outDir, { recursive: true })
-  await writeFile(path.join(args.outDir, 'stories.json'), `${JSON.stringify(stories, null, 2)}\n`, 'utf8')
+  await writeFile(path.join(args.outDir, 'stories.json'), `${JSON.stringify(dataset, null, 2)}\n`, 'utf8')
   await writeFile(path.join(args.outDir, 'manifest.json'), `${JSON.stringify(manifest, null, 2)}\n`, 'utf8')
 
   console.log(`\nGravado em ${path.relative(process.cwd(), args.outDir)}/`)
