@@ -92,18 +92,55 @@ Como a coleta funciona:
 3. agrupa artigos por similaridade TF-IDF num DSU com restrições de janela (72 h) e de fontes;
 4. escolhe o título medoide, o tema majoritário e a região/estado do veículo que publicou primeiro;
 5. gera resumo extrativo (TF-IDF) e a frase de divergência ("O que está em debate");
-6. grava `stories.json` + `manifest.json` (data da coleta, feeds OK, artigos na janela).
+6. **absorve** o dataset anterior (casando por URL de artigo, preservando `slug` e `id`);
+7. descarta histórias cujo artigo mais recente passou de **7 dias**;
+8. grava `stories.json` + `manifest.json` (data da coleta, feeds OK, artigos na janela, absorvidas,
+   mantidas e expiradas).
 
 Limitações declaradas na metodologia:
 
 - **Cobertura** — 25 dos 40 veículos curados têm feed; a região **Sul** não está representada. A
   maioria das histórias tem 2–4 veículos, então a assimetria é sinalizada só quando há ≥ 5.
+- **Retenção** — cada rodada busca as últimas 96 h e mantém as histórias por 7 dias, mesmo que
+  saiam da janela de coleta. Depois disso, somem.
 - **Ratings editoriais** — ideologia, tipo e região continuam **manuais** (nenhuma fonte pública
   classifica o viés da imprensa brasileira). O join é por domínio.
 - **Tom** — estimado por um léxico pt-BR conservador. É um rótulo de *tom do texto* ("Tom:
   positivo/negativo"), não a posição editorial do veículo; o padrão é neutro.
 - **Links** — apontam para a matéria original no site do veículo; feeds pagos/instáveis podem
   falhar em uma rodada e voltar na seguinte.
+
+## Atualização automática
+
+O repositório tem dois workflows em `.github/workflows/`:
+
+- **`ingest.yml`** — diariamente às **06:17 BRT** (`17 9 * * *` UTC) roda `npm run ingest`, valida com
+  type-check e testes, e commita `src/data/generated/` como `chao-brasil-bot`. Também pode ser
+  disparado manualmente em *Actions → ingest → Run workflow*.
+- **`ci.yml`** — em push/PR para `main`: type-check, testes e build.
+
+O worker tem dois guardas contra dias ruins: se **menos da metade dos feeds** responder ou se
+**nenhuma história** for formada, ele sai com erro e **não sobrescreve** o dataset. Para ignorar,
+rode `npm run ingest -- --force`.
+
+Se o Cron do GitHub atrasar ou pular um dia, nada quebra: a próxima rodada ainda encontra as
+histórias dentro da retenção de 7 dias.
+
+## Deploy no Cloudflare Pages
+
+Conecte o repositório `pdscience/groundbrnews` em **Workers & Pages → Create → Pages → Connect to
+Git** com:
+
+| Campo | Valor |
+|---|---|
+| Build command | `npm run build` |
+| Build output directory | `dist` |
+| Root directory | `/` |
+| Variável de ambiente | `NODE_VERSION=22.18.0` |
+
+`public/_redirects` já faz o fallback de SPA (`/* /index.html 200`), necessário porque o router usa
+`createWebHistory`. Cada commit diário do bot dispara um novo deploy; se o build falhar, a versão
+anterior continua no ar. O plano gratuito cobre folgado 1 deploy/dia.
 
 Para trocar a fonte, basta sobrescrever `src/data/generated/stories.json` — o cálculo, a interface e
 os testes são independentes. Ver o [design doc](docs/superpowers/specs/2026-10-22-chao-brasil-design.md)
