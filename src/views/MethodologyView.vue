@@ -1,6 +1,12 @@
 <script setup lang="ts">
 import { LENSES, LENS_ORDER } from '@/data/levels'
-import { DATASET_KIND } from '@/data/brand'
+import { computed } from 'vue'
+import { COVERED_SOURCES, DATASET_KIND, DATASET_META, SOURCES } from '@/data'
+import { formatDateTime } from '@/lib/format'
+
+const collectedAt = computed(() =>
+  DATASET_META ? formatDateTime(DATASET_META.generatedAt) : null,
+)
 </script>
 
 <template>
@@ -75,14 +81,26 @@ import { DATASET_KIND } from '@/data/brand'
 
       <section class="cb-panel">
         <h2>Sobre os dados</h2>
-        <p class="lead">
+        <p v-if="DATASET_KIND === 'real'" class="lead">
+          As reportagens são coletadas dos feeds RSS dos veículos, agrupadas automaticamente por
+          similaridade de título e trecho, e exibidas com link direto para a matéria original. Nesta
+          coleta, {{ COVERED_SOURCES.length }} de {{ SOURCES.length }} veículos publicaram sobre as
+          histórias exibidas. Os ratings editoriais continuam sendo curados manualmente — nenhuma
+          fonte pública oferece classificação de viés para a imprensa brasileira.
+        </p>
+        <p v-if="DATASET_KIND === 'real' && DATASET_META" class="lead">
+          Última coleta em {{ collectedAt }}. O agrupamento considera uma janela de
+          {{ DATASET_META.windowHours }} horas e exige ao menos dois veículos distintos por história.
+        </p>
+        <p v-if="DATASET_KIND === 'real'" class="lead">
+          O tom de cada artigo é estimado por um léxico de apoio e crítica da língua portuguesa. Ele
+          descreve o enquadramento do texto, não a posição editorial do veículo, e por isso aparece
+          sempre identificado como estimado.
+        </p>
+        <p v-else class="lead">
           Este é um dataset {{ DATASET_KIND }}. Os veículos e seus ratings editoriais são reais e
           foram atribuídos a dedo segundo as linhas editoriais de cada veículo; as histórias, os
           títulos e os excertos são ilustrativos, e os links apontam para URLs de exemplo.
-        </p>
-        <p class="lead">
-          A arquitetura foi desenhada para que a troca por dados reais aconteça apenas na camada de
-          dados — o cálculo, a interface e os testes permanecem iguais.
         </p>
       </section>
     </div>

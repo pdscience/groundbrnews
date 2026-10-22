@@ -5,5 +5,3 @@ export const BRAND = {
   accentSoft: '#ecfdf5',
   logoMark: 'CB',
 } as const
-
-export const DATASET_KIND = 'demonstrativo' as const

@@ -70,6 +70,10 @@ export interface Article {
   url: string
   publishedAt: string
   stance: Stance
+  /** Imagem de capa extraída do feed, quando disponível. */
+  image?: string
+  /** `true` quando o tom foi inferido por léxico, não por curadoria editorial. */
+  stanceEstimated?: boolean
 }
 
 export interface Story {
@@ -82,4 +86,8 @@ export interface Story {
   region: RegionLevel
   state: string
   articles: Article[]
+  /** Imagem de capa da história, quando disponível. */
+  image?: string
+  /** Última atualização da coleta que gerou a história. */
+  updatedAt?: string
 }

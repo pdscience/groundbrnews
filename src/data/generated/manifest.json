@@ -1,0 +1,136 @@
+{
+  "generatedAt": "2026-10-22T19:21:38.765Z",
+  "windowHours": 96,
+  "stories": 59,
+  "articles": 679,
+  "sourcesWithData": 18,
+  "feeds": [
+    {
+      "sourceId": "folha",
+      "ok": false,
+      "items": 0,
+      "error": "fetch failed"
+    },
+    {
+      "sourceId": "globo",
+      "ok": true,
+      "items": 60
+    },
+    {
+      "sourceId": "estadao",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "sourceId": "valor",
+      "ok": true,
+      "items": 60
+    },
+    {
+      "sourceId": "g1",
+      "ok": true,
+      "items": 60
+    },
+    {
+      "sourceId": "uol",
+      "ok": true,
+      "items": 13
+    },
+    {
+      "sourceId": "metropoles",
+      "ok": true,
+      "items": 60
+    },
+    {
+      "sourceId": "cnnbrasil",
+      "ok": true,
+      "items": 60
+    },
+    {
+      "sourceId": "poder360",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "sourceId": "infomoney",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "sourceId": "moneytimes",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "sourceId": "r7",
+      "ok": true,
+      "items": 59
+    },
+    {
+      "sourceId": "terra",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "sourceId": "sbt",
+      "ok": true,
+      "items": 60
+    },
+    {
+      "sourceId": "record",
+      "ok": true,
+      "items": 60
+    },
+    {
+      "sourceId": "cbn",
+      "ok": true,
+      "items": 60
+    },
+    {
+      "sourceId": "jovempan",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "sourceId": "atarde",
+      "ok": true,
+      "items": 50
+    },
+    {
+      "sourceId": "journaldebrasilia",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "sourceId": "diariodopara",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "sourceId": "contrapoder",
+      "ok": false,
+      "items": 0,
+      "error": "fetch failed"
+    },
+    {
+      "sourceId": "nexojornal",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "sourceId": "jacobin",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "sourceId": "canaltech",
+      "ok": true,
+      "items": 50
+    },
+    {
+      "sourceId": "agenciabrasil",
+      "ok": true,
+      "items": 10
+    }
+  ]
+}

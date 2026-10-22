@@ -1,0 +1,30 @@
+export const FEEDS: Record<string, string> = {
+  folha: 'https://feeds.folha.uol.com.br/emcimadahora/rss091.xml',
+  globo: 'https://oglobo.globo.com/rss/oglobo',
+  estadao:
+    'https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/geral/?body=%7B%22layout%22:%22google-news%22%7D',
+  valor: 'https://valor.globo.com/rss/valor',
+  g1: 'https://g1.globo.com/rss/g1/brasil/',
+  uol: 'https://uol.com.br/rss.xml',
+  metropoles: 'https://metropoles.com/sitemap/google-news.xml',
+  cnnbrasil: 'https://cnnbrasil.com.br/feed/',
+  poder360: 'https://poder360.com.br/feed/',
+  infomoney: 'https://infomoney.com.br/feed/',
+  moneytimes: 'https://moneytimes.com.br/feed/',
+  r7: 'https://r7.com/arc/outboundfeeds/rss/?outputType=xml',
+  terra: 'https://terra.com.br/rss/',
+  sbt: 'https://sbtnews.com.br/rss.xml',
+  record: 'https://record.r7.com/arc/outboundfeeds/rss/?outputType=xml',
+  cbn: 'https://cbn.globo.com/rss/cbn/',
+  jovempan: 'https://jovempan.com.br/feed/',
+  atarde: 'https://atarde.com.br/rss',
+  journaldebrasilia: 'https://jornaldebrasilia.com.br/feed/',
+  diariodopara: 'https://diariodopara.com.br/feed/',
+  contrapoder: 'https://contrapoder.com.br/feed/',
+  nexojornal: 'https://nexojornal.com.br/rss.xml',
+  jacobin: 'https://jacobin.com.br/feed/',
+  canaltech: 'https://canaltech.com.br/rss/',
+  agenciabrasil: 'https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml',
+}
+
+export const FEED_SOURCE_IDS: string[] = Object.keys(FEEDS)

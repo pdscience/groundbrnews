@@ -35,7 +35,7 @@ describe('aplicação', () => {
   it('monta o cabeçalho e o rodapé', async () => {
     const { wrapper } = await visit('/analises')
     expect(wrapper.text()).toContain('Chão Brasil')
-    expect(wrapper.text()).toContain('Dataset demonstrativo')
+    expect(wrapper.text()).toMatch(/Dados reais coletados em|Dataset demonstrativo/)
   })
 
   it('mostra o hub na raiz', async () => {

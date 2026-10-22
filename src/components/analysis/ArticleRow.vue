@@ -22,6 +22,23 @@ const RELIABILITY_LABEL: Record<Source['reliability'], string> = {
 }
 
 const relative = computed(() => formatRelativeTime(props.article.publishedAt, props.now))
+
+const showStance = computed(
+  () => !props.article.stanceEstimated || props.article.stance !== 'neutral',
+)
+
+const ESTIMATED_LABEL: Record<Article['stance'], string> = {
+  support: 'Tom: positivo',
+  critical: 'Tom: negativo',
+  neutral: 'Tom: neutro',
+  mixed: 'Tom: misto',
+}
+
+const stanceLabel = computed(() =>
+  props.article.stanceEstimated
+    ? ESTIMATED_LABEL[props.article.stance]
+    : STANCE_LABEL[props.article.stance],
+)
 </script>
 
 <template>
@@ -37,7 +54,7 @@ const relative = computed(() => formatRelativeTime(props.article.publishedAt, pr
           class="rel"
           :class="props.source.reliability"
         >{{ RELIABILITY_LABEL[props.source.reliability] }}</span>
-        <span class="stance">{{ STANCE_LABEL[props.article.stance] }}</span>
+        <span v-if="showStance" class="stance">{{ stanceLabel }}</span>
         <span class="time">{{ relative }}</span>
       </div>
       <a

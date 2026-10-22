@@ -9,7 +9,9 @@
     "preview": "vite preview",
     "test:unit": "vitest",
     "build-only": "vite build",
-    "type-check": "vue-tsc --build"
+    "type-check": "vue-tsc --build",
+    "ingest": "rolldown -c scripts/rolldown.config.mjs && node .ingest/ingest.js",
+    "ingest:dry": "rolldown -c scripts/rolldown.config.mjs && node .ingest/ingest.js --dry-run"
   },
   "dependencies": {
     "pinia": "^4.0.3",

@@ -1,6 +1,13 @@
 <script setup lang="ts">
+import { computed } from 'vue'
 import { RouterLink } from 'vue-router'
-import { BRAND, DATASET_KIND } from '@/data/brand'
+import { BRAND } from '@/data/brand'
+import { COVERED_SOURCES, DATASET_KIND, DATASET_META, SOURCES } from '@/data'
+import { formatDateTime } from '@/lib/format'
+
+const collectedAt = computed(() =>
+  DATASET_META ? formatDateTime(DATASET_META.generatedAt) : null,
+)
 </script>
 
 <template>
@@ -8,7 +15,12 @@ import { BRAND, DATASET_KIND } from '@/data/brand'
     <div class="cb-container inner">
       <p class="note">
         <strong>{{ BRAND.name }}</strong> — {{ BRAND.tagline }}.
-        <span class="disclaimer">
+        <span v-if="DATASET_KIND === 'real'" class="disclaimer">
+          Dados reais coletados em {{ collectedAt }} a partir de {{ COVERED_SOURCES.length }} de
+          {{ SOURCES.length }} veículos. O tom de cada artigo é estimado por léxico; os ratings
+          editoriais são curados manualmente.
+        </span>
+        <span v-else class="disclaimer">
           Dataset {{ DATASET_KIND }}: as histórias e os links são ilustrativos, com veículos reais e
           ratings editoriais atribuídos a dedo para fins de demonstração.
         </span>
