@@ -67,7 +67,7 @@ const vehicles = computed(() => (story.value ? storySources(story.value, SOURCES
       <section class="cb-panel">
         <LensSwitcher v-model="store.lens" />
         <BiasBar :slices="slices" size="lg" show-values />
-        <LevelLegend :lens="lensDef" />
+        <LevelLegend :lens="lensDef" :slices="slices" />
       </section>
 
       <section v-if="asym" class="cb-panel">
@@ -306,6 +306,7 @@ h3 {
   height: 10px;
   border-radius: 3px;
   display: inline-block;
+  box-shadow: inset 0 0 0 1px rgb(17 24 39 / 18%);
 }
 
 .count {

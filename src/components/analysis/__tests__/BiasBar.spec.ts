@@ -13,8 +13,8 @@ const level = (id: string, label: string, color: string): Level => ({
 })
 
 const slices: DistributionSlice[] = [
-  { level: level('left', 'Esquerda', '#4c6fe7'), count: 6, share: 0.6 },
-  { level: level('center', 'Centro', '#a6adb8'), count: 4, share: 0.4 },
+  { level: level('left', 'Esquerda', '#c62828'), count: 6, share: 0.6 },
+  { level: level('center', 'Centro', '#ffffff'), count: 4, share: 0.4 },
 ]
 
 describe('BiasBar', () => {
@@ -26,7 +26,7 @@ describe('BiasBar', () => {
   it('omite fatias zeradas', () => {
     const wrapper = mount(BiasBar, {
       props: {
-        slices: [...slices, { level: level('right', 'Direita', '#d9483c'), count: 0, share: 0 }],
+        slices: [...slices, { level: level('right', 'Direita', '#1565c0'), count: 0, share: 0 }],
       },
     })
     expect(wrapper.findAll('[data-test="segment"]')).toHaveLength(2)
@@ -51,6 +51,28 @@ describe('BiasBar', () => {
     expect(wrapper.text()).toContain('40%')
   })
 
+  it('aplica degradê conectando as cores dos segmentos', () => {
+    const wrapper = mount(BiasBar, { props: { slices } })
+    const styles = wrapper.findAll('[data-test="segment"]').map((segment) => segment.attributes('style'))
+    expect(styles[0]).toContain('linear-gradient')
+    expect(styles[0]).toContain('rgb(')
+  })
+
+  it('usa texto escuro sobre o centro branco e claro sobre o vermelho', () => {
+    const wrapper = mount(BiasBar, {
+      props: {
+        slices: [
+          { level: level('left', 'Esquerda', '#c62828'), count: 5, share: 0.5 },
+          { level: level('center', 'Centro', '#ffffff'), count: 5, share: 0.5 },
+        ],
+        showValues: true,
+      },
+    })
+    const values = wrapper.findAll('.value').map((value) => (value.element as HTMLElement).style.color)
+    expect(values[0]).toBe('rgb(255, 255, 255)')
+    expect(values[1]).toBe('rgb(17, 24, 39)')
+  })
+
   it('anuncia ausência de cobertura', () => {
     const wrapper = mount(BiasBar, { props: { slices: [] } })
     expect(wrapper.attributes('aria-label')).toContain('Nenhum veículo')
@@ -60,8 +82,8 @@ describe('BiasBar', () => {
     const wrapper = mount(BiasBar, {
       props: {
         slices: [
-          { level: level('left', 'Esquerda', '#4c6fe7'), count: 1, share: 0.06 },
-          { level: level('center', 'Centro', '#a6adb8'), count: 15, share: 0.94 },
+          { level: level('left', 'Esquerda', '#c62828'), count: 1, share: 0.06 },
+          { level: level('center', 'Centro', '#ffffff'), count: 15, share: 0.94 },
         ],
         showValues: true,
       },

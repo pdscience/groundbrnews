@@ -188,6 +188,7 @@ h3 {
   height: 10px;
   border-radius: 3px;
   flex: none;
+  box-shadow: inset 0 0 0 1px rgb(17 24 39 / 18%);
 }
 
 .rules {

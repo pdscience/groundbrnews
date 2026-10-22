@@ -89,6 +89,9 @@ const summary = computed(() => {
           :width="segment.width"
           :height="segment.height"
           :fill="segment.level.color"
+          stroke="#111827"
+          stroke-opacity="0.12"
+          stroke-width="0.75"
           rx="2"
         >
           <title>{{ segment.level.label }} — {{ segment.value }} veículos</title>
