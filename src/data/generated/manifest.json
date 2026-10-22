@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-22T21:29:42.032Z",
+  "generatedAt": "2026-10-22T21:51:11.450Z",
   "windowHours": 96,
   "retentionDays": 7,
-  "stories": 86,
-  "freshStories": 49,
-  "mergedStories": 49,
-  "retainedStories": 37,
+  "stories": 104,
+  "freshStories": 59,
+  "mergedStories": 41,
+  "retainedStories": 45,
   "expiredStories": 0,
-  "articles": 692,
-  "datasetArticles": 243,
+  "articles": 752,
+  "datasetArticles": 302,
   "oldestArticleAt": "2026-10-20T19:24:06.000Z",
   "sourcesWithData": 20,
   "feeds": [
@@ -49,9 +49,8 @@
     },
     {
       "sourceId": "cnnbrasil",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 403"
+      "ok": true,
+      "items": 60
     },
     {
       "sourceId": "poder360",
