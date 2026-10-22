@@ -9,7 +9,7 @@ import { DATASET_KIND } from '@/data/brand'
       <header class="head">
         <h1>Metodologia</h1>
         <p class="sub">
-          Como o Chão Brasil classifica veículos, agrupa Reporting e sinaliza assimetrias de
+          Como o Chão Brasil classifica veículos, agrupa reportagens e sinaliza assimetrias de
           cobertura.
         </p>
       </header>
@@ -68,7 +68,7 @@ import { DATASET_KIND } from '@/data/brand'
         <p class="lead">
           Cada veículo recebe um nível de confiabilidade editorial — alta, média ou baixa — que
           aparece ao lado do nome do veículo e pode ser usado como filtro no hub. Ele não entra no
-          cálculo da assimetria: serve para que o leitor know o peso de cada fonte ao interpretar o
+          cálculo da assimetria: serve para que o leitor conheça o peso de cada fonte ao interpretar o
           gráfico.
         </p>
       </section>
@@ -77,7 +77,7 @@ import { DATASET_KIND } from '@/data/brand'
         <h2>Sobre os dados</h2>
         <p class="lead">
           Este é um dataset {{ DATASET_KIND }}. Os veículos e seus ratings editoriais são reais e
-          foram atribuídos a dedo segundo as linhas editoriais de cada outlets; as histórias, os
+          foram atribuídos a dedo segundo as linhas editoriais de cada veículo; as histórias, os
           títulos e os excertos são ilustrativos, e os links apontam para URLs de exemplo.
         </p>
         <p class="lead">
