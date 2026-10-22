@@ -39,7 +39,10 @@ Domínio-first: todo o cálculo vive em funções puras, testadas; a UI é apres
 ```
 src/
   types/analysis.ts     → tipos do domínio e uniões literais das 3 lentes
-  data/                 → brand, levels, sources (40 veículos), stories (18 histórias), index
+  data/                 → brand, levels, sources (40 veículos), feeds, stories, index
+  data/generated/       → stories.json + manifest.json produzidos pela ingestão
+  lib/ingest/           → coleta, parsing, clustering, tema, tom e resumo
+  scripts/              → orquestrador da ingestão (Node + rolldown)
   lib/analysis.ts       → distribution, asymmetry, coverageTimeline, firstReported, compareSources…
   lib/format.ts         → formatação pt-BR (percentual, data, tempo relativo)
   stores/analysis.ts    → Pinia: lente ativa, filtros, ordenação
@@ -66,18 +69,42 @@ npm run dev          # servidor de desenvolvimento
 npm run test:unit    # Vitest em modo watch (use -- --run para uma execução única)
 npm run type-check   # vue-tsc
 npm run build        # type-check + build de produção
+npm run ingest       # coleta os feeds e regrava src/data/generated/
+npm run ingest:dry   # roda sem gravar e imprime as histórias agrupadas
 ```
+
+Flags úteis da ingestão: `--window=96` (horas), `--threshold=0.32` (similaridade do clustering),
+`--stories=70` (máximo), `--source=folha` (um veículo só), `--show=20` (histórias no log).
 
 > O `.npmrc` do projeto define `legacy-peer-deps=true`: o npm 9 acerta um bug do arborist
 > (`edgesOut`) ao resolver o grafo de peer dependencies deste stack.
 
 ## Sobre os dados
 
-O dataset é **demonstrativo**. Os veículos e seus ratings editoriais são reais e foram atribuídos a
-dedo segundo as linhas editoriais de cada outlet; as histórias, títulos e excertos são ilustrativos
-e os links apontam para URLs de exemplo. Isso é declarado no rodapé e na página de metodologia.
+Os dados são **reais**, coletados dos feeds RSS dos veículos e versionados em
+`src/data/generated/stories.json` (a coleta é offline: `npm run ingest`). O site é estático — não
+há servidor, chave de API nem CORS em tempo de execução.
 
-A arquitetura foi desenhada para que a troca por dados reais aconteça **apenas na camada de dados**
-(`src/data/`) — o cálculo, a interface e os testes permanecem iguais. Ver o
-[design doc](docs/superpowers/specs/2026-10-22-chao-brasil-design.md) e o
-[plano de implementação](docs/superpowers/plans/2026-10-22-chao-brasil.md).
+Como a coleta funciona:
+
+1. baixa os feeds de `src/data/feeds.ts` (25 veículos com RSS/sitemap, com rate-limit por host);
+2. normaliza URL, data e título e descarta duplicatas;
+3. agrupa artigos por similaridade TF-IDF num DSU com restrições de janela (72 h) e de fontes;
+4. escolhe o título medoide, o tema majoritário e a região/estado do veículo que publicou primeiro;
+5. gera resumo extrativo (TF-IDF) e a frase de divergência ("O que está em debate");
+6. grava `stories.json` + `manifest.json` (data da coleta, feeds OK, artigos na janela).
+
+Limitações declaradas na metodologia:
+
+- **Cobertura** — 25 dos 40 veículos curados têm feed; a região **Sul** não está representada. A
+  maioria das histórias tem 2–4 veículos, então a assimetria é sinalizada só quando há ≥ 5.
+- **Ratings editoriais** — ideologia, tipo e região continuam **manuais** (nenhuma fonte pública
+  classifica o viés da imprensa brasileira). O join é por domínio.
+- **Tom** — estimado por um léxico pt-BR conservador. É um rótulo de *tom do texto* ("Tom:
+  positivo/negativo"), não a posição editorial do veículo; o padrão é neutro.
+- **Links** — apontam para a matéria original no site do veículo; feeds pagos/instáveis podem
+  falhar em uma rodada e voltar na seguinte.
+
+Para trocar a fonte, basta sobrescrever `src/data/generated/stories.json` — o cálculo, a interface e
+os testes são independentes. Ver o [design doc](docs/superpowers/specs/2026-10-22-chao-brasil-design.md)
+e o [plano de implementação](docs/superpowers/plans/2026-10-22-chao-brasil.md).
