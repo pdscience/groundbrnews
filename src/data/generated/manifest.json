@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-23T14:15:44.483Z",
+  "generatedAt": "2026-10-24T13:20:56.087Z",
   "windowHours": 96,
   "retentionDays": 7,
-  "stories": 171,
-  "freshStories": 76,
-  "mergedStories": 9,
-  "retainedStories": 95,
+  "stories": 200,
+  "freshStories": 59,
+  "mergedStories": 3,
+  "retainedStories": 168,
   "expiredStories": 0,
-  "articles": 752,
-  "datasetArticles": 488,
+  "articles": 754,
+  "datasetArticles": 587,
   "oldestArticleAt": "2026-10-20T19:24:06.000Z",
-  "sourcesWithData": 20,
+  "sourcesWithData": 21,
   "feeds": [
     {
       "sourceId": "folha",
@@ -40,12 +40,12 @@
     {
       "sourceId": "uol",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "sourceId": "metropoles",
       "ok": true,
-      "items": 60
+      "items": 59
     },
     {
       "sourceId": "cnnbrasil",
