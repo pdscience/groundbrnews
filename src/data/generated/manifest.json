@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-25T13:43:54.117Z",
+  "generatedAt": "2026-10-26T16:08:56.374Z",
   "windowHours": 96,
   "retentionDays": 7,
   "stories": 200,
-  "freshStories": 63,
-  "mergedStories": 4,
-  "retainedStories": 195,
+  "freshStories": 79,
+  "mergedStories": 1,
+  "retainedStories": 199,
   "expiredStories": 0,
-  "articles": 739,
-  "datasetArticles": 657,
+  "articles": 731,
+  "datasetArticles": 707,
   "oldestArticleAt": "2026-10-20T19:24:06.000Z",
   "sourcesWithData": 21,
   "feeds": [
     {
       "sourceId": "folha",
       "ok": true,
-      "items": 60
+      "items": 59
     },
     {
       "sourceId": "globo",
@@ -70,7 +70,7 @@
     {
       "sourceId": "r7",
       "ok": true,
-      "items": 59
+      "items": 60
     },
     {
       "sourceId": "terra",
