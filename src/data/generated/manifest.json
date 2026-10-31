@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-29T16:08:48.072Z",
+  "generatedAt": "2026-10-31T15:21:12.108Z",
   "windowHours": 96,
   "retentionDays": 7,
-  "stories": 200,
-  "freshStories": 59,
-  "mergedStories": 2,
-  "retainedStories": 198,
-  "expiredStories": 0,
-  "articles": 740,
-  "datasetArticles": 891,
-  "oldestArticleAt": "2026-10-20T19:24:06.000Z",
+  "stories": 187,
+  "freshStories": 65,
+  "mergedStories": 0,
+  "retainedStories": 122,
+  "expiredStories": 78,
+  "articles": 743,
+  "datasetArticles": 738,
+  "oldestArticleAt": "2026-10-22T19:22:39.000Z",
   "sourcesWithData": 22,
   "feeds": [
     {
@@ -40,12 +40,12 @@
     {
       "sourceId": "uol",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "sourceId": "metropoles",
       "ok": true,
-      "items": 60
+      "items": 59
     },
     {
       "sourceId": "cnnbrasil",
