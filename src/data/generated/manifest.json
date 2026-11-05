@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-04T17:17:43.886Z",
+  "generatedAt": "2026-11-05T17:26:04.346Z",
   "windowHours": 96,
   "retentionDays": 7,
   "stories": 200,
-  "freshStories": 56,
-  "mergedStories": 1,
-  "retainedStories": 181,
-  "expiredStories": 18,
-  "articles": 713,
-  "datasetArticles": 742,
-  "oldestArticleAt": "2026-10-22T19:22:39.000Z",
-  "sourcesWithData": 20,
+  "freshStories": 69,
+  "mergedStories": 0,
+  "retainedStories": 170,
+  "expiredStories": 30,
+  "articles": 734,
+  "datasetArticles": 720,
+  "oldestArticleAt": "2026-10-30T00:41:04.000Z",
+  "sourcesWithData": 19,
   "feeds": [
     {
       "sourceId": "folha",
@@ -40,7 +40,7 @@
     {
       "sourceId": "uol",
       "ok": true,
-      "items": 16
+      "items": 19
     },
     {
       "sourceId": "metropoles",
@@ -119,9 +119,8 @@
     },
     {
       "sourceId": "nexojornal",
-      "ok": false,
-      "items": 0,
-      "error": "fetch failed"
+      "ok": true,
+      "items": 20
     },
     {
       "sourceId": "jacobin",
