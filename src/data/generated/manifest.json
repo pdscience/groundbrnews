@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-05T17:26:04.346Z",
+  "generatedAt": "2026-11-06T16:47:16.296Z",
   "windowHours": 96,
   "retentionDays": 7,
   "stories": 200,
-  "freshStories": 69,
-  "mergedStories": 0,
-  "retainedStories": 170,
-  "expiredStories": 30,
-  "articles": 734,
-  "datasetArticles": 720,
+  "freshStories": 68,
+  "mergedStories": 2,
+  "retainedStories": 198,
+  "expiredStories": 0,
+  "articles": 733,
+  "datasetArticles": 771,
   "oldestArticleAt": "2026-10-30T00:41:04.000Z",
-  "sourcesWithData": 19,
+  "sourcesWithData": 20,
   "feeds": [
     {
       "sourceId": "folha",
@@ -40,7 +40,7 @@
     {
       "sourceId": "uol",
       "ok": true,
-      "items": 19
+      "items": 11
     },
     {
       "sourceId": "metropoles",
