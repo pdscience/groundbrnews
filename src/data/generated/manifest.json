@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-07T15:40:26.395Z",
+  "generatedAt": "2026-11-08T15:59:14.726Z",
   "windowHours": 96,
   "retentionDays": 7,
   "stories": 200,
-  "freshStories": 53,
-  "mergedStories": 4,
-  "retainedStories": 168,
-  "expiredStories": 28,
-  "articles": 745,
-  "datasetArticles": 778,
-  "oldestArticleAt": "2026-10-30T00:41:04.000Z",
+  "freshStories": 56,
+  "mergedStories": 9,
+  "retainedStories": 171,
+  "expiredStories": 20,
+  "articles": 742,
+  "datasetArticles": 782,
+  "oldestArticleAt": "2026-10-31T18:29:59.000Z",
   "sourcesWithData": 20,
   "feeds": [
     {
@@ -40,7 +40,7 @@
     {
       "sourceId": "uol",
       "ok": true,
-      "items": 15
+      "items": 19
     },
     {
       "sourceId": "metropoles",
