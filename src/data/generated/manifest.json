@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-13T17:13:55.040Z",
+  "generatedAt": "2026-11-14T15:50:20.939Z",
   "windowHours": 96,
   "retentionDays": 7,
   "stories": 200,
-  "freshStories": 59,
-  "mergedStories": 3,
-  "retainedStories": 173,
-  "expiredStories": 24,
-  "articles": 743,
-  "datasetArticles": 767,
-  "oldestArticleAt": "2026-11-06T09:00:00.000Z",
+  "freshStories": 45,
+  "mergedStories": 2,
+  "retainedStories": 182,
+  "expiredStories": 16,
+  "articles": 701,
+  "datasetArticles": 771,
+  "oldestArticleAt": "2026-11-06T17:04:33.000Z",
   "sourcesWithData": 21,
   "feeds": [
     {
@@ -30,7 +30,7 @@
     {
       "sourceId": "valor",
       "ok": true,
-      "items": 60
+      "items": 12
     },
     {
       "sourceId": "g1",
@@ -40,7 +40,7 @@
     {
       "sourceId": "uol",
       "ok": true,
-      "items": 10
+      "items": 15
     },
     {
       "sourceId": "metropoles",
@@ -70,7 +70,7 @@
     {
       "sourceId": "r7",
       "ok": true,
-      "items": 60
+      "items": 59
     },
     {
       "sourceId": "terra",
