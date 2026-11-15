@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-14T15:50:20.939Z",
+  "generatedAt": "2026-11-15T16:23:05.003Z",
   "windowHours": 96,
   "retentionDays": 7,
   "stories": 200,
-  "freshStories": 45,
-  "mergedStories": 2,
-  "retainedStories": 182,
-  "expiredStories": 16,
-  "articles": 701,
-  "datasetArticles": 771,
-  "oldestArticleAt": "2026-11-06T17:04:33.000Z",
-  "sourcesWithData": 21,
+  "freshStories": 64,
+  "mergedStories": 8,
+  "retainedStories": 173,
+  "expiredStories": 19,
+  "articles": 735,
+  "datasetArticles": 760,
+  "oldestArticleAt": "2026-11-08T13:43:36.000Z",
+  "sourcesWithData": 20,
   "feeds": [
     {
       "sourceId": "folha",
@@ -30,7 +30,7 @@
     {
       "sourceId": "valor",
       "ok": true,
-      "items": 12
+      "items": 56
     },
     {
       "sourceId": "g1",
@@ -70,7 +70,7 @@
     {
       "sourceId": "r7",
       "ok": true,
-      "items": 59
+      "items": 57
     },
     {
       "sourceId": "terra",
