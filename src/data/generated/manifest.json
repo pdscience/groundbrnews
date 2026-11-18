@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-17T18:36:58.879Z",
+  "generatedAt": "2026-11-18T18:06:02.175Z",
   "windowHours": 96,
   "retentionDays": 7,
   "stories": 200,
-  "freshStories": 70,
+  "freshStories": 75,
   "mergedStories": 1,
   "retainedStories": 173,
   "expiredStories": 26,
-  "articles": 738,
-  "datasetArticles": 740,
+  "articles": 737,
+  "datasetArticles": 745,
   "oldestArticleAt": "2026-11-09T17:02:01.000Z",
-  "sourcesWithData": 19,
+  "sourcesWithData": 20,
   "feeds": [
     {
       "sourceId": "folha",
       "ok": true,
-      "items": 60
+      "items": 59
     },
     {
       "sourceId": "globo",
@@ -40,7 +40,7 @@
     {
       "sourceId": "uol",
       "ok": true,
-      "items": 18
+      "items": 15
     },
     {
       "sourceId": "metropoles",
@@ -85,7 +85,7 @@
     {
       "sourceId": "record",
       "ok": true,
-      "items": 60
+      "items": 59
     },
     {
       "sourceId": "cbn",
